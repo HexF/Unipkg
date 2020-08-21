@@ -17,4 +17,7 @@ def parsedb(name, file):
         packages.write_package(pkginfo['NAME'], "arch", name)
 
 
-parsedb('core', 'core.db')
+if __name__ == "__main__":
+    import sys
+    assert len(sys.argv) == 3
+    parsedb(sys.argv[1], sys.argv[2])
