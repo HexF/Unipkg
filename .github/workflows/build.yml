@@ -22,7 +22,7 @@ jobs:
           # Here we don't need to create unique cache names because Make deals with all that for us!
           key: ${{ runner.os }}-cache
       - name: python dependencies
-        run: pip install -r requirements.txt
+        run: pip3 install -r requirements.txt
       - name: make
         run: make
       - name: Upload database

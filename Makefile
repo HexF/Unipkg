@@ -1,10 +1,13 @@
+PY=python3
+
 PKG_SCHEMA=package.schema.yaml
-PKG_BUILD=python scripts/buildpkg.py
+PKG_BUILD=$(PY) scripts/buildpkg.py
 
 BUILD_DIR=build
 OUTPUT_DIR=dist
 
-CONVERT_SCRIPT=python scripts/dumpdb.py
+
+CONVERT_SCRIPT=$(PY) scripts/dumpdb.py
 OUTPUT_FORMATS=yaml json toml
 
 
