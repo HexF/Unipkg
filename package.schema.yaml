@@ -1,0 +1,13 @@
+name: regex('^[a-z]+$')
+tags: list(include('tag'))
+
+---
+tag:
+  tag: regex('^[a-z]+$')
+  default: bool(required=False)
+  packages: list(include('package'))
+
+package:
+  distro: regex('^(arch|ubuntu)$')
+  package: str()
+  repo: str()
