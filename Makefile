@@ -6,10 +6,8 @@ PKG_BUILD=$(PY) scripts/buildpkg.py
 BUILD_DIR=build
 OUTPUT_DIR=dist
 
-
 CONVERT_SCRIPT=$(PY) scripts/dumpdb.py
 OUTPUT_FORMATS=yaml json toml
-
 
 COMMIT_SHA=$(shell git rev-parse HEAD)
 NUMBER_SEQ=$(shell git rev-list --count HEAD)
