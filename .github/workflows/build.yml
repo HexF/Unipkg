@@ -21,6 +21,11 @@ jobs:
           # An explicit key for restoring and saving the cache
           # Here we don't need to create unique cache names because Make deals with all that for us!
           key: ${{ runner.os }}-cache
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          # Version range or exact version of a Python version to use, using SemVer's version range syntax.
+          python-version: 3.8
       - name: python dependencies
         run: pip3 install -r requirements.txt
       - name: make
