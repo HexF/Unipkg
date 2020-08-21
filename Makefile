@@ -1,5 +1,3 @@
-
-
 PKG_SCHEMA=package.schema.yaml
 PKG_BUILD=python scripts/buildpkg.py
 
