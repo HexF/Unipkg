@@ -1,0 +1,8 @@
+name: libpst-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpst-docs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-crypt-passwdmd5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-crypt-passwdmd5
+    repo: extra
+  tag: stable

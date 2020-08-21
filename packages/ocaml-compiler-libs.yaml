@@ -1,0 +1,8 @@
+name: ocaml-compiler-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocaml-compiler-libs
+    repo: extra
+  tag: stable

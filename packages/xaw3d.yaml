@@ -1,0 +1,8 @@
+name: xaw3d
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xaw3d
+    repo: extra
+  tag: stable

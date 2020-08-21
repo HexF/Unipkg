@@ -1,0 +1,8 @@
+name: archlinux-appstream-data
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: archlinux-appstream-data
+    repo: extra
+  tag: stable

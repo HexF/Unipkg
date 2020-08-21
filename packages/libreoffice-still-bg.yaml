@@ -1,0 +1,8 @@
+name: libreoffice-still-bg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-bg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-io-socket-inet6
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-io-socket-inet6
+    repo: extra
+  tag: stable

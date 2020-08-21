@@ -1,0 +1,8 @@
+name: rrdtool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rrdtool
+    repo: extra
+  tag: stable

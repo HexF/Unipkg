@@ -1,0 +1,8 @@
+name: harfbuzz-icu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: harfbuzz-icu
+    repo: extra
+  tag: stable

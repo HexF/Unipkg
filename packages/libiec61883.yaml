@@ -1,0 +1,8 @@
+name: libiec61883
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libiec61883
+    repo: extra
+  tag: stable

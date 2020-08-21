@@ -1,0 +1,8 @@
+name: poppler
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: poppler
+    repo: extra
+  tag: stable

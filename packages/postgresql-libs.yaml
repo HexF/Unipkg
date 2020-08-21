@@ -1,0 +1,8 @@
+name: postgresql-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: postgresql-libs
+    repo: extra
+  tag: stable

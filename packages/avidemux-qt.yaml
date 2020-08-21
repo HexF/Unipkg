@@ -1,0 +1,8 @@
+name: avidemux-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: avidemux-qt
+    repo: extra
+  tag: stable

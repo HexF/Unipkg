@@ -1,0 +1,8 @@
+name: grantlee-editor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grantlee-editor
+    repo: extra
+  tag: stable

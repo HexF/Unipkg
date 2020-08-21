@@ -1,0 +1,8 @@
+name: xorg-xwd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xwd
+    repo: extra
+  tag: stable

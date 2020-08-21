@@ -1,0 +1,8 @@
+name: hicolor-icon-theme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hicolor-icon-theme
+    repo: extra
+  tag: stable

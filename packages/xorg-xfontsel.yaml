@@ -1,0 +1,8 @@
+name: xorg-xfontsel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xfontsel
+    repo: extra
+  tag: stable

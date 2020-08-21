@@ -1,0 +1,8 @@
+name: x11-ssh-askpass
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: x11-ssh-askpass
+    repo: extra
+  tag: stable

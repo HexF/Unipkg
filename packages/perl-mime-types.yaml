@@ -1,0 +1,8 @@
+name: perl-mime-types
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mime-types
+    repo: extra
+  tag: stable

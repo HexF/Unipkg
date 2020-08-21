@@ -1,0 +1,8 @@
+name: akonadi-calendar-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akonadi-calendar-tools
+    repo: extra
+  tag: stable

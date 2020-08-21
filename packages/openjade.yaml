@@ -1,0 +1,8 @@
+name: openjade
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjade
+    repo: extra
+  tag: stable

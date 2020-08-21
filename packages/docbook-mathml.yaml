@@ -1,0 +1,8 @@
+name: docbook-mathml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-mathml
+    repo: extra
+  tag: stable

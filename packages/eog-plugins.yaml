@@ -1,0 +1,8 @@
+name: eog-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: eog-plugins
+    repo: extra
+  tag: stable

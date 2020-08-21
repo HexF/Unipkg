@@ -1,0 +1,8 @@
+name: libvoikko
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvoikko
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libfreehand
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libfreehand
+    repo: extra
+  tag: stable

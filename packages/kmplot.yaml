@@ -1,0 +1,8 @@
+name: kmplot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmplot
+    repo: extra
+  tag: stable

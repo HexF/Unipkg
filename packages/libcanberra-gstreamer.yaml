@@ -1,0 +1,8 @@
+name: libcanberra-gstreamer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcanberra-gstreamer
+    repo: extra
+  tag: stable

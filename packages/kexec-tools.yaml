@@ -1,0 +1,8 @@
+name: kexec-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kexec-tools
+    repo: extra
+  tag: stable

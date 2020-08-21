@@ -1,0 +1,8 @@
+name: python-service-identity
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-service-identity
+    repo: extra
+  tag: stable

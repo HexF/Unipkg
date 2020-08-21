@@ -1,0 +1,8 @@
+name: hunspell-es-do
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell-es_do
+    repo: extra
+  tag: stable

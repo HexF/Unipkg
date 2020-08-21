@@ -1,0 +1,8 @@
+name: calligra-plan
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: calligra-plan
+    repo: extra
+  tag: stable

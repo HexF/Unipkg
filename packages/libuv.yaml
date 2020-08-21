@@ -1,0 +1,8 @@
+name: libuv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libuv
+    repo: extra
+  tag: stable

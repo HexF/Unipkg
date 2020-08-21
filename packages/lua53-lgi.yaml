@@ -1,0 +1,8 @@
+name: lua53-lgi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua53-lgi
+    repo: extra
+  tag: stable

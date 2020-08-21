@@ -1,0 +1,8 @@
+name: qemu-arch-extra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu-arch-extra
+    repo: extra
+  tag: stable

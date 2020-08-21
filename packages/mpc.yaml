@@ -1,0 +1,8 @@
+name: mpc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mpc
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: knights
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knights
+    repo: extra
+  tag: stable

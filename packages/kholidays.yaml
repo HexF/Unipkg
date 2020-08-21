@@ -1,0 +1,8 @@
+name: kholidays
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kholidays
+    repo: extra
+  tag: stable

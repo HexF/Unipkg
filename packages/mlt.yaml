@@ -1,0 +1,8 @@
+name: mlt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mlt
+    repo: extra
+  tag: stable

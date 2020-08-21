@@ -1,0 +1,8 @@
+name: perl-io-socket-ssl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-io-socket-ssl
+    repo: extra
+  tag: stable

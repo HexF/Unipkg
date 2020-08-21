@@ -1,0 +1,8 @@
+name: dleyna-core
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dleyna-core
+    repo: extra
+  tag: stable

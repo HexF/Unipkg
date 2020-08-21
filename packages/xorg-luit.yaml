@@ -1,0 +1,8 @@
+name: xorg-luit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-luit
+    repo: extra
+  tag: stable

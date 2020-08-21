@@ -1,0 +1,8 @@
+name: libreoffice-still-kmr-latn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-kmr-latn
+    repo: extra
+  tag: stable

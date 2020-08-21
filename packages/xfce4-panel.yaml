@@ -1,0 +1,8 @@
+name: xfce4-panel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-panel
+    repo: extra
+  tag: stable

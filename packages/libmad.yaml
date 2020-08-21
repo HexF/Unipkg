@@ -1,0 +1,8 @@
+name: libmad
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmad
+    repo: extra
+  tag: stable

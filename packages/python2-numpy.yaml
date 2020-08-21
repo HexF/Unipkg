@@ -1,0 +1,8 @@
+name: python2-numpy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-numpy
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ghostxps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ghostxps
+    repo: extra
+  tag: stable

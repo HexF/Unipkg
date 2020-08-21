@@ -1,0 +1,8 @@
+name: libgda-mysql
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgda-mysql
+    repo: extra
+  tag: stable

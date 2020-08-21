@@ -1,0 +1,8 @@
+name: vim-spell-rw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-rw
+    repo: extra
+  tag: stable

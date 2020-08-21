@@ -1,0 +1,8 @@
+name: gnome-getting-started-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-getting-started-docs
+    repo: extra
+  tag: stable

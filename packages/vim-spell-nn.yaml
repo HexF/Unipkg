@@ -1,0 +1,8 @@
+name: vim-spell-nn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-nn
+    repo: extra
+  tag: stable

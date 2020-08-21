@@ -1,0 +1,8 @@
+name: milou
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: milou
+    repo: extra
+  tag: stable

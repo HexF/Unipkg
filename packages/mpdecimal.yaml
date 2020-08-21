@@ -1,0 +1,8 @@
+name: mpdecimal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mpdecimal
+    repo: extra
+  tag: stable

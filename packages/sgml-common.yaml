@@ -1,0 +1,8 @@
+name: sgml-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sgml-common
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: cantor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cantor
+    repo: extra
+  tag: stable

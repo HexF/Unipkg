@@ -1,0 +1,8 @@
+name: python2-backports
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-backports
+    repo: extra
+  tag: stable

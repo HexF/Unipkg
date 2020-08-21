@@ -1,0 +1,8 @@
+name: akonadi-search
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akonadi-search
+    repo: extra
+  tag: stable

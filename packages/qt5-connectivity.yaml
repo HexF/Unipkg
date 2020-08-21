@@ -1,0 +1,8 @@
+name: qt5-connectivity
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-connectivity
+    repo: extra
+  tag: stable

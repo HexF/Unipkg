@@ -1,0 +1,8 @@
+name: gvfs-nfs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs-nfs
+    repo: extra
+  tag: stable

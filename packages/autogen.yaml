@@ -1,0 +1,8 @@
+name: autogen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: autogen
+    repo: extra
+  tag: stable

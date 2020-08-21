@@ -1,0 +1,8 @@
+name: kactivities-stats
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kactivities-stats
+    repo: extra
+  tag: stable

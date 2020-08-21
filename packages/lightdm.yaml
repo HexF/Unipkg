@@ -1,0 +1,8 @@
+name: lightdm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lightdm
+    repo: extra
+  tag: stable

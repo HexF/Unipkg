@@ -1,0 +1,8 @@
+name: ttf-croscore
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-croscore
+    repo: extra
+  tag: stable

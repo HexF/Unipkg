@@ -1,0 +1,8 @@
+name: filelight
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: filelight
+    repo: extra
+  tag: stable

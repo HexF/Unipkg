@@ -1,0 +1,8 @@
+name: wireguard-dkms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wireguard-dkms
+    repo: extra
+  tag: stable

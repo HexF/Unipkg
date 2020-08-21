@@ -1,0 +1,8 @@
+name: openjdk7-src
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk7-src
+    repo: extra
+  tag: stable

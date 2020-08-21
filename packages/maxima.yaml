@@ -1,0 +1,8 @@
+name: maxima
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: maxima
+    repo: extra
+  tag: stable

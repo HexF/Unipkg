@@ -1,0 +1,8 @@
+name: libgweather
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgweather
+    repo: extra
+  tag: stable

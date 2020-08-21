@@ -1,0 +1,8 @@
+name: sdl-gfx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_gfx
+    repo: extra
+  tag: stable

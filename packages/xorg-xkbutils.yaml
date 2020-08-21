@@ -1,0 +1,8 @@
+name: xorg-xkbutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xkbutils
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: docbook-xml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-xml
+    repo: extra
+  tag: stable

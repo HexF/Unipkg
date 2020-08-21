@@ -1,0 +1,8 @@
+name: genius
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: genius
+    repo: extra
+  tag: stable

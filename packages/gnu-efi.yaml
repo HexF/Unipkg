@@ -1,0 +1,8 @@
+name: gnu-efi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnu-efi
+    repo: extra
+  tag: stable

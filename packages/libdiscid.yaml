@@ -1,0 +1,8 @@
+name: libdiscid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdiscid
+    repo: extra
+  tag: stable

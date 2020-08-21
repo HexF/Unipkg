@@ -1,0 +1,8 @@
+name: hunspell-en-ca
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell-en_CA
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libgda-firebird
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgda-firebird
+    repo: extra
+  tag: stable

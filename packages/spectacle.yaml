@@ -1,0 +1,8 @@
+name: spectacle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spectacle
+    repo: extra
+  tag: stable

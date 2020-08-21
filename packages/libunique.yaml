@@ -1,0 +1,8 @@
+name: libunique
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libunique
+    repo: extra
+  tag: stable

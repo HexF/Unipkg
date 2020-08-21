@@ -1,0 +1,8 @@
+name: coordgen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: coordgen
+    repo: extra
+  tag: stable

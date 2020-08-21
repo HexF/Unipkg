@@ -1,0 +1,8 @@
+name: perl-xml-libxml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-libxml
+    repo: extra
+  tag: stable

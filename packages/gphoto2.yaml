@@ -1,0 +1,8 @@
+name: gphoto2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gphoto2
+    repo: extra
+  tag: stable

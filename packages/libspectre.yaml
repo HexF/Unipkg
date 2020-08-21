@@ -1,0 +1,8 @@
+name: libspectre
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libspectre
+    repo: extra
+  tag: stable

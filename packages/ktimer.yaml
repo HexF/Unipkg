@@ -1,0 +1,8 @@
+name: ktimer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ktimer
+    repo: extra
+  tag: stable

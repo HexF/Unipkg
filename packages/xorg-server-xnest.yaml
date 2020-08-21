@@ -1,0 +1,8 @@
+name: xorg-server-xnest
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-xnest
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libcdio-paranoia
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcdio-paranoia
+    repo: extra
+  tag: stable

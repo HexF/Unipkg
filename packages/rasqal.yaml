@@ -1,0 +1,8 @@
+name: rasqal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rasqal
+    repo: extra
+  tag: stable

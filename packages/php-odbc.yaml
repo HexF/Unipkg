@@ -1,0 +1,8 @@
+name: php-odbc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-odbc
+    repo: extra
+  tag: stable

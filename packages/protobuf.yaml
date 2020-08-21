@@ -1,0 +1,8 @@
+name: protobuf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: protobuf
+    repo: extra
+  tag: stable

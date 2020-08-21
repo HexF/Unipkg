@@ -1,0 +1,8 @@
+name: networkmanager-vpnc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager-vpnc
+    repo: extra
+  tag: stable

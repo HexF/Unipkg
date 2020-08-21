@@ -1,0 +1,8 @@
+name: gtk-sharp-2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk-sharp-2
+    repo: extra
+  tag: stable

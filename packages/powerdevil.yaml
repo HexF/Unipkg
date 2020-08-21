@@ -1,0 +1,8 @@
+name: powerdevil
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: powerdevil
+    repo: extra
+  tag: stable

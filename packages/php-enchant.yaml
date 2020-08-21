@@ -1,0 +1,8 @@
+name: php-enchant
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-enchant
+    repo: extra
+  tag: stable

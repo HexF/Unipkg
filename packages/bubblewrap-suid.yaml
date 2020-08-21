@@ -1,0 +1,8 @@
+name: bubblewrap-suid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bubblewrap-suid
+    repo: extra
+  tag: stable

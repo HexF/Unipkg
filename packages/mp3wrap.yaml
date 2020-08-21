@@ -1,0 +1,8 @@
+name: mp3wrap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mp3wrap
+    repo: extra
+  tag: stable

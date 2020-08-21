@@ -1,0 +1,8 @@
+name: ffmpeg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ffmpeg
+    repo: extra
+  tag: stable

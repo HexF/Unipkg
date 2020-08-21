@@ -1,0 +1,8 @@
+name: kinit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kinit
+    repo: extra
+  tag: stable

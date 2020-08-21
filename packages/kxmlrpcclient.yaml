@@ -1,0 +1,8 @@
+name: kxmlrpcclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kxmlrpcclient
+    repo: extra
+  tag: stable

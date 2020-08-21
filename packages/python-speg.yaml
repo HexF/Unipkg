@@ -1,0 +1,8 @@
+name: python-speg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-speg
+    repo: extra
+  tag: stable

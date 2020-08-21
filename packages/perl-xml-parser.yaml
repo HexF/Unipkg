@@ -1,0 +1,8 @@
+name: perl-xml-parser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-parser
+    repo: extra
+  tag: stable

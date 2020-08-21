@@ -1,0 +1,8 @@
+name: js52
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: js52
+    repo: extra
+  tag: stable

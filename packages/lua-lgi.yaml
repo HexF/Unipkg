@@ -1,0 +1,8 @@
+name: lua-lgi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua-lgi
+    repo: extra
+  tag: stable

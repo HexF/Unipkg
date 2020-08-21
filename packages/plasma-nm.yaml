@@ -1,0 +1,8 @@
+name: plasma-nm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-nm
+    repo: extra
+  tag: stable

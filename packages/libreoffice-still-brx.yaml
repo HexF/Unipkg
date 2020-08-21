@@ -1,0 +1,8 @@
+name: libreoffice-still-brx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-brx
+    repo: extra
+  tag: stable

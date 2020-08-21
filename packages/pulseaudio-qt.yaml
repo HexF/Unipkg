@@ -1,0 +1,8 @@
+name: pulseaudio-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-qt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gedit-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gedit-plugins
+    repo: extra
+  tag: stable

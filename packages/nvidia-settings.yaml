@@ -1,0 +1,8 @@
+name: nvidia-settings
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nvidia-settings
+    repo: extra
+  tag: stable

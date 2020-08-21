@@ -1,0 +1,8 @@
+name: python-prometheus-client
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-prometheus_client
+    repo: extra
+  tag: stable

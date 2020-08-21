@@ -1,0 +1,8 @@
+name: guile1.8
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: guile1.8
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: java-commons-net1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-commons-net1
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: m17n-lib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: m17n-lib
+    repo: extra
+  tag: stable

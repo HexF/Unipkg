@@ -1,0 +1,8 @@
+name: perl-crypt-openssl-rsa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-crypt-openssl-rsa
+    repo: extra
+  tag: stable

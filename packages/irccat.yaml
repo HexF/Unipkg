@@ -1,0 +1,8 @@
+name: irccat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: irccat
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: zita-resampler
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zita-resampler
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libe-book
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libe-book
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: pipewire-pulse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pipewire-pulse
+    repo: extra
+  tag: stable

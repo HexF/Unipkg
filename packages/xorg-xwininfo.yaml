@@ -1,0 +1,8 @@
+name: xorg-xwininfo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xwininfo
+    repo: extra
+  tag: stable

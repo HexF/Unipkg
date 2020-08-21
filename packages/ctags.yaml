@@ -1,0 +1,8 @@
+name: ctags
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ctags
+    repo: extra
+  tag: stable

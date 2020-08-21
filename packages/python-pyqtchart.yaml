@@ -1,0 +1,8 @@
+name: python-pyqtchart
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyqtchart
+    repo: extra
+  tag: stable

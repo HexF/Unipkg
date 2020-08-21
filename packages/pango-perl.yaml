@@ -1,0 +1,8 @@
+name: pango-perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pango-perl
+    repo: extra
+  tag: stable

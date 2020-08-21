@@ -1,0 +1,8 @@
+name: libreoffice-still-sa-in
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-sa-in
+    repo: extra
+  tag: stable

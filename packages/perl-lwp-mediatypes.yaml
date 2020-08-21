@@ -1,0 +1,8 @@
+name: perl-lwp-mediatypes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-lwp-mediatypes
+    repo: extra
+  tag: stable

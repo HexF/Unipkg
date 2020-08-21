@@ -1,0 +1,8 @@
+name: mod-fcgid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mod_fcgid
+    repo: extra
+  tag: stable

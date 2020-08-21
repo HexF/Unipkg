@@ -1,0 +1,8 @@
+name: python-django
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-django
+    repo: extra
+  tag: stable

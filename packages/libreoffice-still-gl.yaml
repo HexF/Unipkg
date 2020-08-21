@@ -1,0 +1,8 @@
+name: libreoffice-still-gl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-gl
+    repo: extra
+  tag: stable

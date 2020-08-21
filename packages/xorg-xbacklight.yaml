@@ -1,0 +1,8 @@
+name: xorg-xbacklight
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xbacklight
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-xkbcomp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xkbcomp
+    repo: extra
+  tag: stable

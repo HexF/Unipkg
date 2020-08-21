@@ -1,0 +1,8 @@
+name: stoken
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: stoken
+    repo: extra
+  tag: stable

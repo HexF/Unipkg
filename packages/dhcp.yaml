@@ -1,0 +1,8 @@
+name: dhcp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dhcp
+    repo: extra
+  tag: stable

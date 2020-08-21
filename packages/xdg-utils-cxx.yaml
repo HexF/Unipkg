@@ -1,0 +1,8 @@
+name: xdg-utils-cxx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xdg-utils-cxx
+    repo: extra
+  tag: stable

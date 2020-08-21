@@ -1,0 +1,8 @@
+name: kpty
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kpty
+    repo: extra
+  tag: stable

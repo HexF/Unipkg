@@ -1,0 +1,8 @@
+name: geoip-database-extra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: geoip-database-extra
+    repo: extra
+  tag: stable

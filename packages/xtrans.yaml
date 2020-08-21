@@ -1,0 +1,8 @@
+name: xtrans
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xtrans
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libwpe
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwpe
+    repo: extra
+  tag: stable

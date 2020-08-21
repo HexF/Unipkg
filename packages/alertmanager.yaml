@@ -1,0 +1,8 @@
+name: alertmanager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: alertmanager
+    repo: extra
+  tag: stable

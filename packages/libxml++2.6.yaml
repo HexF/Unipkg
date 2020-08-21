@@ -1,0 +1,8 @@
+name: libxml--2.6
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxml++2.6
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: jemalloc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jemalloc
+    repo: extra
+  tag: stable

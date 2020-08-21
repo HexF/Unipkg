@@ -1,0 +1,8 @@
+name: evolution-bogofilter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evolution-bogofilter
+    repo: extra
+  tag: stable

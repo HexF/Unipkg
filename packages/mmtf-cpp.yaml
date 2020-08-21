@@ -1,0 +1,8 @@
+name: mmtf-cpp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mmtf-cpp
+    repo: extra
+  tag: stable

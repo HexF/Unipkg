@@ -1,0 +1,8 @@
+name: libfido2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libfido2
+    repo: extra
+  tag: stable

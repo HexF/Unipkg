@@ -1,0 +1,8 @@
+name: juk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: juk
+    repo: extra
+  tag: stable

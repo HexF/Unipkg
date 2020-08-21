@@ -1,0 +1,8 @@
+name: glpk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glpk
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: apache
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: apache
+    repo: extra
+  tag: stable

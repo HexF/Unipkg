@@ -1,0 +1,8 @@
+name: sbcl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sbcl
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kservice
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kservice
+    repo: extra
+  tag: stable

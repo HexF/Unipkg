@@ -1,0 +1,8 @@
+name: klettres
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: klettres
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libphonenumber
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libphonenumber
+    repo: extra
+  tag: stable

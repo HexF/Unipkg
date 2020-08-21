@@ -1,0 +1,8 @@
+name: tftp-hpa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tftp-hpa
+    repo: extra
+  tag: stable

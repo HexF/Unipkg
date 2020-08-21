@@ -1,0 +1,8 @@
+name: incidenceeditor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: incidenceeditor
+    repo: extra
+  tag: stable

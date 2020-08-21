@@ -1,0 +1,8 @@
+name: zip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zip
+    repo: extra
+  tag: stable

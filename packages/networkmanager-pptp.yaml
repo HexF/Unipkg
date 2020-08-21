@@ -1,0 +1,8 @@
+name: networkmanager-pptp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager-pptp
+    repo: extra
+  tag: stable

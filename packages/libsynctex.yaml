@@ -1,0 +1,8 @@
+name: libsynctex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsynctex
+    repo: extra
+  tag: stable

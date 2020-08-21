@@ -1,0 +1,8 @@
+name: python-fastimport
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-fastimport
+    repo: extra
+  tag: stable

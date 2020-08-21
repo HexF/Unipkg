@@ -1,0 +1,8 @@
+name: kitemviews
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kitemviews
+    repo: extra
+  tag: stable

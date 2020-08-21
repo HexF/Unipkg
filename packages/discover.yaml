@@ -1,0 +1,8 @@
+name: discover
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: discover
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python2-opengl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-opengl
+    repo: extra
+  tag: stable

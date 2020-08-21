@@ -1,0 +1,8 @@
+name: gnome-clocks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-clocks
+    repo: extra
+  tag: stable

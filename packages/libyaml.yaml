@@ -1,0 +1,8 @@
+name: libyaml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libyaml
+    repo: extra
+  tag: stable

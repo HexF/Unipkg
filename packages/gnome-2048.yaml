@@ -1,0 +1,8 @@
+name: gnome-2048
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-2048
+    repo: extra
+  tag: stable

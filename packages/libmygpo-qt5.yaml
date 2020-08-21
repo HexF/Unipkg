@@ -1,0 +1,8 @@
+name: libmygpo-qt5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmygpo-qt5
+    repo: extra
+  tag: stable

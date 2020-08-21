@@ -1,0 +1,8 @@
+name: libktorrent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libktorrent
+    repo: extra
+  tag: stable

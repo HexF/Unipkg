@@ -1,0 +1,8 @@
+name: baloo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: baloo
+    repo: extra
+  tag: stable

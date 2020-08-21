@@ -1,0 +1,8 @@
+name: libusb-compat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libusb-compat
+    repo: extra
+  tag: stable

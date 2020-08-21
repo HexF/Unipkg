@@ -1,0 +1,8 @@
+name: kirigami2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kirigami2
+    repo: extra
+  tag: stable

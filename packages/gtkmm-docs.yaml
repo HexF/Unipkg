@@ -1,0 +1,8 @@
+name: gtkmm-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtkmm-docs
+    repo: extra
+  tag: stable

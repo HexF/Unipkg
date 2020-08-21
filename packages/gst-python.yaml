@@ -1,0 +1,8 @@
+name: gst-python
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gst-python
+    repo: extra
+  tag: stable

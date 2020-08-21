@@ -1,0 +1,8 @@
+name: libxxf86vm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxxf86vm
+    repo: extra
+  tag: stable

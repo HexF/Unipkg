@@ -1,0 +1,8 @@
+name: tcpdump
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tcpdump
+    repo: extra
+  tag: stable

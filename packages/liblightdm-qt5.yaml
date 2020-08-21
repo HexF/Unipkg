@@ -1,0 +1,8 @@
+name: liblightdm-qt5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liblightdm-qt5
+    repo: extra
+  tag: stable

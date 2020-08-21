@@ -1,0 +1,8 @@
+name: kdiagram
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdiagram
+    repo: extra
+  tag: stable

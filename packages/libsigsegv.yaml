@@ -1,0 +1,8 @@
+name: libsigsegv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsigsegv
+    repo: extra
+  tag: stable

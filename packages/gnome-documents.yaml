@@ -1,0 +1,8 @@
+name: gnome-documents
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-documents
+    repo: extra
+  tag: stable

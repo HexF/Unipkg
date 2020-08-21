@@ -1,0 +1,8 @@
+name: vim-spell-eo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-eo
+    repo: extra
+  tag: stable

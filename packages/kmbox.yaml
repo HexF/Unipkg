@@ -1,0 +1,8 @@
+name: kmbox
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmbox
+    repo: extra
+  tag: stable

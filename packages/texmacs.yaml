@@ -1,0 +1,8 @@
+name: texmacs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texmacs
+    repo: extra
+  tag: stable

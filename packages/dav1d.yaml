@@ -1,0 +1,8 @@
+name: dav1d
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dav1d
+    repo: extra
+  tag: stable

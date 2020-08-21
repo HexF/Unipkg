@@ -1,0 +1,8 @@
+name: evolution
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evolution
+    repo: extra
+  tag: stable

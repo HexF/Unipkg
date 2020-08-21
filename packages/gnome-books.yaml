@@ -1,0 +1,8 @@
+name: gnome-books
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-books
+    repo: extra
+  tag: stable

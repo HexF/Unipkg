@@ -1,0 +1,8 @@
+name: ksmtp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ksmtp
+    repo: extra
+  tag: stable

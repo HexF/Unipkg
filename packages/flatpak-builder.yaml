@@ -1,0 +1,8 @@
+name: flatpak-builder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: flatpak-builder
+    repo: extra
+  tag: stable

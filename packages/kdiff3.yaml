@@ -1,0 +1,8 @@
+name: kdiff3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdiff3
+    repo: extra
+  tag: stable

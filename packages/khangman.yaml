@@ -1,0 +1,8 @@
+name: khangman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: khangman
+    repo: extra
+  tag: stable

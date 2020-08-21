@@ -1,0 +1,8 @@
+name: python-csv23
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-csv23
+    repo: extra
+  tag: stable

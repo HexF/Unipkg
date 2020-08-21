@@ -1,0 +1,8 @@
+name: zsh-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zsh-doc
+    repo: extra
+  tag: stable

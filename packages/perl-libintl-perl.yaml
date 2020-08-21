@@ -1,0 +1,8 @@
+name: perl-libintl-perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-libintl-perl
+    repo: extra
+  tag: stable

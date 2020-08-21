@@ -1,0 +1,8 @@
+name: gnome-screenshot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-screenshot
+    repo: extra
+  tag: stable

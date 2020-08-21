@@ -1,0 +1,8 @@
+name: tex-gyre-fonts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tex-gyre-fonts
+    repo: extra
+  tag: stable

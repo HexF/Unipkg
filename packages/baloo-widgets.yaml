@@ -1,0 +1,8 @@
+name: baloo-widgets
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: baloo-widgets
+    repo: extra
+  tag: stable

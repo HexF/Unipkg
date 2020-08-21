@@ -1,0 +1,8 @@
+name: kdevelop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdevelop
+    repo: extra
+  tag: stable

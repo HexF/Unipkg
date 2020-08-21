@@ -1,0 +1,8 @@
+name: fontconfig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fontconfig
+    repo: extra
+  tag: stable

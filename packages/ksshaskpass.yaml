@@ -1,0 +1,8 @@
+name: ksshaskpass
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ksshaskpass
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: expac
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: expac
+    repo: extra
+  tag: stable

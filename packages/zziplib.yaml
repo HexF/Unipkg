@@ -1,0 +1,8 @@
+name: zziplib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zziplib
+    repo: extra
+  tag: stable

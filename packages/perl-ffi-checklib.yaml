@@ -1,0 +1,8 @@
+name: perl-ffi-checklib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-ffi-checklib
+    repo: extra
+  tag: stable

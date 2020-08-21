@@ -1,0 +1,8 @@
+name: mariadb-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mariadb-libs
+    repo: extra
+  tag: stable

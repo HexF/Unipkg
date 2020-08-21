@@ -1,0 +1,8 @@
+name: enchant
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: enchant
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mtdev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mtdev
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: iniparser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iniparser
+    repo: extra
+  tag: stable

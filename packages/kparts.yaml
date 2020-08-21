@@ -1,0 +1,8 @@
+name: kparts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kparts
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libdvdcss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdvdcss
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libsmbios
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsmbios
+    repo: extra
+  tag: stable

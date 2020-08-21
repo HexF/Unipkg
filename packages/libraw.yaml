@@ -1,0 +1,8 @@
+name: libraw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libraw
+    repo: extra
+  tag: stable

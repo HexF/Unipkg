@@ -1,0 +1,8 @@
+name: texlive-bibtexextra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-bibtexextra
+    repo: extra
+  tag: stable

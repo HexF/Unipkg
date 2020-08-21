@@ -1,0 +1,8 @@
+name: gnome-autoar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-autoar
+    repo: extra
+  tag: stable

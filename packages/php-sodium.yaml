@@ -1,0 +1,8 @@
+name: php-sodium
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-sodium
+    repo: extra
+  tag: stable

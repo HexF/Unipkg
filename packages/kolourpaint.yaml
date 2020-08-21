@@ -1,0 +1,8 @@
+name: kolourpaint
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kolourpaint
+    repo: extra
+  tag: stable

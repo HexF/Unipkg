@@ -1,0 +1,8 @@
+name: snarf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: snarf
+    repo: extra
+  tag: stable

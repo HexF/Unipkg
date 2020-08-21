@@ -1,0 +1,8 @@
+name: kded
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kded
+    repo: extra
+  tag: stable

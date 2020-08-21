@@ -1,0 +1,8 @@
+name: khotkeys
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: khotkeys
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: networkmanager-openvpn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager-openvpn
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: expect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: expect
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: hyphen-nl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hyphen-nl
+    repo: extra
+  tag: stable

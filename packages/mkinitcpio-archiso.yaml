@@ -1,0 +1,8 @@
+name: mkinitcpio-archiso
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mkinitcpio-archiso
+    repo: extra
+  tag: stable

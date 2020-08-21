@@ -1,0 +1,8 @@
+name: perl-crypt-openssl-random
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-crypt-openssl-random
+    repo: extra
+  tag: stable

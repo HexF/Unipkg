@@ -1,0 +1,8 @@
+name: perl-perl4-corelibs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-perl4-corelibs
+    repo: extra
+  tag: stable

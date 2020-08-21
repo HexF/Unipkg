@@ -1,0 +1,8 @@
+name: valgrind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: valgrind
+    repo: extra
+  tag: stable

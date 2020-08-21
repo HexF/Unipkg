@@ -1,0 +1,8 @@
+name: prometheus-mysqld-exporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: prometheus-mysqld-exporter
+    repo: extra
+  tag: stable

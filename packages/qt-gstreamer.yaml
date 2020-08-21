@@ -1,0 +1,8 @@
+name: qt-gstreamer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt-gstreamer
+    repo: extra
+  tag: stable

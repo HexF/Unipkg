@@ -1,0 +1,8 @@
+name: libstroke
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libstroke
+    repo: extra
+  tag: stable

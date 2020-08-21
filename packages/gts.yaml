@@ -1,0 +1,8 @@
+name: gts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gts
+    repo: extra
+  tag: stable

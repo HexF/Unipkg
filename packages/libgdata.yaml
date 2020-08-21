@@ -1,0 +1,8 @@
+name: libgdata
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgdata
+    repo: extra
+  tag: stable

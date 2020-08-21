@@ -1,0 +1,8 @@
+name: texlive-langcyrillic
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langcyrillic
+    repo: extra
+  tag: stable

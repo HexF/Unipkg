@@ -1,0 +1,8 @@
+name: perl-net-ssleay
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-ssleay
+    repo: extra
+  tag: stable

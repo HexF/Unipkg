@@ -1,0 +1,8 @@
+name: libburn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libburn
+    repo: extra
+  tag: stable

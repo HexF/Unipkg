@@ -1,0 +1,8 @@
+name: libheif
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libheif
+    repo: extra
+  tag: stable

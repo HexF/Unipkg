@@ -1,0 +1,8 @@
+name: ostree
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ostree
+    repo: extra
+  tag: stable

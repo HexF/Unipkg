@@ -1,0 +1,8 @@
+name: poxml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: poxml
+    repo: extra
+  tag: stable

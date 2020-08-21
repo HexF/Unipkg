@@ -6,7 +6,7 @@ class Package(yaml.YAMLObject):
     yaml_tag = '!pkg'
 
     def __init__(self, name, tags):
-        self.name = name.replace('_', '-')
+        self.name = name.replace('_', '-').replace('+', '-').lower()
         self.tags = tags
         # run a quick check if tags has a default
 

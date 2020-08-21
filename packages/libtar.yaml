@@ -1,0 +1,8 @@
+name: libtar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtar
+    repo: extra
+  tag: stable

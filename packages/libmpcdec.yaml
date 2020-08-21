@@ -1,0 +1,8 @@
+name: libmpcdec
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmpcdec
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ethtool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ethtool
+    repo: extra
+  tag: stable

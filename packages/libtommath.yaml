@@ -1,0 +1,8 @@
+name: libtommath
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtommath
+    repo: extra
+  tag: stable

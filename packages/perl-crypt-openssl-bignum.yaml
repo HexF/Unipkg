@@ -1,0 +1,8 @@
+name: perl-crypt-openssl-bignum
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-crypt-openssl-bignum
+    repo: extra
+  tag: stable

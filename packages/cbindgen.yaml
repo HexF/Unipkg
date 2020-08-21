@@ -1,0 +1,8 @@
+name: cbindgen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cbindgen
+    repo: extra
+  tag: stable

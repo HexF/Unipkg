@@ -1,0 +1,8 @@
+name: python-gobject
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-gobject
+    repo: extra
+  tag: stable

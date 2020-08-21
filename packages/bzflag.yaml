@@ -1,0 +1,8 @@
+name: bzflag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bzflag
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: jdk8-openjdk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jdk8-openjdk
+    repo: extra
+  tag: stable

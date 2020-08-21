@@ -1,0 +1,8 @@
+name: nvidia-lts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nvidia-lts
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: imlib2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: imlib2
+    repo: extra
+  tag: stable

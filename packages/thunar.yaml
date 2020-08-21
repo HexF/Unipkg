@@ -1,0 +1,8 @@
+name: thunar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thunar
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: celt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: celt
+    repo: extra
+  tag: stable

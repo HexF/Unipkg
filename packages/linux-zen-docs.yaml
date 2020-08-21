@@ -1,0 +1,8 @@
+name: linux-zen-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-zen-docs
+    repo: extra
+  tag: stable

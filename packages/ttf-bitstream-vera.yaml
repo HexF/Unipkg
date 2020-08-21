@@ -1,0 +1,8 @@
+name: ttf-bitstream-vera
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-bitstream-vera
+    repo: extra
+  tag: stable

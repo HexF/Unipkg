@@ -1,0 +1,8 @@
+name: perl-email-date-format
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-email-date-format
+    repo: extra
+  tag: stable

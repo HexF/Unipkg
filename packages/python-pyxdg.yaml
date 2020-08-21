@@ -1,0 +1,8 @@
+name: python-pyxdg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyxdg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libcbor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcbor
+    repo: extra
+  tag: stable

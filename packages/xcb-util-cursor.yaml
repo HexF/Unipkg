@@ -1,0 +1,8 @@
+name: xcb-util-cursor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcb-util-cursor
+    repo: extra
+  tag: stable

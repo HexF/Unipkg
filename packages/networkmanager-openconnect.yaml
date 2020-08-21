@@ -1,0 +1,8 @@
+name: networkmanager-openconnect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager-openconnect
+    repo: extra
+  tag: stable

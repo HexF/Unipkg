@@ -1,0 +1,8 @@
+name: oxygen-gtk2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: oxygen-gtk2
+    repo: extra
+  tag: stable

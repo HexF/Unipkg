@@ -1,0 +1,8 @@
+name: libreoffice-fresh-zu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-zu
+    repo: extra
+  tag: stable

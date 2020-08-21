@@ -1,0 +1,8 @@
+name: cfitsio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cfitsio
+    repo: extra
+  tag: stable

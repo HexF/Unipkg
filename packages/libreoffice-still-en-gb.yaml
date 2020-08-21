@@ -1,0 +1,8 @@
+name: libreoffice-still-en-gb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-en-gb
+    repo: extra
+  tag: stable

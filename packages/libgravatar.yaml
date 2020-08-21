@@ -1,0 +1,8 @@
+name: libgravatar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgravatar
+    repo: extra
+  tag: stable

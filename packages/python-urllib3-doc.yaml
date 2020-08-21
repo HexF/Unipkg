@@ -1,0 +1,8 @@
+name: python-urllib3-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-urllib3-doc
+    repo: extra
+  tag: stable

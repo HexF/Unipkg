@@ -1,0 +1,8 @@
+name: marble
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: marble
+    repo: extra
+  tag: stable

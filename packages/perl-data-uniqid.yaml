@@ -1,0 +1,8 @@
+name: perl-data-uniqid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-data-uniqid
+    repo: extra
+  tag: stable

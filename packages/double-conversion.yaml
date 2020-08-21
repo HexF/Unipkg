@@ -1,0 +1,8 @@
+name: double-conversion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: double-conversion
+    repo: extra
+  tag: stable

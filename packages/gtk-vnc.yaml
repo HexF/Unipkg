@@ -1,0 +1,8 @@
+name: gtk-vnc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk-vnc
+    repo: extra
+  tag: stable

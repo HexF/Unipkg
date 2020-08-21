@@ -1,0 +1,8 @@
+name: libpipewire02
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpipewire02
+    repo: extra
+  tag: stable

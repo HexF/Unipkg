@@ -1,0 +1,8 @@
+name: freeglut
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: freeglut
+    repo: extra
+  tag: stable

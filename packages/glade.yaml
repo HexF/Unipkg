@@ -1,0 +1,8 @@
+name: glade
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glade
+    repo: extra
+  tag: stable

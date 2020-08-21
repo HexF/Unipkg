@@ -1,0 +1,8 @@
+name: kde-graphics-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-graphics-meta
+    repo: extra
+  tag: stable

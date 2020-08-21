@@ -1,0 +1,8 @@
+name: goffice
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: goffice
+    repo: extra
+  tag: stable

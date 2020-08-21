@@ -1,0 +1,8 @@
+name: kwayland
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwayland
+    repo: extra
+  tag: stable

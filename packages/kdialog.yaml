@@ -1,0 +1,8 @@
+name: kdialog
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdialog
+    repo: extra
+  tag: stable

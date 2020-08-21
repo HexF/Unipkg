@@ -1,0 +1,8 @@
+name: sip5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sip5
+    repo: extra
+  tag: stable

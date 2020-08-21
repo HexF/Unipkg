@@ -1,0 +1,8 @@
+name: pim-sieve-editor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pim-sieve-editor
+    repo: extra
+  tag: stable

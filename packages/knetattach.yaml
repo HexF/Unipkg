@@ -1,0 +1,8 @@
+name: knetattach
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knetattach
+    repo: extra
+  tag: stable

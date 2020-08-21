@@ -1,0 +1,8 @@
+name: kaccounts-providers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kaccounts-providers
+    repo: extra
+  tag: stable

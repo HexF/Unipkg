@@ -1,0 +1,8 @@
+name: gnome-logs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-logs
+    repo: extra
+  tag: stable

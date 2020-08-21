@@ -1,0 +1,8 @@
+name: xfce4-eyes-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-eyes-plugin
+    repo: extra
+  tag: stable

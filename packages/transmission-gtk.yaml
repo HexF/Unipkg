@@ -1,0 +1,8 @@
+name: transmission-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: transmission-gtk
+    repo: extra
+  tag: stable

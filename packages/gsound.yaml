@@ -1,0 +1,8 @@
+name: gsound
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gsound
+    repo: extra
+  tag: stable

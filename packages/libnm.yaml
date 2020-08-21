@@ -1,0 +1,8 @@
+name: libnm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnm
+    repo: extra
+  tag: stable

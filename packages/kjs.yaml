@@ -1,0 +1,8 @@
+name: kjs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kjs
+    repo: extra
+  tag: stable

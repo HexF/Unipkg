@@ -1,0 +1,8 @@
+name: liboauth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liboauth
+    repo: extra
+  tag: stable

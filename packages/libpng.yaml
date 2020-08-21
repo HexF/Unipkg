@@ -1,0 +1,8 @@
+name: libpng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpng
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: falkon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: falkon
+    repo: extra
+  tag: stable

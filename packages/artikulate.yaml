@@ -1,0 +1,8 @@
+name: artikulate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: artikulate
+    repo: extra
+  tag: stable

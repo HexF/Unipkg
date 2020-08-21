@@ -1,0 +1,8 @@
+name: python-dbus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-dbus
+    repo: extra
+  tag: stable

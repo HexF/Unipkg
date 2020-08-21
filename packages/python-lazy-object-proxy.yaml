@@ -1,0 +1,8 @@
+name: python-lazy-object-proxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-lazy-object-proxy
+    repo: extra
+  tag: stable

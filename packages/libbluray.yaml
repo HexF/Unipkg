@@ -1,0 +1,8 @@
+name: libbluray
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libbluray
+    repo: extra
+  tag: stable

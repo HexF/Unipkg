@@ -1,0 +1,8 @@
+name: liborcus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liborcus
+    repo: extra
+  tag: stable

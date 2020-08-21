@@ -1,0 +1,8 @@
+name: libgnome-games-support
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgnome-games-support
+    repo: extra
+  tag: stable

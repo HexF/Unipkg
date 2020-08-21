@@ -1,0 +1,8 @@
+name: unicode-character-database
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: unicode-character-database
+    repo: extra
+  tag: stable

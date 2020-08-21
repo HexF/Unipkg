@@ -1,0 +1,8 @@
+name: perl-text-bibtex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-bibtex
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libmagick6
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmagick6
+    repo: extra
+  tag: stable

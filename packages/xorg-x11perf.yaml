@@ -1,0 +1,8 @@
+name: xorg-x11perf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-x11perf
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kapman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kapman
+    repo: extra
+  tag: stable

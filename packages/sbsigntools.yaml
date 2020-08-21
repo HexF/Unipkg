@@ -1,0 +1,8 @@
+name: sbsigntools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sbsigntools
+    repo: extra
+  tag: stable

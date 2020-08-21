@@ -1,0 +1,8 @@
+name: perl-number-compare
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-number-compare
+    repo: extra
+  tag: stable

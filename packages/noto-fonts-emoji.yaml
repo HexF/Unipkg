@@ -1,0 +1,8 @@
+name: noto-fonts-emoji
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: noto-fonts-emoji
+    repo: extra
+  tag: stable

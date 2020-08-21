@@ -1,0 +1,8 @@
+name: quazip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: quazip
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: cifs-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cifs-utils
+    repo: extra
+  tag: stable

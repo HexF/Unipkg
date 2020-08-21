@@ -1,0 +1,8 @@
+name: kalarm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kalarm
+    repo: extra
+  tag: stable

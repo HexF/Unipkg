@@ -1,0 +1,8 @@
+name: glib-networking
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glib-networking
+    repo: extra
+  tag: stable

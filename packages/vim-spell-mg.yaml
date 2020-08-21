@@ -1,0 +1,8 @@
+name: vim-spell-mg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-mg
+    repo: extra
+  tag: stable

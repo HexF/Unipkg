@@ -1,0 +1,8 @@
+name: v4l-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: v4l-utils
+    repo: extra
+  tag: stable

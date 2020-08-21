@@ -1,0 +1,8 @@
+name: libnitrokey
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnitrokey
+    repo: extra
+  tag: stable

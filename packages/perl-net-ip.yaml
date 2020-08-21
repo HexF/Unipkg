@@ -1,0 +1,8 @@
+name: perl-net-ip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-ip
+    repo: extra
+  tag: stable

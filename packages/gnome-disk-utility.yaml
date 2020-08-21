@@ -1,0 +1,8 @@
+name: gnome-disk-utility
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-disk-utility
+    repo: extra
+  tag: stable

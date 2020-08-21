@@ -1,0 +1,8 @@
+name: marble-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: marble-qt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mp3splt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mp3splt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-alien-sdl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-alien-sdl
+    repo: extra
+  tag: stable

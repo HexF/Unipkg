@@ -1,0 +1,8 @@
+name: gtksourceview2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtksourceview2
+    repo: extra
+  tag: stable

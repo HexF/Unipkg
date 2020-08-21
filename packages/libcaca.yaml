@@ -1,0 +1,8 @@
+name: libcaca
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcaca
+    repo: extra
+  tag: stable

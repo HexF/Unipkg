@@ -1,0 +1,8 @@
+name: mjpegtools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mjpegtools
+    repo: extra
+  tag: stable

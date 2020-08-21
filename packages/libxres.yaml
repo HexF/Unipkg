@@ -1,0 +1,8 @@
+name: libxres
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxres
+    repo: extra
+  tag: stable

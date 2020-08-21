@@ -1,0 +1,8 @@
+name: perl-text-iconv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-iconv
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: procmail
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: procmail
+    repo: extra
+  tag: stable

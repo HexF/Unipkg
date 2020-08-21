@@ -1,0 +1,8 @@
+name: libreoffice-fresh-ss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-ss
+    repo: extra
+  tag: stable

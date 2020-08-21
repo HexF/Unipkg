@@ -1,0 +1,8 @@
+name: schroedinger
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: schroedinger
+    repo: extra
+  tag: stable

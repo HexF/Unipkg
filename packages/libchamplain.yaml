@@ -1,0 +1,8 @@
+name: libchamplain
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libchamplain
+    repo: extra
+  tag: stable

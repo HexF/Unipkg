@@ -1,0 +1,8 @@
+name: python-cairo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-cairo
+    repo: extra
+  tag: stable

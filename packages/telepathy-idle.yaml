@@ -1,0 +1,8 @@
+name: telepathy-idle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-idle
+    repo: extra
+  tag: stable

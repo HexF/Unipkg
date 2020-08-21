@@ -1,0 +1,8 @@
+name: libmediaart
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmediaart
+    repo: extra
+  tag: stable

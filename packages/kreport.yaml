@@ -1,0 +1,8 @@
+name: kreport
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kreport
+    repo: extra
+  tag: stable

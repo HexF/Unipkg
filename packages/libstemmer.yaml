@@ -1,0 +1,8 @@
+name: libstemmer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libstemmer
+    repo: extra
+  tag: stable

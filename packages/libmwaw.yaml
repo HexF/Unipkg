@@ -1,0 +1,8 @@
+name: libmwaw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmwaw
+    repo: extra
+  tag: stable

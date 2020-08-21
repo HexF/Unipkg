@@ -1,0 +1,8 @@
+name: sip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sip
+    repo: extra
+  tag: stable

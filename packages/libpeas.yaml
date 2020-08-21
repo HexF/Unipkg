@@ -1,0 +1,8 @@
+name: libpeas
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpeas
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: docbook-sgml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-sgml
+    repo: extra
+  tag: stable

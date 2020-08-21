@@ -1,0 +1,8 @@
+name: edk2-ovmf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: edk2-ovmf
+    repo: extra
+  tag: stable

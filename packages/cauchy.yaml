@@ -1,0 +1,8 @@
+name: cauchy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cauchy
+    repo: extra
+  tag: stable

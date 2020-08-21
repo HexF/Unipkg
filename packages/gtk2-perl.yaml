@@ -1,0 +1,8 @@
+name: gtk2-perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk2-perl
+    repo: extra
+  tag: stable

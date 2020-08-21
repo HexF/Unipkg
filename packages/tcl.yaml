@@ -1,0 +1,8 @@
+name: tcl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tcl
+    repo: extra
+  tag: stable

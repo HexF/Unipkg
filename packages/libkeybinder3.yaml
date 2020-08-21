@@ -1,0 +1,8 @@
+name: libkeybinder3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkeybinder3
+    repo: extra
+  tag: stable

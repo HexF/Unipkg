@@ -1,0 +1,8 @@
+name: orca
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: orca
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libreoffice-still-cs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-cs
+    repo: extra
+  tag: stable

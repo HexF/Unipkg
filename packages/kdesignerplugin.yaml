@@ -1,0 +1,8 @@
+name: kdesignerplugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdesignerplugin
+    repo: extra
+  tag: stable

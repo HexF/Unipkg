@@ -1,0 +1,8 @@
+name: perl-exporter-tiny
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-exporter-tiny
+    repo: extra
+  tag: stable

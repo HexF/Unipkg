@@ -1,0 +1,8 @@
+name: aisleriot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: aisleriot
+    repo: extra
+  tag: stable

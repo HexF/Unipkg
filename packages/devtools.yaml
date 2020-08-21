@@ -1,0 +1,8 @@
+name: devtools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: devtools
+    repo: extra
+  tag: stable

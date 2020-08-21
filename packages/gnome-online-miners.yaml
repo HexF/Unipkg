@@ -1,0 +1,8 @@
+name: gnome-online-miners
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-online-miners
+    repo: extra
+  tag: stable

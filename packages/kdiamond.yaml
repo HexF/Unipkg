@@ -1,0 +1,8 @@
+name: kdiamond
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdiamond
+    repo: extra
+  tag: stable

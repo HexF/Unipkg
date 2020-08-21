@@ -1,0 +1,8 @@
+name: xcompmgr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcompmgr
+    repo: extra
+  tag: stable

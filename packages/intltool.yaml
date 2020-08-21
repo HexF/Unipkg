@@ -1,0 +1,8 @@
+name: intltool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: intltool
+    repo: extra
+  tag: stable

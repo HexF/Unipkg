@@ -1,0 +1,8 @@
+name: ltrace
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ltrace
+    repo: extra
+  tag: stable

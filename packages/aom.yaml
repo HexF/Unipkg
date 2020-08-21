@@ -1,0 +1,8 @@
+name: aom
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: aom
+    repo: extra
+  tag: stable

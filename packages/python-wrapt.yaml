@@ -1,0 +1,8 @@
+name: python-wrapt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-wrapt
+    repo: extra
+  tag: stable

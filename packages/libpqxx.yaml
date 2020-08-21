@@ -1,0 +1,8 @@
+name: libpqxx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpqxx
+    repo: extra
+  tag: stable

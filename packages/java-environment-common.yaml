@@ -1,0 +1,8 @@
+name: java-environment-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-environment-common
+    repo: extra
+  tag: stable

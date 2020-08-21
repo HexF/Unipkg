@@ -1,0 +1,8 @@
+name: telepathy-kde-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-kde-meta
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libdvbpsi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdvbpsi
+    repo: extra
+  tag: stable

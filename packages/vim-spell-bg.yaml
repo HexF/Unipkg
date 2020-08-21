@@ -1,0 +1,8 @@
+name: vim-spell-bg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-bg
+    repo: extra
+  tag: stable

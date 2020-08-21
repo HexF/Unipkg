@@ -1,0 +1,8 @@
+name: xfce4-power-manager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-power-manager
+    repo: extra
+  tag: stable

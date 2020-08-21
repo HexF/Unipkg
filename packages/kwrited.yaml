@@ -1,0 +1,8 @@
+name: kwrited
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwrited
+    repo: extra
+  tag: stable

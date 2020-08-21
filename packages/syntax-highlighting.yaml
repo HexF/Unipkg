@@ -1,0 +1,8 @@
+name: syntax-highlighting
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: syntax-highlighting
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: exempi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: exempi
+    repo: extra
+  tag: stable

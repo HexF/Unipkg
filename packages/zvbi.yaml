@@ -1,0 +1,8 @@
+name: zvbi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zvbi
+    repo: extra
+  tag: stable

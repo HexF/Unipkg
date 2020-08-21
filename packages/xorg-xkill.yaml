@@ -1,0 +1,8 @@
+name: xorg-xkill
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xkill
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: cups-filters
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cups-filters
+    repo: extra
+  tag: stable

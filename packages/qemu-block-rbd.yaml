@@ -1,0 +1,8 @@
+name: qemu-block-rbd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu-block-rbd
+    repo: extra
+  tag: stable

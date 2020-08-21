@@ -1,0 +1,8 @@
+name: perl-io-html
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-io-html
+    repo: extra
+  tag: stable

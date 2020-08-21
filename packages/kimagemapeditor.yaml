@@ -1,0 +1,8 @@
+name: kimagemapeditor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kimagemapeditor
+    repo: extra
+  tag: stable

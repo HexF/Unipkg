@@ -1,0 +1,8 @@
+name: strace
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: strace
+    repo: extra
+  tag: stable

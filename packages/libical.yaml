@@ -1,0 +1,8 @@
+name: libical
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libical
+    repo: extra
+  tag: stable

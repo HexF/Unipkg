@@ -1,0 +1,8 @@
+name: deluge-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: deluge-gtk
+    repo: extra
+  tag: stable

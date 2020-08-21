@@ -1,0 +1,8 @@
+name: freetype2-demos
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: freetype2-demos
+    repo: extra
+  tag: stable

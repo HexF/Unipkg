@@ -1,0 +1,8 @@
+name: kajongg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kajongg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: openjdk-src
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk-src
+    repo: extra
+  tag: stable

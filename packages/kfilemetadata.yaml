@@ -1,0 +1,8 @@
+name: kfilemetadata
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kfilemetadata
+    repo: extra
+  tag: stable

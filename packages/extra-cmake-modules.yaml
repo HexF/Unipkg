@@ -1,0 +1,8 @@
+name: extra-cmake-modules
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: extra-cmake-modules
+    repo: extra
+  tag: stable

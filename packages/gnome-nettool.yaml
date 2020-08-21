@@ -1,0 +1,8 @@
+name: gnome-nettool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-nettool
+    repo: extra
+  tag: stable

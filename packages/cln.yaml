@@ -1,0 +1,8 @@
+name: cln
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cln
+    repo: extra
+  tag: stable

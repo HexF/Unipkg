@@ -1,0 +1,8 @@
+name: xorgproto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorgproto
+    repo: extra
+  tag: stable

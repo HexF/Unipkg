@@ -1,0 +1,8 @@
+name: libpagemaker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpagemaker
+    repo: extra
+  tag: stable

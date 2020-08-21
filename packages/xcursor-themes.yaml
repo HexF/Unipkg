@@ -1,0 +1,8 @@
+name: xcursor-themes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcursor-themes
+    repo: extra
+  tag: stable

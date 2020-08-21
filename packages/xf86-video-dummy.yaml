@@ -1,0 +1,8 @@
+name: xf86-video-dummy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-video-dummy
+    repo: extra
+  tag: stable

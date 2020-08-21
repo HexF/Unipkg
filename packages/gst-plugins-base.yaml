@@ -1,0 +1,8 @@
+name: gst-plugins-base
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gst-plugins-base
+    repo: extra
+  tag: stable

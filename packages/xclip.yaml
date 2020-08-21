@@ -1,0 +1,8 @@
+name: xclip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xclip
+    repo: extra
+  tag: stable

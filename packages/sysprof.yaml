@@ -1,0 +1,8 @@
+name: sysprof
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sysprof
+    repo: extra
+  tag: stable

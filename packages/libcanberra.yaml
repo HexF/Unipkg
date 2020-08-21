@@ -1,0 +1,8 @@
+name: libcanberra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcanberra
+    repo: extra
+  tag: stable

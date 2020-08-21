@@ -1,0 +1,8 @@
+name: scour
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: scour
+    repo: extra
+  tag: stable

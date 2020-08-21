@@ -1,0 +1,8 @@
+name: kcalendarcore
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcalendarcore
+    repo: extra
+  tag: stable

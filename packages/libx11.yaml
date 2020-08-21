@@ -1,0 +1,8 @@
+name: libx11
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libx11
+    repo: extra
+  tag: stable

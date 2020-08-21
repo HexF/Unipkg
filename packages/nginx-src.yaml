@@ -1,0 +1,8 @@
+name: nginx-src
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nginx-src
+    repo: extra
+  tag: stable

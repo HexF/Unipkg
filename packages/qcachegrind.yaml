@@ -1,0 +1,8 @@
+name: qcachegrind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qcachegrind
+    repo: extra
+  tag: stable

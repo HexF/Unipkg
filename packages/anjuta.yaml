@@ -1,0 +1,8 @@
+name: anjuta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: anjuta
+    repo: extra
+  tag: stable

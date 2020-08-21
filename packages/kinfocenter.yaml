@@ -1,0 +1,8 @@
+name: kinfocenter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kinfocenter
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libkmahjongg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkmahjongg
+    repo: extra
+  tag: stable

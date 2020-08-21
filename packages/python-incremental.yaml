@@ -1,0 +1,8 @@
+name: python-incremental
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-incremental
+    repo: extra
+  tag: stable

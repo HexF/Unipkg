@@ -1,0 +1,8 @@
+name: calligra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: calligra
+    repo: extra
+  tag: stable

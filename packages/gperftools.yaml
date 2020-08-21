@@ -1,0 +1,8 @@
+name: gperftools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gperftools
+    repo: extra
+  tag: stable

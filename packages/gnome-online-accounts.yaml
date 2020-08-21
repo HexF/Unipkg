@@ -1,0 +1,8 @@
+name: gnome-online-accounts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-online-accounts
+    repo: extra
+  tag: stable

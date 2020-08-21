@@ -1,0 +1,8 @@
+name: vulkan-html-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-html-docs
+    repo: extra
+  tag: stable

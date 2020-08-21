@@ -1,0 +1,8 @@
+name: python2-cssselect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-cssselect
+    repo: extra
+  tag: stable

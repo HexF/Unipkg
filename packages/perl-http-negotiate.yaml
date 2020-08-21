@@ -1,0 +1,8 @@
+name: perl-http-negotiate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-http-negotiate
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gstreamer-vaapi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gstreamer-vaapi
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: snappy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: snappy
+    repo: extra
+  tag: stable

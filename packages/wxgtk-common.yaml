@@ -1,0 +1,8 @@
+name: wxgtk-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wxgtk-common
+    repo: extra
+  tag: stable

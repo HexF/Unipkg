@@ -1,0 +1,8 @@
+name: qtcreator
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qtcreator
+    repo: extra
+  tag: stable

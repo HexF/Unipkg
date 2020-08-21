@@ -1,0 +1,8 @@
+name: rav1e
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rav1e
+    repo: extra
+  tag: stable

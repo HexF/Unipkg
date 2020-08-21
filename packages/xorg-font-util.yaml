@@ -1,0 +1,8 @@
+name: xorg-font-util
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-font-util
+    repo: extra
+  tag: stable

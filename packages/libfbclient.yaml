@@ -1,0 +1,8 @@
+name: libfbclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libfbclient
+    repo: extra
+  tag: stable

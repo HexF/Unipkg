@@ -1,0 +1,8 @@
+name: qtav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qtav
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: vim-spell-yi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-yi
+    repo: extra
+  tag: stable

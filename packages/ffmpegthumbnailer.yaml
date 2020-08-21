@@ -1,0 +1,8 @@
+name: ffmpegthumbnailer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ffmpegthumbnailer
+    repo: extra
+  tag: stable

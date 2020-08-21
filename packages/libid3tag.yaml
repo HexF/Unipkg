@@ -1,0 +1,8 @@
+name: libid3tag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libid3tag
+    repo: extra
+  tag: stable

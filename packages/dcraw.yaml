@@ -1,0 +1,8 @@
+name: dcraw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dcraw
+    repo: extra
+  tag: stable

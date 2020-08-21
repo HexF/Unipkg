@@ -1,0 +1,8 @@
+name: libvpx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvpx
+    repo: extra
+  tag: stable

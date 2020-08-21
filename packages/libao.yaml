@@ -1,0 +1,8 @@
+name: libao
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libao
+    repo: extra
+  tag: stable

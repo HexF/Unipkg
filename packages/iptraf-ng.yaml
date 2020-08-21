@@ -1,0 +1,8 @@
+name: iptraf-ng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iptraf-ng
+    repo: extra
+  tag: stable

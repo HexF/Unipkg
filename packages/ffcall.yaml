@@ -1,0 +1,8 @@
+name: ffcall
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ffcall
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kldap
+    repo: extra
+  tag: stable

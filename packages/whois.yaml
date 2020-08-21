@@ -1,0 +1,8 @@
+name: whois
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: whois
+    repo: extra
+  tag: stable

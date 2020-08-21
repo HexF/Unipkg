@@ -1,0 +1,8 @@
+name: appstream
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: appstream
+    repo: extra
+  tag: stable

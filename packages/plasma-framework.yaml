@@ -1,0 +1,8 @@
+name: plasma-framework
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-framework
+    repo: extra
+  tag: stable

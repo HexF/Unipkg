@@ -1,0 +1,8 @@
+name: plasma-wayland-session
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-wayland-session
+    repo: extra
+  tag: stable

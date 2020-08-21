@@ -1,0 +1,8 @@
+name: akonadi-import-wizard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akonadi-import-wizard
+    repo: extra
+  tag: stable

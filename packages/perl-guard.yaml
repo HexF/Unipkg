@@ -1,0 +1,8 @@
+name: perl-guard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-guard
+    repo: extra
+  tag: stable

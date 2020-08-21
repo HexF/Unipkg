@@ -1,0 +1,8 @@
+name: openjdk7-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk7-doc
+    repo: extra
+  tag: stable

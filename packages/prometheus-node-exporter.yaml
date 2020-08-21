@@ -1,0 +1,8 @@
+name: prometheus-node-exporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: prometheus-node-exporter
+    repo: extra
+  tag: stable

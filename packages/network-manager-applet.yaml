@@ -1,0 +1,8 @@
+name: network-manager-applet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: network-manager-applet
+    repo: extra
+  tag: stable

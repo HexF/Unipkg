@@ -1,0 +1,8 @@
+name: libcdio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcdio
+    repo: extra
+  tag: stable

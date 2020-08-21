@@ -1,0 +1,8 @@
+name: tslib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tslib
+    repo: extra
+  tag: stable

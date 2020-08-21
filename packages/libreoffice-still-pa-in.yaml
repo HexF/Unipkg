@@ -1,0 +1,8 @@
+name: libreoffice-still-pa-in
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-pa-in
+    repo: extra
+  tag: stable

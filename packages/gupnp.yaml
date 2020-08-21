@@ -1,0 +1,8 @@
+name: gupnp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gupnp
+    repo: extra
+  tag: stable

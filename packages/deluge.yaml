@@ -1,0 +1,8 @@
+name: deluge
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: deluge
+    repo: extra
+  tag: stable

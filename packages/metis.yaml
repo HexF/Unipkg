@@ -1,0 +1,8 @@
+name: metis
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: metis
+    repo: extra
+  tag: stable

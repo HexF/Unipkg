@@ -1,0 +1,8 @@
+name: gnome-contacts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-contacts
+    repo: extra
+  tag: stable

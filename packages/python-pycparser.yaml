@@ -1,0 +1,8 @@
+name: python-pycparser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pycparser
+    repo: extra
+  tag: stable

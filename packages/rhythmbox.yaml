@@ -1,0 +1,8 @@
+name: rhythmbox
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rhythmbox
+    repo: extra
+  tag: stable

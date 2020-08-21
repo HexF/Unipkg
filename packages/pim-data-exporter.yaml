@@ -1,0 +1,8 @@
+name: pim-data-exporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pim-data-exporter
+    repo: extra
+  tag: stable

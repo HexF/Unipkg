@@ -1,0 +1,8 @@
+name: fribidi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fribidi
+    repo: extra
+  tag: stable

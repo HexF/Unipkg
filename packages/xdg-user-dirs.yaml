@@ -1,0 +1,8 @@
+name: xdg-user-dirs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xdg-user-dirs
+    repo: extra
+  tag: stable

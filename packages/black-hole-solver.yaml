@@ -1,0 +1,8 @@
+name: black-hole-solver
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: black-hole-solver
+    repo: extra
+  tag: stable

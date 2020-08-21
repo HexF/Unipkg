@@ -1,0 +1,8 @@
+name: libnautilus-extension
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnautilus-extension
+    repo: extra
+  tag: stable

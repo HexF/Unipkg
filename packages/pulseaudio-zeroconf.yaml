@@ -1,0 +1,8 @@
+name: pulseaudio-zeroconf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-zeroconf
+    repo: extra
+  tag: stable

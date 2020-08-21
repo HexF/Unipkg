@@ -1,0 +1,8 @@
+name: nuget
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nuget
+    repo: extra
+  tag: stable

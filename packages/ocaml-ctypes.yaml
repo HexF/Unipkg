@@ -1,0 +1,8 @@
+name: ocaml-ctypes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocaml-ctypes
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: hitori
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hitori
+    repo: extra
+  tag: stable

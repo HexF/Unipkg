@@ -1,0 +1,8 @@
+name: musepack-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: musepack-tools
+    repo: extra
+  tag: stable

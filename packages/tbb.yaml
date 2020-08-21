@@ -1,0 +1,8 @@
+name: tbb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tbb
+    repo: extra
+  tag: stable

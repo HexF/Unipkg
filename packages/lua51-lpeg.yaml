@@ -1,0 +1,8 @@
+name: lua51-lpeg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua51-lpeg
+    repo: extra
+  tag: stable

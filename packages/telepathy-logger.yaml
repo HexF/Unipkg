@@ -1,0 +1,8 @@
+name: telepathy-logger
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-logger
+    repo: extra
+  tag: stable

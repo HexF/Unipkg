@@ -1,0 +1,8 @@
+name: libepoxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libepoxy
+    repo: extra
+  tag: stable

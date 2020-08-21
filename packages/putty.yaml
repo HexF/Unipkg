@@ -1,0 +1,8 @@
+name: putty
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: putty
+    repo: extra
+  tag: stable

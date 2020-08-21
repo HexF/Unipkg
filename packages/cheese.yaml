@@ -1,0 +1,8 @@
+name: cheese
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cheese
+    repo: extra
+  tag: stable

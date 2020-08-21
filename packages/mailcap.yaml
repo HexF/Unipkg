@@ -1,0 +1,8 @@
+name: mailcap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mailcap
+    repo: extra
+  tag: stable

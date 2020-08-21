@@ -1,0 +1,8 @@
+name: xfce4-dev-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-dev-tools
+    repo: extra
+  tag: stable

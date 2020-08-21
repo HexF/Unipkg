@@ -1,0 +1,8 @@
+name: psiconv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: psiconv
+    repo: extra
+  tag: stable

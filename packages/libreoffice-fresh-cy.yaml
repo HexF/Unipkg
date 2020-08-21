@@ -1,0 +1,8 @@
+name: libreoffice-fresh-cy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-cy
+    repo: extra
+  tag: stable

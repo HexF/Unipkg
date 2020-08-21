@@ -1,0 +1,8 @@
+name: vulkan-validation-layers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-validation-layers
+    repo: extra
+  tag: stable

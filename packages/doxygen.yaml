@@ -1,0 +1,8 @@
+name: doxygen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: doxygen
+    repo: extra
+  tag: stable

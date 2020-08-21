@@ -1,0 +1,8 @@
+name: qt5-scxml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-scxml
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: php-dblib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-dblib
+    repo: extra
+  tag: stable

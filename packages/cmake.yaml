@@ -1,0 +1,8 @@
+name: cmake
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cmake
+    repo: extra
+  tag: stable

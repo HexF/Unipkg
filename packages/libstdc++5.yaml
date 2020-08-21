@@ -1,0 +1,8 @@
+name: libstdc--5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libstdc++5
+    repo: extra
+  tag: stable

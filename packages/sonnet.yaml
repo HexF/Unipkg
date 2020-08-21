@@ -1,0 +1,8 @@
+name: sonnet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sonnet
+    repo: extra
+  tag: stable

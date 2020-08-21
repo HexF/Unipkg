@@ -1,0 +1,8 @@
+name: java-jline
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-jline
+    repo: extra
+  tag: stable

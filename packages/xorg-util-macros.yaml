@@ -1,0 +1,8 @@
+name: xorg-util-macros
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-util-macros
+    repo: extra
+  tag: stable

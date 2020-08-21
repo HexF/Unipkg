@@ -1,0 +1,8 @@
+name: libxext
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxext
+    repo: extra
+  tag: stable

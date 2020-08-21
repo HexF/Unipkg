@@ -1,0 +1,8 @@
+name: sbc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sbc
+    repo: extra
+  tag: stable

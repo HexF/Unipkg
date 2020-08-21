@@ -1,0 +1,8 @@
+name: rhino
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rhino
+    repo: extra
+  tag: stable

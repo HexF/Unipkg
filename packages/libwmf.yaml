@@ -1,0 +1,8 @@
+name: libwmf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwmf
+    repo: extra
+  tag: stable

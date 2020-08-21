@@ -1,0 +1,8 @@
+name: libmcrypt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmcrypt
+    repo: extra
+  tag: stable

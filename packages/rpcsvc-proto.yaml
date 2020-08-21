@@ -1,0 +1,8 @@
+name: rpcsvc-proto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rpcsvc-proto
+    repo: extra
+  tag: stable

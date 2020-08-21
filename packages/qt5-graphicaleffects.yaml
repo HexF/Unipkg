@@ -1,0 +1,8 @@
+name: qt5-graphicaleffects
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-graphicaleffects
+    repo: extra
+  tag: stable

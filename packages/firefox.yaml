@@ -1,16 +1,19 @@
 name: firefox
 tags:
-  - tag: stable
-    default: true
-    packages:
-      - distro: arch
-        package: firefox
-        repo: extra
-      - distro: ubuntu
-        package: firefox
-        repo: main
-  - tag: dev
-    packages:
-      - distro: arch
-        package: firefox-developer-edition
-        repo: community
+- default: true
+  packages:
+  - distro: arch
+    package: firefox
+    repo: extra
+  - distro: ubuntu
+    package: firefox
+    repo: main
+  - distro: arch
+    package: firefox
+    repo: extra
+  tag: stable
+- packages:
+  - distro: arch
+    package: firefox-developer-edition
+    repo: community
+  tag: dev

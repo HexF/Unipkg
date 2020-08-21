@@ -1,0 +1,8 @@
+name: serf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: serf
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: scim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: scim
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: joe
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: joe
+    repo: extra
+  tag: stable

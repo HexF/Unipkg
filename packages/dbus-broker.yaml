@@ -1,0 +1,8 @@
+name: dbus-broker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dbus-broker
+    repo: extra
+  tag: stable

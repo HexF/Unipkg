@@ -1,0 +1,8 @@
+name: libxnvctrl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxnvctrl
+    repo: extra
+  tag: stable

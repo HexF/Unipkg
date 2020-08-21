@@ -1,0 +1,8 @@
+name: vim-spell-ny
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-ny
+    repo: extra
+  tag: stable

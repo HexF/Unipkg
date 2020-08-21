@@ -1,0 +1,8 @@
+name: kdelibs4support
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdelibs4support
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xfce4-xkb-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-xkb-plugin
+    repo: extra
+  tag: stable

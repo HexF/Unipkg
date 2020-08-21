@@ -1,0 +1,8 @@
+name: libmtp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmtp
+    repo: extra
+  tag: stable

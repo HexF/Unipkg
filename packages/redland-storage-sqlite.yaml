@@ -1,0 +1,8 @@
+name: redland-storage-sqlite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: redland-storage-sqlite
+    repo: extra
+  tag: stable

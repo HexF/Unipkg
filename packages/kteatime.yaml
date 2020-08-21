@@ -1,0 +1,8 @@
+name: kteatime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kteatime
+    repo: extra
+  tag: stable

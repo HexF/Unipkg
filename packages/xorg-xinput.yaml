@@ -1,0 +1,8 @@
+name: xorg-xinput
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xinput
+    repo: extra
+  tag: stable

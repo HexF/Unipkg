@@ -1,0 +1,8 @@
+name: libdrm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdrm
+    repo: extra
+  tag: stable

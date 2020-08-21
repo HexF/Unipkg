@@ -1,0 +1,8 @@
+name: python2-ipaddress
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-ipaddress
+    repo: extra
+  tag: stable

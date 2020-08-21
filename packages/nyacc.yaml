@@ -1,0 +1,8 @@
+name: nyacc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nyacc
+    repo: extra
+  tag: stable

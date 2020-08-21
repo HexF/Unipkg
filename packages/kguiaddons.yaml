@@ -1,0 +1,8 @@
+name: kguiaddons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kguiaddons
+    repo: extra
+  tag: stable

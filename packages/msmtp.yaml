@@ -1,0 +1,8 @@
+name: msmtp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: msmtp
+    repo: extra
+  tag: stable

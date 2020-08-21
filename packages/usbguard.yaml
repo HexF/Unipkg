@@ -1,0 +1,8 @@
+name: usbguard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: usbguard
+    repo: extra
+  tag: stable

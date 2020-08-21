@@ -1,0 +1,8 @@
+name: perl-list-moreutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-list-moreutils
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: khelpcenter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: khelpcenter
+    repo: extra
+  tag: stable

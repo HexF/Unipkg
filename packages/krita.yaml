@@ -1,0 +1,8 @@
+name: krita
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: krita
+    repo: extra
+  tag: stable

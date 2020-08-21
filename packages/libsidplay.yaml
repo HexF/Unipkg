@@ -1,0 +1,8 @@
+name: libsidplay
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsidplay
+    repo: extra
+  tag: stable

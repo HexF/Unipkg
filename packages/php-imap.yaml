@@ -1,0 +1,8 @@
+name: php-imap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-imap
+    repo: extra
+  tag: stable

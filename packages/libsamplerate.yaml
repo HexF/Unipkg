@@ -1,0 +1,8 @@
+name: libsamplerate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsamplerate
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: recode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: recode
+    repo: extra
+  tag: stable

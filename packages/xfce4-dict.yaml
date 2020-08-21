@@ -1,0 +1,8 @@
+name: xfce4-dict
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-dict
+    repo: extra
+  tag: stable

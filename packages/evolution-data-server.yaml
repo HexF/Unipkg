@@ -1,0 +1,8 @@
+name: evolution-data-server
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evolution-data-server
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libgdiplus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgdiplus
+    repo: extra
+  tag: stable

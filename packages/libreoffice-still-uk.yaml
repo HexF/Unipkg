@@ -1,0 +1,8 @@
+name: libreoffice-still-uk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-uk
+    repo: extra
+  tag: stable

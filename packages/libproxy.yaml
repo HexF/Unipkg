@@ -1,0 +1,8 @@
+name: libproxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libproxy
+    repo: extra
+  tag: stable

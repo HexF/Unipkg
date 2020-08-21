@@ -1,0 +1,8 @@
+name: fluidsynth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fluidsynth
+    repo: extra
+  tag: stable

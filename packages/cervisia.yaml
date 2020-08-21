@@ -1,0 +1,8 @@
+name: cervisia
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cervisia
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: dfu-programmer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dfu-programmer
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: portmidi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: portmidi
+    repo: extra
+  tag: stable

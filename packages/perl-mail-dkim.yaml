@@ -1,0 +1,8 @@
+name: perl-mail-dkim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mail-dkim
+    repo: extra
+  tag: stable

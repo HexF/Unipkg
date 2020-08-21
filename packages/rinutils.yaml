@@ -1,0 +1,8 @@
+name: rinutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rinutils
+    repo: extra
+  tag: stable

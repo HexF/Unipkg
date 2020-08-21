@@ -1,0 +1,8 @@
+name: digikam
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: digikam
+    repo: extra
+  tag: stable

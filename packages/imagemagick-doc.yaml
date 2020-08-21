@@ -1,0 +1,8 @@
+name: imagemagick-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: imagemagick-doc
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xfce4-genmon-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-genmon-plugin
+    repo: extra
+  tag: stable

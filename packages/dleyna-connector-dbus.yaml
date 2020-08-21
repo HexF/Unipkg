@@ -1,0 +1,8 @@
+name: dleyna-connector-dbus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dleyna-connector-dbus
+    repo: extra
+  tag: stable

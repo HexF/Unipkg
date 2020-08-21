@@ -1,0 +1,8 @@
+name: cmark
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cmark
+    repo: extra
+  tag: stable

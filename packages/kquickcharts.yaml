@@ -1,0 +1,8 @@
+name: kquickcharts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kquickcharts
+    repo: extra
+  tag: stable

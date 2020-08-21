@@ -1,0 +1,8 @@
+name: xine-ui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xine-ui
+    repo: extra
+  tag: stable

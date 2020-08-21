@@ -1,0 +1,8 @@
+name: libreoffice-fresh-gl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-gl
+    repo: extra
+  tag: stable

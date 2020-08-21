@@ -1,0 +1,8 @@
+name: zabbix-proxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zabbix-proxy
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kmouth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmouth
+    repo: extra
+  tag: stable

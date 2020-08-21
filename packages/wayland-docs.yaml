@@ -1,0 +1,8 @@
+name: wayland-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wayland-docs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-xclipboard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xclipboard
+    repo: extra
+  tag: stable

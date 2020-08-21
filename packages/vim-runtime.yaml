@@ -1,0 +1,8 @@
+name: vim-runtime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-runtime
+    repo: extra
+  tag: stable

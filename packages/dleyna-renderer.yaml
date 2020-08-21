@@ -1,0 +1,8 @@
+name: dleyna-renderer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dleyna-renderer
+    repo: extra
+  tag: stable

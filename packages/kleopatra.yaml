@@ -1,0 +1,8 @@
+name: kleopatra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kleopatra
+    repo: extra
+  tag: stable

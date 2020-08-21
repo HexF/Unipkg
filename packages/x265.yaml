@@ -1,0 +1,8 @@
+name: x265
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: x265
+    repo: extra
+  tag: stable

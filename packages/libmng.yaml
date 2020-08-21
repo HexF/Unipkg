@@ -1,0 +1,8 @@
+name: libmng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmng
+    repo: extra
+  tag: stable

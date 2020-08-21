@@ -1,0 +1,8 @@
+name: thunderbird-i18n-hy-am
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thunderbird-i18n-hy-am
+    repo: extra
+  tag: stable

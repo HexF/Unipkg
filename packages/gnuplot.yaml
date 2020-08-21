@@ -1,0 +1,8 @@
+name: gnuplot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnuplot
+    repo: extra
+  tag: stable

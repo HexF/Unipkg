@@ -1,0 +1,8 @@
+name: frameworkintegration
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: frameworkintegration
+    repo: extra
+  tag: stable

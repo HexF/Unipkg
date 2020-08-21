@@ -1,0 +1,8 @@
+name: perl-text-roman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-roman
+    repo: extra
+  tag: stable

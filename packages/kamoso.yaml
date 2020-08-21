@@ -1,0 +1,8 @@
+name: kamoso
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kamoso
+    repo: extra
+  tag: stable

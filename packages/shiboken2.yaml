@@ -1,0 +1,8 @@
+name: shiboken2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: shiboken2
+    repo: extra
+  tag: stable

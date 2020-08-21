@@ -1,0 +1,8 @@
+name: gnome-mahjongg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-mahjongg
+    repo: extra
+  tag: stable

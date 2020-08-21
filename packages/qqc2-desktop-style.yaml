@@ -1,0 +1,8 @@
+name: qqc2-desktop-style
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qqc2-desktop-style
+    repo: extra
+  tag: stable

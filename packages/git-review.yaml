@@ -1,0 +1,8 @@
+name: git-review
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: git-review
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-xdriinfo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xdriinfo
+    repo: extra
+  tag: stable

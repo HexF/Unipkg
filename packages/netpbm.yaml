@@ -1,0 +1,8 @@
+name: netpbm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: netpbm
+    repo: extra
+  tag: stable

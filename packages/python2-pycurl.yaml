@@ -1,0 +1,8 @@
+name: python2-pycurl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-pycurl
+    repo: extra
+  tag: stable

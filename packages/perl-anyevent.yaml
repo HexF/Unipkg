@@ -1,0 +1,8 @@
+name: perl-anyevent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-anyevent
+    repo: extra
+  tag: stable

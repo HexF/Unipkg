@@ -1,0 +1,8 @@
+name: lyx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lyx
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: texlive-music
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-music
+    repo: extra
+  tag: stable

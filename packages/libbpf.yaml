@@ -1,0 +1,8 @@
+name: libbpf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libbpf
+    repo: extra
+  tag: stable

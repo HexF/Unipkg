@@ -1,0 +1,8 @@
+name: flatpak
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: flatpak
+    repo: extra
+  tag: stable

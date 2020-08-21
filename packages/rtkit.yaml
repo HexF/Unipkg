@@ -1,0 +1,8 @@
+name: rtkit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rtkit
+    repo: extra
+  tag: stable

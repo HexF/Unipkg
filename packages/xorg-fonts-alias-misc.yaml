@@ -1,0 +1,8 @@
+name: xorg-fonts-alias-misc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-fonts-alias-misc
+    repo: extra
+  tag: stable

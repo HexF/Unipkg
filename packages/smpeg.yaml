@@ -1,0 +1,8 @@
+name: smpeg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: smpeg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libkscreen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkscreen
+    repo: extra
+  tag: stable

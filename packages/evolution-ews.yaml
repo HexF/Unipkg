@@ -1,0 +1,8 @@
+name: evolution-ews
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evolution-ews
+    repo: extra
+  tag: stable

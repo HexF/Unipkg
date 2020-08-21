@@ -1,0 +1,8 @@
+name: egl-wayland
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: egl-wayland
+    repo: extra
+  tag: stable

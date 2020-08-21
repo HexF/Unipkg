@@ -1,0 +1,8 @@
+name: mpg123
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mpg123
+    repo: extra
+  tag: stable

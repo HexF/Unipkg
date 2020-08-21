@@ -1,0 +1,8 @@
+name: python-shiboken2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-shiboken2
+    repo: extra
+  tag: stable

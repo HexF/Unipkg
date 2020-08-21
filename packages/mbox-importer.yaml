@@ -1,0 +1,8 @@
+name: mbox-importer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mbox-importer
+    repo: extra
+  tag: stable

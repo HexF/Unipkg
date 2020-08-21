@@ -1,0 +1,8 @@
+name: libraw1394
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libraw1394
+    repo: extra
+  tag: stable

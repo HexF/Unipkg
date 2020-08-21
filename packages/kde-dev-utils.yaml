@@ -1,0 +1,8 @@
+name: kde-dev-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-dev-utils
+    repo: extra
+  tag: stable

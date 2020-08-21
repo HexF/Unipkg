@@ -1,0 +1,8 @@
+name: perl-string-shellquote
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-string-shellquote
+    repo: extra
+  tag: stable

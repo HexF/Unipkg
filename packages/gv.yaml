@@ -1,0 +1,8 @@
+name: gv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gv
+    repo: extra
+  tag: stable

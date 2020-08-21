@@ -1,0 +1,8 @@
+name: easy-rsa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: easy-rsa
+    repo: extra
+  tag: stable

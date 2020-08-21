@@ -1,0 +1,8 @@
+name: pipewire-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pipewire-docs
+    repo: extra
+  tag: stable

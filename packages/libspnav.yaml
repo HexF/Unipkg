@@ -1,0 +1,8 @@
+name: libspnav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libspnav
+    repo: extra
+  tag: stable

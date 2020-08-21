@@ -1,0 +1,8 @@
+name: cups-pdf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cups-pdf
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mercurial
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mercurial
+    repo: extra
+  tag: stable

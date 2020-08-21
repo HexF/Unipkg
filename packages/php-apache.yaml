@@ -1,0 +1,8 @@
+name: php-apache
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-apache
+    repo: extra
+  tag: stable

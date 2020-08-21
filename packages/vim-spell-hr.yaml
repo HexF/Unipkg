@@ -1,0 +1,8 @@
+name: vim-spell-hr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-hr
+    repo: extra
+  tag: stable

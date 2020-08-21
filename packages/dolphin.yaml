@@ -1,0 +1,8 @@
+name: dolphin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dolphin
+    repo: extra
+  tag: stable

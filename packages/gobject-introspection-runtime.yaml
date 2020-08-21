@@ -1,0 +1,8 @@
+name: gobject-introspection-runtime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gobject-introspection-runtime
+    repo: extra
+  tag: stable

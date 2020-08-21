@@ -1,0 +1,8 @@
+name: python-sgmllib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-sgmllib
+    repo: extra
+  tag: stable

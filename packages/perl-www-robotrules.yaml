@@ -1,0 +1,8 @@
+name: perl-www-robotrules
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-www-robotrules
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: tamu-anova
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tamu-anova
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kwayland-server
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwayland-server
+    repo: extra
+  tag: stable

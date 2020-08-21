@@ -1,0 +1,8 @@
+name: libreoffice-still-mni
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-mni
+    repo: extra
+  tag: stable

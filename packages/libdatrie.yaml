@@ -1,0 +1,8 @@
+name: libdatrie
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdatrie
+    repo: extra
+  tag: stable

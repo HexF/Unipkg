@@ -1,0 +1,8 @@
+name: libpciaccess
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpciaccess
+    repo: extra
+  tag: stable

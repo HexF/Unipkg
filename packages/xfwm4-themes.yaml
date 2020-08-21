@@ -1,0 +1,8 @@
+name: xfwm4-themes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfwm4-themes
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libmms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmms
+    repo: extra
+  tag: stable

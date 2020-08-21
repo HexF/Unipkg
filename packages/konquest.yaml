@@ -1,0 +1,8 @@
+name: konquest
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: konquest
+    repo: extra
+  tag: stable

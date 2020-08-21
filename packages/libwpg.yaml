@@ -1,0 +1,8 @@
+name: libwpg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwpg
+    repo: extra
+  tag: stable

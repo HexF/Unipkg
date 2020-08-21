@@ -1,0 +1,8 @@
+name: perl-encode-locale
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-encode-locale
+    repo: extra
+  tag: stable

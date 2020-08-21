@@ -1,0 +1,8 @@
+name: json-glib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: json-glib
+    repo: extra
+  tag: stable

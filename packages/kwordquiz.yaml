@@ -1,0 +1,8 @@
+name: kwordquiz
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwordquiz
+    repo: extra
+  tag: stable

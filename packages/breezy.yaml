@@ -1,0 +1,8 @@
+name: breezy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: breezy
+    repo: extra
+  tag: stable

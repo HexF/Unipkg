@@ -1,0 +1,8 @@
+name: nftables
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nftables
+    repo: extra
+  tag: stable

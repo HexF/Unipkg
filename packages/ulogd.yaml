@@ -1,0 +1,8 @@
+name: ulogd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ulogd
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: boost-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: boost-libs
+    repo: extra
+  tag: stable

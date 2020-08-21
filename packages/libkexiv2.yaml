@@ -1,0 +1,8 @@
+name: libkexiv2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkexiv2
+    repo: extra
+  tag: stable

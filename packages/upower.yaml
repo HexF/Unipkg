@@ -1,0 +1,8 @@
+name: upower
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: upower
+    repo: extra
+  tag: stable

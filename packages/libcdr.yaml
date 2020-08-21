@@ -1,0 +1,8 @@
+name: libcdr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcdr
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libproxy-webkit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libproxy-webkit
+    repo: extra
+  tag: stable

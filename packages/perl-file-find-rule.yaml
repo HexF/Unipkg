@@ -1,0 +1,8 @@
+name: perl-file-find-rule
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-find-rule
+    repo: extra
+  tag: stable

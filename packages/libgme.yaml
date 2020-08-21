@@ -1,0 +1,8 @@
+name: libgme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgme
+    repo: extra
+  tag: stable

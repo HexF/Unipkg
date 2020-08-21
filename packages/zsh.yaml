@@ -1,0 +1,8 @@
+name: zsh
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zsh
+    repo: extra
+  tag: stable

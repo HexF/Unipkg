@@ -1,0 +1,8 @@
+name: cpio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cpio
+    repo: extra
+  tag: stable

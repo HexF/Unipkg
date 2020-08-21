@@ -1,0 +1,8 @@
+name: wpebackend-fdo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wpebackend-fdo
+    repo: extra
+  tag: stable

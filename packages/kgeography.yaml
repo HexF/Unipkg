@@ -1,0 +1,8 @@
+name: kgeography
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kgeography
+    repo: extra
+  tag: stable

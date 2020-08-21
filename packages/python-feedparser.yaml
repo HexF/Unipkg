@@ -1,0 +1,8 @@
+name: python-feedparser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-feedparser
+    repo: extra
+  tag: stable

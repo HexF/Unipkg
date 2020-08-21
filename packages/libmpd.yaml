@@ -1,0 +1,8 @@
+name: libmpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmpd
+    repo: extra
+  tag: stable

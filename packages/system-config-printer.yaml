@@ -1,0 +1,8 @@
+name: system-config-printer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: system-config-printer
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdesdk-kioslaves
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdesdk-kioslaves
+    repo: extra
+  tag: stable

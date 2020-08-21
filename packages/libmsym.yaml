@@ -1,0 +1,8 @@
+name: libmsym
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmsym
+    repo: extra
+  tag: stable

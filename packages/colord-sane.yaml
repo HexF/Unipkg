@@ -1,0 +1,8 @@
+name: colord-sane
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: colord-sane
+    repo: extra
+  tag: stable

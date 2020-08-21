@@ -1,0 +1,8 @@
+name: libxcursor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxcursor
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: efl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: efl
+    repo: extra
+  tag: stable

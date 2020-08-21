@@ -1,0 +1,8 @@
+name: a2ps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: a2ps
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libxshmfence
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxshmfence
+    repo: extra
+  tag: stable

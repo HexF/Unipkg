@@ -1,0 +1,8 @@
+name: knewstuff
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knewstuff
+    repo: extra
+  tag: stable

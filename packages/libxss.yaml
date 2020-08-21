@@ -1,0 +1,8 @@
+name: libxss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxss
+    repo: extra
+  tag: stable

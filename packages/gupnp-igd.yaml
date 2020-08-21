@@ -1,0 +1,8 @@
+name: gupnp-igd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gupnp-igd
+    repo: extra
+  tag: stable

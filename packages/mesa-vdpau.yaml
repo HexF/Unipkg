@@ -1,0 +1,8 @@
+name: mesa-vdpau
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mesa-vdpau
+    repo: extra
+  tag: stable

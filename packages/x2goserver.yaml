@@ -1,0 +1,8 @@
+name: x2goserver
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: x2goserver
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: feh
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: feh
+    repo: extra
+  tag: stable

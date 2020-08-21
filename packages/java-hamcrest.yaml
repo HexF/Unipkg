@@ -1,0 +1,8 @@
+name: java-hamcrest
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-hamcrest
+    repo: extra
+  tag: stable

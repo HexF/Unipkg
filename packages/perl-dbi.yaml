@@ -1,0 +1,8 @@
+name: perl-dbi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-dbi
+    repo: extra
+  tag: stable

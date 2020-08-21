@@ -1,0 +1,8 @@
+name: squashfuse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: squashfuse
+    repo: extra
+  tag: stable

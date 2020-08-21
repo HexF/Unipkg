@@ -1,0 +1,8 @@
+name: parley
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: parley
+    repo: extra
+  tag: stable

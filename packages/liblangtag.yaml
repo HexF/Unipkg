@@ -1,0 +1,8 @@
+name: liblangtag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liblangtag
+    repo: extra
+  tag: stable

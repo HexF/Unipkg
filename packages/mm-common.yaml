@@ -1,0 +1,8 @@
+name: mm-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mm-common
+    repo: extra
+  tag: stable

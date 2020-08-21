@@ -1,0 +1,8 @@
+name: nxproxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nxproxy
+    repo: extra
+  tag: stable

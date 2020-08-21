@@ -1,0 +1,8 @@
+name: libakonadi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libakonadi
+    repo: extra
+  tag: stable

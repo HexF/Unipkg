@@ -1,0 +1,8 @@
+name: kdesdk-thumbnailers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdesdk-thumbnailers
+    repo: extra
+  tag: stable

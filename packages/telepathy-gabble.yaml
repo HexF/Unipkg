@@ -1,0 +1,8 @@
+name: telepathy-gabble
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-gabble
+    repo: extra
+  tag: stable

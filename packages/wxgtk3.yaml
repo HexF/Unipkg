@@ -1,0 +1,8 @@
+name: wxgtk3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wxgtk3
+    repo: extra
+  tag: stable

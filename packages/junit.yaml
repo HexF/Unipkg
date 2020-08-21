@@ -1,0 +1,8 @@
+name: junit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: junit
+    repo: extra
+  tag: stable

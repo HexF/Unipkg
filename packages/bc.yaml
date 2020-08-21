@@ -1,0 +1,8 @@
+name: bc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bc
+    repo: extra
+  tag: stable

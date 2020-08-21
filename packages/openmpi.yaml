@@ -1,0 +1,8 @@
+name: openmpi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openmpi
+    repo: extra
+  tag: stable

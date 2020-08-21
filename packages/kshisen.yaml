@@ -1,0 +1,8 @@
+name: kshisen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kshisen
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libxkbcommon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxkbcommon
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kate
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libmatroska
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmatroska
+    repo: extra
+  tag: stable

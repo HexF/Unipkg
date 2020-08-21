@@ -1,0 +1,8 @@
+name: kmail
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmail
+    repo: extra
+  tag: stable

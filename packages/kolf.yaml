@@ -1,0 +1,8 @@
+name: kolf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kolf
+    repo: extra
+  tag: stable

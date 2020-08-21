@@ -1,0 +1,8 @@
+name: bullet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bullet
+    repo: extra
+  tag: stable

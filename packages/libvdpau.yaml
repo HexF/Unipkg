@@ -1,0 +1,8 @@
+name: libvdpau
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvdpau
+    repo: extra
+  tag: stable

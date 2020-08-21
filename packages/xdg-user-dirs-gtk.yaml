@@ -1,0 +1,8 @@
+name: xdg-user-dirs-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xdg-user-dirs-gtk
+    repo: extra
+  tag: stable

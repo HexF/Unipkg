@@ -1,0 +1,8 @@
+name: kbounce
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kbounce
+    repo: extra
+  tag: stable

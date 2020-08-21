@@ -1,0 +1,8 @@
+name: firefox-i18n-hsb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: firefox-i18n-hsb
+    repo: extra
+  tag: stable

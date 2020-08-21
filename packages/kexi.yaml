@@ -1,0 +1,8 @@
+name: kexi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kexi
+    repo: extra
+  tag: stable

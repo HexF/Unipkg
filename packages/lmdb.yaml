@@ -1,0 +1,8 @@
+name: lmdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lmdb
+    repo: extra
+  tag: stable

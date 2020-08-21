@@ -1,0 +1,8 @@
+name: cogl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cogl
+    repo: extra
+  tag: stable

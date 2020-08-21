@@ -1,0 +1,8 @@
+name: vulkan-icd-loader
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-icd-loader
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: nghttp2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nghttp2
+    repo: extra
+  tag: stable

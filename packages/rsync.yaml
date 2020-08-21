@@ -1,0 +1,8 @@
+name: rsync
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rsync
+    repo: extra
+  tag: stable

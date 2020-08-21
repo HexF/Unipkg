@@ -1,0 +1,8 @@
+name: kjumpingcube
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kjumpingcube
+    repo: extra
+  tag: stable

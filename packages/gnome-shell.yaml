@@ -1,0 +1,8 @@
+name: gnome-shell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-shell
+    repo: extra
+  tag: stable

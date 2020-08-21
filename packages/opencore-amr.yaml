@@ -1,0 +1,8 @@
+name: opencore-amr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencore-amr
+    repo: extra
+  tag: stable

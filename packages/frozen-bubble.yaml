@@ -1,0 +1,8 @@
+name: frozen-bubble
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: frozen-bubble
+    repo: extra
+  tag: stable

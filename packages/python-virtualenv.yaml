@@ -1,0 +1,8 @@
+name: python-virtualenv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-virtualenv
+    repo: extra
+  tag: stable

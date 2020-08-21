@@ -1,0 +1,8 @@
+name: ffmpegthumbs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ffmpegthumbs
+    repo: extra
+  tag: stable

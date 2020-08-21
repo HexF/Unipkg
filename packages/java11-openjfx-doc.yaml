@@ -1,0 +1,8 @@
+name: java11-openjfx-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java11-openjfx-doc
+    repo: extra
+  tag: stable

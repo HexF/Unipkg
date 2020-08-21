@@ -1,0 +1,8 @@
+name: java-activation-gnu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-activation-gnu
+    repo: extra
+  tag: stable

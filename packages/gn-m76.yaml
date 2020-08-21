@@ -1,0 +1,8 @@
+name: gn-m76
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gn-m76
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: socat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: socat
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: basket
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: basket
+    repo: extra
+  tag: stable

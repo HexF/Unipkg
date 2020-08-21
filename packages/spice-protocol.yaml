@@ -1,0 +1,8 @@
+name: spice-protocol
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spice-protocol
+    repo: extra
+  tag: stable

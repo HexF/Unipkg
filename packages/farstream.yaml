@@ -1,0 +1,8 @@
+name: farstream
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: farstream
+    repo: extra
+  tag: stable

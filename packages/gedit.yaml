@@ -1,0 +1,8 @@
+name: gedit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gedit
+    repo: extra
+  tag: stable

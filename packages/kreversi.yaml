@@ -1,0 +1,8 @@
+name: kreversi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kreversi
+    repo: extra
+  tag: stable

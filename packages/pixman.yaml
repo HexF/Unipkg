@@ -1,0 +1,8 @@
+name: pixman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pixman
+    repo: extra
+  tag: stable

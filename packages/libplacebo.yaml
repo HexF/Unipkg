@@ -1,0 +1,8 @@
+name: libplacebo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libplacebo
+    repo: extra
+  tag: stable

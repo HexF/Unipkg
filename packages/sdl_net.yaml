@@ -1,0 +1,8 @@
+name: sdl-net
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_net
+    repo: extra
+  tag: stable

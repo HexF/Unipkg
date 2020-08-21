@@ -1,0 +1,8 @@
+name: festival
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: festival
+    repo: extra
+  tag: stable

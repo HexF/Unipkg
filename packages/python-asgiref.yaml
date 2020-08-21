@@ -1,0 +1,8 @@
+name: python-asgiref
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-asgiref
+    repo: extra
+  tag: stable

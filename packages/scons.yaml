@@ -1,0 +1,8 @@
+name: scons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: scons
+    repo: extra
+  tag: stable

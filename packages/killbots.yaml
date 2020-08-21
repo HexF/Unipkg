@@ -1,0 +1,8 @@
+name: killbots
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: killbots
+    repo: extra
+  tag: stable

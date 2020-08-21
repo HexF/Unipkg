@@ -1,0 +1,8 @@
+name: xerces2-java
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xerces2-java
+    repo: extra
+  tag: stable

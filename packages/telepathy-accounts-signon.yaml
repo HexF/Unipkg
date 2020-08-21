@@ -1,0 +1,8 @@
+name: telepathy-accounts-signon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-accounts-signon
+    repo: extra
+  tag: stable

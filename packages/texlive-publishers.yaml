@@ -1,0 +1,8 @@
+name: texlive-publishers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-publishers
+    repo: extra
+  tag: stable

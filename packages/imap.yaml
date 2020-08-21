@@ -1,0 +1,8 @@
+name: imap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: imap
+    repo: extra
+  tag: stable

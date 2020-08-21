@@ -1,0 +1,8 @@
+name: hylafax
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hylafax
+    repo: extra
+  tag: stable

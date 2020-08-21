@@ -1,0 +1,8 @@
+name: clutter-gst
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clutter-gst
+    repo: extra
+  tag: stable

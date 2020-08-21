@@ -1,0 +1,8 @@
+name: truecrypt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: truecrypt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: glibmm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glibmm
+    repo: extra
+  tag: stable

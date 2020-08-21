@@ -1,0 +1,8 @@
+name: asio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: asio
+    repo: extra
+  tag: stable

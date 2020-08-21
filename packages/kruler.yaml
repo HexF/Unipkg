@@ -1,0 +1,8 @@
+name: kruler
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kruler
+    repo: extra
+  tag: stable

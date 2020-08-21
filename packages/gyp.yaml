@@ -1,0 +1,8 @@
+name: gyp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gyp
+    repo: extra
+  tag: stable

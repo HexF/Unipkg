@@ -1,0 +1,8 @@
+name: python2-systemd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-systemd
+    repo: extra
+  tag: stable

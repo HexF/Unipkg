@@ -1,0 +1,8 @@
+name: libmspack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmspack
+    repo: extra
+  tag: stable

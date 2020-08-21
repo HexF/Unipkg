@@ -1,0 +1,8 @@
+name: python2-backports.functools-lru-cache
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-backports.functools_lru_cache
+    repo: extra
+  tag: stable

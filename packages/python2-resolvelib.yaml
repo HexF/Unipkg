@@ -1,0 +1,8 @@
+name: python2-resolvelib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-resolvelib
+    repo: extra
+  tag: stable

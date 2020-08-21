@@ -1,0 +1,8 @@
+name: perl-error
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-error
+    repo: extra
+  tag: stable

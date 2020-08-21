@@ -1,0 +1,8 @@
+name: libnotify
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnotify
+    repo: extra
+  tag: stable

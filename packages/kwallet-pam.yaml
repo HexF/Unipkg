@@ -1,0 +1,8 @@
+name: kwallet-pam
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwallet-pam
+    repo: extra
+  tag: stable

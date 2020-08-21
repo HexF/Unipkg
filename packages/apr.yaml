@@ -1,0 +1,8 @@
+name: apr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: apr
+    repo: extra
+  tag: stable

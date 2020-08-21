@@ -1,0 +1,8 @@
+name: xvidcore
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xvidcore
+    repo: extra
+  tag: stable

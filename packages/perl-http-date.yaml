@@ -1,0 +1,8 @@
+name: perl-http-date
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-http-date
+    repo: extra
+  tag: stable

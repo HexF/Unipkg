@@ -1,0 +1,8 @@
+name: quadrapassel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: quadrapassel
+    repo: extra
+  tag: stable

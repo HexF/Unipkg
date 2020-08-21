@@ -1,0 +1,8 @@
+name: xorg-xcursorgen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xcursorgen
+    repo: extra
+  tag: stable

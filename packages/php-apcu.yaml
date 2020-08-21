@@ -1,0 +1,8 @@
+name: php-apcu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-apcu
+    repo: extra
+  tag: stable

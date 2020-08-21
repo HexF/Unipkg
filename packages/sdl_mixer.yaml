@@ -1,0 +1,8 @@
+name: sdl-mixer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_mixer
+    repo: extra
+  tag: stable

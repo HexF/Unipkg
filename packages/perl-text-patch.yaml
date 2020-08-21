@@ -1,0 +1,8 @@
+name: perl-text-patch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-patch
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: discount
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: discount
+    repo: extra
+  tag: stable

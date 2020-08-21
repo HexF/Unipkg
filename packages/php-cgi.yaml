@@ -1,0 +1,8 @@
+name: php-cgi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-cgi
+    repo: extra
+  tag: stable

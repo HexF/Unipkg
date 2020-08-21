@@ -1,0 +1,8 @@
+name: sane
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sane
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libreoffice-still-pl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-pl
+    repo: extra
+  tag: stable

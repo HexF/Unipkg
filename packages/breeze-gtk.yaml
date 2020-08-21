@@ -1,0 +1,8 @@
+name: breeze-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: breeze-gtk
+    repo: extra
+  tag: stable

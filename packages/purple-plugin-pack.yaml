@@ -1,0 +1,8 @@
+name: purple-plugin-pack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: purple-plugin-pack
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kio-gdrive
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kio-gdrive
+    repo: extra
+  tag: stable

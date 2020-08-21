@@ -1,0 +1,8 @@
+name: kanagram
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kanagram
+    repo: extra
+  tag: stable

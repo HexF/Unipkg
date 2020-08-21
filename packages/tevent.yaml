@@ -1,0 +1,8 @@
+name: tevent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tevent
+    repo: extra
+  tag: stable

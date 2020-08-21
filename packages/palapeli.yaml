@@ -1,0 +1,8 @@
+name: palapeli
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: palapeli
+    repo: extra
+  tag: stable

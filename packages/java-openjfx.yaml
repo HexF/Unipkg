@@ -1,0 +1,8 @@
+name: java-openjfx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-openjfx
+    repo: extra
+  tag: stable

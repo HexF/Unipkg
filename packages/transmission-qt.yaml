@@ -1,0 +1,8 @@
+name: transmission-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: transmission-qt
+    repo: extra
+  tag: stable

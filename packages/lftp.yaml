@@ -1,0 +1,8 @@
+name: lftp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lftp
+    repo: extra
+  tag: stable

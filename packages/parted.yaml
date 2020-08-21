@@ -1,0 +1,8 @@
+name: parted
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: parted
+    repo: extra
+  tag: stable

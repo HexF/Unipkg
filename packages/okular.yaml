@@ -1,0 +1,8 @@
+name: okular
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: okular
+    repo: extra
+  tag: stable

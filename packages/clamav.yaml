@@ -1,0 +1,8 @@
+name: clamav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clamav
+    repo: extra
+  tag: stable

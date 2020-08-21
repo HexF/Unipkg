@@ -1,0 +1,8 @@
+name: gnome-sudoku
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-sudoku
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-idna
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-idna
+    repo: extra
+  tag: stable

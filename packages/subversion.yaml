@@ -1,0 +1,8 @@
+name: subversion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: subversion
+    repo: extra
+  tag: stable

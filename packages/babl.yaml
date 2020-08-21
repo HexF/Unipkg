@@ -1,0 +1,8 @@
+name: babl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: babl
+    repo: extra
+  tag: stable

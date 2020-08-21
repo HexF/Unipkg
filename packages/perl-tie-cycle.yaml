@@ -1,0 +1,8 @@
+name: perl-tie-cycle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-tie-cycle
+    repo: extra
+  tag: stable

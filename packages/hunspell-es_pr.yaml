@@ -1,0 +1,8 @@
+name: hunspell-es-pr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell-es_pr
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: plasma-thunderbolt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-thunderbolt
+    repo: extra
+  tag: stable

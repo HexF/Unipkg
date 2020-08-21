@@ -1,0 +1,8 @@
+name: kollision
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kollision
+    repo: extra
+  tag: stable

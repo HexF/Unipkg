@@ -1,0 +1,8 @@
+name: python-pyqtpurchasing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyqtpurchasing
+    repo: extra
+  tag: stable

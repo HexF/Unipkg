@@ -1,0 +1,8 @@
+name: pyqt-builder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pyqt-builder
+    repo: extra
+  tag: stable

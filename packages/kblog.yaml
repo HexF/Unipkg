@@ -1,0 +1,8 @@
+name: kblog
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kblog
+    repo: extra
+  tag: stable

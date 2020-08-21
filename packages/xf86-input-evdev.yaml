@@ -1,0 +1,8 @@
+name: xf86-input-evdev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-input-evdev
+    repo: extra
+  tag: stable

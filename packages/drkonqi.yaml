@@ -1,0 +1,8 @@
+name: drkonqi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: drkonqi
+    repo: extra
+  tag: stable

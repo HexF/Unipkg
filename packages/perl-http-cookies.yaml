@@ -1,0 +1,8 @@
+name: perl-http-cookies
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-http-cookies
+    repo: extra
+  tag: stable

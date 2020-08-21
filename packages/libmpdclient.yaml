@@ -1,0 +1,8 @@
+name: libmpdclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmpdclient
+    repo: extra
+  tag: stable

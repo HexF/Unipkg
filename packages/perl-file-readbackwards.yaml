@@ -1,0 +1,8 @@
+name: perl-file-readbackwards
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-readbackwards
+    repo: extra
+  tag: stable

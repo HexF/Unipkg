@@ -1,0 +1,8 @@
+name: xorg-xlsatoms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xlsatoms
+    repo: extra
+  tag: stable

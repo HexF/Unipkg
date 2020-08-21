@@ -1,0 +1,8 @@
+name: knotifyconfig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knotifyconfig
+    repo: extra
+  tag: stable

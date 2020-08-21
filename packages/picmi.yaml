@@ -1,0 +1,8 @@
+name: picmi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: picmi
+    repo: extra
+  tag: stable

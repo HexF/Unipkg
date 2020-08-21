@@ -1,0 +1,8 @@
+name: freealut
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: freealut
+    repo: extra
+  tag: stable

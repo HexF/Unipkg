@@ -1,0 +1,8 @@
+name: ruby-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ruby-docs
+    repo: extra
+  tag: stable

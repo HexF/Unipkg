@@ -1,0 +1,8 @@
+name: lapack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lapack
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: giflib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: giflib
+    repo: extra
+  tag: stable

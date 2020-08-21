@@ -1,0 +1,8 @@
+name: live-media
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: live-media
+    repo: extra
+  tag: stable

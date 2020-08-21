@@ -1,0 +1,8 @@
+name: ruby
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ruby
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: qscintilla-qt5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qscintilla-qt5
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: sane-frontends
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sane-frontends
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libreoffice-still-kk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-kk
+    repo: extra
+  tag: stable

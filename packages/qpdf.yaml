@@ -1,0 +1,8 @@
+name: qpdf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qpdf
+    repo: extra
+  tag: stable

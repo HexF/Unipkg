@@ -1,0 +1,8 @@
+name: gnome-chess
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-chess
+    repo: extra
+  tag: stable

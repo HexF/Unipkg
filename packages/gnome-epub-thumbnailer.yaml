@@ -1,0 +1,8 @@
+name: gnome-epub-thumbnailer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-epub-thumbnailer
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libsrtp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsrtp
+    repo: extra
+  tag: stable

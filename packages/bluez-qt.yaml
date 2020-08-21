@@ -1,0 +1,8 @@
+name: bluez-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bluez-qt
+    repo: extra
+  tag: stable

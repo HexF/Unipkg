@@ -1,0 +1,8 @@
+name: razor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: razor
+    repo: extra
+  tag: stable

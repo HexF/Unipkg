@@ -1,0 +1,8 @@
+name: pulseaudio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio
+    repo: extra
+  tag: stable

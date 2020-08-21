@@ -1,0 +1,8 @@
+name: kbruch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kbruch
+    repo: extra
+  tag: stable

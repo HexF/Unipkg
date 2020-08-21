@@ -1,0 +1,8 @@
+name: speex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: speex
+    repo: extra
+  tag: stable

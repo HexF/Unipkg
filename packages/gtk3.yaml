@@ -1,0 +1,8 @@
+name: gtk3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk3
+    repo: extra
+  tag: stable

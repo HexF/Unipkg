@@ -1,0 +1,8 @@
+name: smartmontools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: smartmontools
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xmlto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xmlto
+    repo: extra
+  tag: stable

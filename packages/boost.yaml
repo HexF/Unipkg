@@ -1,0 +1,8 @@
+name: boost
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: boost
+    repo: extra
+  tag: stable

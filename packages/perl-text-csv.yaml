@@ -1,0 +1,8 @@
+name: perl-text-csv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-csv
+    repo: extra
+  tag: stable

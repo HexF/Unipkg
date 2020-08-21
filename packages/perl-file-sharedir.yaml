@@ -1,0 +1,8 @@
+name: perl-file-sharedir
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-sharedir
+    repo: extra
+  tag: stable

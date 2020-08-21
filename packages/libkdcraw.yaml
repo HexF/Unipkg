@@ -1,0 +1,8 @@
+name: libkdcraw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkdcraw
+    repo: extra
+  tag: stable

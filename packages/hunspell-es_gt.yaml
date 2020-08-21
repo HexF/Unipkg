@@ -1,0 +1,8 @@
+name: hunspell-es-gt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell-es_gt
+    repo: extra
+  tag: stable

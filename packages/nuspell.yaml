@@ -1,0 +1,8 @@
+name: nuspell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nuspell
+    repo: extra
+  tag: stable

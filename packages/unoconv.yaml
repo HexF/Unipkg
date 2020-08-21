@@ -1,0 +1,8 @@
+name: unoconv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: unoconv
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libportal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libportal
+    repo: extra
+  tag: stable

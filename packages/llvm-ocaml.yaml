@@ -1,0 +1,8 @@
+name: llvm-ocaml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: llvm-ocaml
+    repo: extra
+  tag: stable

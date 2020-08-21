@@ -1,0 +1,8 @@
+name: python-requests
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-requests
+    repo: extra
+  tag: stable

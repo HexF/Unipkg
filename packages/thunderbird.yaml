@@ -1,0 +1,8 @@
+name: thunderbird
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thunderbird
+    repo: extra
+  tag: stable

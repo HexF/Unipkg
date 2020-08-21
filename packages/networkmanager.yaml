@@ -1,0 +1,8 @@
+name: networkmanager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager
+    repo: extra
+  tag: stable

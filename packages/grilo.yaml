@@ -1,0 +1,8 @@
+name: grilo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grilo
+    repo: extra
+  tag: stable

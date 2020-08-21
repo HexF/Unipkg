@@ -1,0 +1,8 @@
+name: python
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: jre-openjdk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jre-openjdk
+    repo: extra
+  tag: stable

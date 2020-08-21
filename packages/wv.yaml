@@ -1,0 +1,8 @@
+name: wv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wv
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ocl-icd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocl-icd
+    repo: extra
+  tag: stable

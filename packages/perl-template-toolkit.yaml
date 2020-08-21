@@ -1,0 +1,8 @@
+name: perl-template-toolkit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-template-toolkit
+    repo: extra
+  tag: stable

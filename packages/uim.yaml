@@ -1,0 +1,8 @@
+name: uim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: uim
+    repo: extra
+  tag: stable

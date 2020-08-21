@@ -1,0 +1,8 @@
+name: oxygen-icons-svg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: oxygen-icons-svg
+    repo: extra
+  tag: stable

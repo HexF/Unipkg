@@ -1,0 +1,8 @@
+name: texlive-fontsextra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-fontsextra
+    repo: extra
+  tag: stable

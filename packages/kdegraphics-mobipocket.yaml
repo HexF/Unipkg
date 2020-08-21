@@ -1,0 +1,8 @@
+name: kdegraphics-mobipocket
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdegraphics-mobipocket
+    repo: extra
+  tag: stable

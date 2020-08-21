@@ -1,0 +1,8 @@
+name: gst-plugins-good
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gst-plugins-good
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libcdaudio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcdaudio
+    repo: extra
+  tag: stable

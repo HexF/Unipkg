@@ -1,0 +1,8 @@
+name: telepathy-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-qt
+    repo: extra
+  tag: stable

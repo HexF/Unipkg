@@ -1,0 +1,8 @@
+name: gparted
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gparted
+    repo: extra
+  tag: stable

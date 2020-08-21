@@ -1,0 +1,8 @@
+name: kfourinline
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kfourinline
+    repo: extra
+  tag: stable

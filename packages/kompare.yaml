@@ -1,0 +1,8 @@
+name: kompare
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kompare
+    repo: extra
+  tag: stable

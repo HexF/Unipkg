@@ -1,0 +1,8 @@
+name: ktorrent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ktorrent
+    repo: extra
+  tag: stable

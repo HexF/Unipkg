@@ -1,0 +1,8 @@
+name: libaccounts-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libaccounts-qt
+    repo: extra
+  tag: stable

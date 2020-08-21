@@ -1,0 +1,8 @@
+name: libssh-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libssh-docs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-dbd-mysql
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-dbd-mysql
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: k3b
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: k3b
+    repo: extra
+  tag: stable

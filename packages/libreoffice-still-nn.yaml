@@ -1,0 +1,8 @@
+name: libreoffice-still-nn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-nn
+    repo: extra
+  tag: stable

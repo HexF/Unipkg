@@ -1,0 +1,8 @@
+name: kde-sdk-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-sdk-meta
+    repo: extra
+  tag: stable

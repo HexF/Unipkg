@@ -1,0 +1,8 @@
+name: x11vnc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: x11vnc
+    repo: extra
+  tag: stable

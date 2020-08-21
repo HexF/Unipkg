@@ -1,0 +1,8 @@
+name: gwenview
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gwenview
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: md4c
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: md4c
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-lingua-translit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-lingua-translit
+    repo: extra
+  tag: stable

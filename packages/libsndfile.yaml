@@ -1,0 +1,8 @@
+name: libsndfile
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsndfile
+    repo: extra
+  tag: stable

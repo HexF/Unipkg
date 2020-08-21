@@ -1,0 +1,8 @@
+name: libisofs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libisofs
+    repo: extra
+  tag: stable

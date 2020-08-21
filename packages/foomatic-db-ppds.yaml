@@ -1,0 +1,8 @@
+name: foomatic-db-ppds
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: foomatic-db-ppds
+    repo: extra
+  tag: stable

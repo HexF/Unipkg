@@ -1,0 +1,8 @@
+name: calendarsupport
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: calendarsupport
+    repo: extra
+  tag: stable

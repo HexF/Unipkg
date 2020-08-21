@@ -1,0 +1,8 @@
+name: compiler-rt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: compiler-rt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: latex2rtf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: latex2rtf
+    repo: extra
+  tag: stable

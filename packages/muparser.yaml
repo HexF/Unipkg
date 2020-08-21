@@ -1,0 +1,8 @@
+name: muparser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: muparser
+    repo: extra
+  tag: stable

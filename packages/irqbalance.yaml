@@ -1,0 +1,8 @@
+name: irqbalance
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: irqbalance
+    repo: extra
+  tag: stable

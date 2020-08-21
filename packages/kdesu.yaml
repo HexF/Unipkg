@@ -1,0 +1,8 @@
+name: kdesu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdesu
+    repo: extra
+  tag: stable

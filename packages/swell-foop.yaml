@@ -1,0 +1,8 @@
+name: swell-foop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: swell-foop
+    repo: extra
+  tag: stable

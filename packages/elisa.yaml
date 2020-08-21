@@ -1,0 +1,8 @@
+name: elisa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: elisa
+    repo: extra
+  tag: stable

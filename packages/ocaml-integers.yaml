@@ -1,0 +1,8 @@
+name: ocaml-integers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocaml-integers
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libpaper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpaper
+    repo: extra
+  tag: stable

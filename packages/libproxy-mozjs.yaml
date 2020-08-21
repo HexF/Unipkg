@@ -1,0 +1,8 @@
+name: libproxy-mozjs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libproxy-mozjs
+    repo: extra
+  tag: stable

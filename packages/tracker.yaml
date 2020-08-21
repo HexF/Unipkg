@@ -1,0 +1,8 @@
+name: tracker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tracker
+    repo: extra
+  tag: stable

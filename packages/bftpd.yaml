@@ -1,0 +1,8 @@
+name: bftpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bftpd
+    repo: extra
+  tag: stable

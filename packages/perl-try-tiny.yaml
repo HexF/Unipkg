@@ -1,0 +1,8 @@
+name: perl-try-tiny
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-try-tiny
+    repo: extra
+  tag: stable

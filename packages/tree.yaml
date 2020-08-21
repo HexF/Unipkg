@@ -1,0 +1,8 @@
+name: tree
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tree
+    repo: extra
+  tag: stable

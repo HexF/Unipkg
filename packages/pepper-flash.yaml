@@ -1,0 +1,8 @@
+name: pepper-flash
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pepper-flash
+    repo: extra
+  tag: stable

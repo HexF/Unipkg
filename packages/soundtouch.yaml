@@ -1,0 +1,8 @@
+name: soundtouch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: soundtouch
+    repo: extra
+  tag: stable

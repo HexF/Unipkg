@@ -1,0 +1,8 @@
+name: libreoffice-still-am
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-am
+    repo: extra
+  tag: stable

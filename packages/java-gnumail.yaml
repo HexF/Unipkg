@@ -1,0 +1,8 @@
+name: java-gnumail
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-gnumail
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libevdev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libevdev
+    repo: extra
+  tag: stable

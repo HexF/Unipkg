@@ -1,0 +1,8 @@
+name: python-numpy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-numpy
+    repo: extra
+  tag: stable

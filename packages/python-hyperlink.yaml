@@ -1,0 +1,8 @@
+name: python-hyperlink
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-hyperlink
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kscreenlocker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kscreenlocker
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-pyqt5-sip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyqt5-sip
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: dconf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dconf
+    repo: extra
+  tag: stable

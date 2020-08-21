@@ -1,0 +1,8 @@
+name: flac-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: flac-doc
+    repo: extra
+  tag: stable

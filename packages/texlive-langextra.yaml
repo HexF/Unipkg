@@ -1,0 +1,8 @@
+name: texlive-langextra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langextra
+    repo: extra
+  tag: stable

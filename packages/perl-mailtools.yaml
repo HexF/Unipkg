@@ -1,0 +1,8 @@
+name: perl-mailtools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mailtools
+    repo: extra
+  tag: stable

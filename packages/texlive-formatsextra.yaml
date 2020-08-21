@@ -1,0 +1,8 @@
+name: texlive-formatsextra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-formatsextra
+    repo: extra
+  tag: stable

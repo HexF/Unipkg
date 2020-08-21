@@ -1,0 +1,8 @@
+name: gnome-devel-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-devel-docs
+    repo: extra
+  tag: stable

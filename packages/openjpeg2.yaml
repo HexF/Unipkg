@@ -1,0 +1,8 @@
+name: openjpeg2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjpeg2
+    repo: extra
+  tag: stable

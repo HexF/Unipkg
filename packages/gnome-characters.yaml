@@ -1,0 +1,8 @@
+name: gnome-characters
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-characters
+    repo: extra
+  tag: stable

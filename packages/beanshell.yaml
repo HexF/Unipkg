@@ -1,0 +1,8 @@
+name: beanshell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: beanshell
+    repo: extra
+  tag: stable

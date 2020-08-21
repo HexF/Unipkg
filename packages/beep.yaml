@@ -1,0 +1,8 @@
+name: beep
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: beep
+    repo: extra
+  tag: stable

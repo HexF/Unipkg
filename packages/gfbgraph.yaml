@@ -1,0 +1,8 @@
+name: gfbgraph
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gfbgraph
+    repo: extra
+  tag: stable

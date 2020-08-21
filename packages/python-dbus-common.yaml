@@ -1,0 +1,8 @@
+name: python-dbus-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-dbus-common
+    repo: extra
+  tag: stable

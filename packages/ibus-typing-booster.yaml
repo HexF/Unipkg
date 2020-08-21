@@ -1,0 +1,8 @@
+name: ibus-typing-booster
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ibus-typing-booster
+    repo: extra
+  tag: stable

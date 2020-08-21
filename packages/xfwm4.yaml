@@ -1,0 +1,8 @@
+name: xfwm4
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfwm4
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: phonon-qt5-gstreamer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: phonon-qt5-gstreamer
+    repo: extra
+  tag: stable

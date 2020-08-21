@@ -1,0 +1,8 @@
+name: perl-net-http
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-http
+    repo: extra
+  tag: stable

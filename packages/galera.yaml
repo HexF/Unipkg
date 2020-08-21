@@ -1,0 +1,8 @@
+name: galera
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: galera
+    repo: extra
+  tag: stable

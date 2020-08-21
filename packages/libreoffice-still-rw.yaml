@@ -1,0 +1,8 @@
+name: libreoffice-still-rw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-rw
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: grantlee
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grantlee
+    repo: extra
+  tag: stable

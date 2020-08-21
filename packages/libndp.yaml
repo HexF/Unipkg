@@ -1,0 +1,8 @@
+name: libndp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libndp
+    repo: extra
+  tag: stable

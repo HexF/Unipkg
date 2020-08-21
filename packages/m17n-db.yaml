@@ -1,0 +1,8 @@
+name: m17n-db
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: m17n-db
+    repo: extra
+  tag: stable

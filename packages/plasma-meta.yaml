@@ -1,0 +1,8 @@
+name: plasma-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-meta
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libbsd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libbsd
+    repo: extra
+  tag: stable

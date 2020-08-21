@@ -1,0 +1,8 @@
+name: perl-unicode-linebreak
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-unicode-linebreak
+    repo: extra
+  tag: stable

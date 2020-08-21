@@ -1,0 +1,8 @@
+name: kdepim-runtime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdepim-runtime
+    repo: extra
+  tag: stable

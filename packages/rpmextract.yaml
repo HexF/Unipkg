@@ -1,0 +1,8 @@
+name: rpmextract
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rpmextract
+    repo: extra
+  tag: stable

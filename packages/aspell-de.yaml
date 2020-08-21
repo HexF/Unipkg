@@ -1,0 +1,8 @@
+name: aspell-de
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: aspell-de
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kauth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kauth
+    repo: extra
+  tag: stable

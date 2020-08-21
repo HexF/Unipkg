@@ -1,0 +1,8 @@
+name: nautilus-sendto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nautilus-sendto
+    repo: extra
+  tag: stable

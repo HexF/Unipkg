@@ -1,0 +1,8 @@
+name: 389-ds-base
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: 389-ds-base
+    repo: extra
+  tag: stable

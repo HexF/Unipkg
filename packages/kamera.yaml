@@ -1,0 +1,8 @@
+name: kamera
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kamera
+    repo: extra
+  tag: stable

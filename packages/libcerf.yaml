@@ -1,0 +1,8 @@
+name: libcerf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcerf
+    repo: extra
+  tag: stable

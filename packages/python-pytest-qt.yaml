@@ -1,0 +1,8 @@
+name: python-pytest-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pytest-qt
+    repo: extra
+  tag: stable

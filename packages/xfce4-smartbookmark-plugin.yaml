@@ -1,0 +1,8 @@
+name: xfce4-smartbookmark-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-smartbookmark-plugin
+    repo: extra
+  tag: stable

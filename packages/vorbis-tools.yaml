@@ -1,0 +1,8 @@
+name: vorbis-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vorbis-tools
+    repo: extra
+  tag: stable

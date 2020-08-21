@@ -1,0 +1,8 @@
+name: opensp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opensp
+    repo: extra
+  tag: stable

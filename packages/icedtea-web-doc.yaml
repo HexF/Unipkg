@@ -1,0 +1,8 @@
+name: icedtea-web-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: icedtea-web-doc
+    repo: extra
+  tag: stable

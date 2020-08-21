@@ -1,0 +1,8 @@
+name: ttf-linux-libertine
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-linux-libertine
+    repo: extra
+  tag: stable

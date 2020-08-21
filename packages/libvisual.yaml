@@ -1,0 +1,8 @@
+name: libvisual
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvisual
+    repo: extra
+  tag: stable

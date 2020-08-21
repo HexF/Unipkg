@@ -1,0 +1,8 @@
+name: libgsf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgsf
+    repo: extra
+  tag: stable

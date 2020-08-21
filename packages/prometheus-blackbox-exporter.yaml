@@ -1,0 +1,8 @@
+name: prometheus-blackbox-exporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: prometheus-blackbox-exporter
+    repo: extra
+  tag: stable

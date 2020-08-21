@@ -1,0 +1,8 @@
+name: intel-ucode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: intel-ucode
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kplotting
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kplotting
+    repo: extra
+  tag: stable

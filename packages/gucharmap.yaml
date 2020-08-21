@@ -1,0 +1,8 @@
+name: gucharmap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gucharmap
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libmythes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmythes
+    repo: extra
+  tag: stable

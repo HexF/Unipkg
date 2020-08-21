@@ -1,0 +1,8 @@
+name: libglvnd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libglvnd
+    repo: extra
+  tag: stable

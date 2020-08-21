@@ -1,0 +1,8 @@
+name: purpose
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: purpose
+    repo: extra
+  tag: stable

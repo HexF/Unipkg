@@ -1,0 +1,8 @@
+name: qt5-translations
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-translations
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: seahorse-nautilus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: seahorse-nautilus
+    repo: extra
+  tag: stable

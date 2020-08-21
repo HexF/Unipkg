@@ -1,0 +1,8 @@
+name: leafpad
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: leafpad
+    repo: extra
+  tag: stable

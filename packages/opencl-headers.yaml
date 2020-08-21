@@ -1,0 +1,8 @@
+name: opencl-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencl-headers
+    repo: extra
+  tag: stable

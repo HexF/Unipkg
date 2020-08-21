@@ -1,0 +1,8 @@
+name: kunitconversion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kunitconversion
+    repo: extra
+  tag: stable

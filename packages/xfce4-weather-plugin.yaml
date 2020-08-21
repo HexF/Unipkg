@@ -1,0 +1,8 @@
+name: xfce4-weather-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-weather-plugin
+    repo: extra
+  tag: stable

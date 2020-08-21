@@ -1,0 +1,8 @@
+name: c-ares
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: c-ares
+    repo: extra
+  tag: stable

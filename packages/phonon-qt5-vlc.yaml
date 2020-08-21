@@ -1,0 +1,8 @@
+name: phonon-qt5-vlc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: phonon-qt5-vlc
+    repo: extra
+  tag: stable

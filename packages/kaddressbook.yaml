@@ -1,0 +1,8 @@
+name: kaddressbook
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kaddressbook
+    repo: extra
+  tag: stable

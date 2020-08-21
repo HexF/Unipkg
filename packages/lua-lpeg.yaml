@@ -1,0 +1,8 @@
+name: lua-lpeg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua-lpeg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-common-sense
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-common-sense
+    repo: extra
+  tag: stable

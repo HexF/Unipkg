@@ -1,0 +1,8 @@
+name: perl-html-template
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-html-template
+    repo: extra
+  tag: stable

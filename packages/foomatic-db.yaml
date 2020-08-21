@@ -1,0 +1,8 @@
+name: foomatic-db
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: foomatic-db
+    repo: extra
+  tag: stable

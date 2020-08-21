@@ -1,0 +1,8 @@
+name: ifplugd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ifplugd
+    repo: extra
+  tag: stable

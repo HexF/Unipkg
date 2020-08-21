@@ -1,0 +1,8 @@
+name: xorg-xlsclients
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xlsclients
+    repo: extra
+  tag: stable

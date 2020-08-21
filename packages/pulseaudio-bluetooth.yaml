@@ -1,0 +1,8 @@
+name: pulseaudio-bluetooth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-bluetooth
+    repo: extra
+  tag: stable

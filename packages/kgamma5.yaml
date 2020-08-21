@@ -1,0 +1,8 @@
+name: kgamma5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kgamma5
+    repo: extra
+  tag: stable

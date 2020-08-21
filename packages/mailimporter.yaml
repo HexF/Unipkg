@@ -1,0 +1,8 @@
+name: mailimporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mailimporter
+    repo: extra
+  tag: stable

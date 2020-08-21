@@ -1,0 +1,8 @@
+name: minuet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: minuet
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-yaml-syck
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-yaml-syck
+    repo: extra
+  tag: stable

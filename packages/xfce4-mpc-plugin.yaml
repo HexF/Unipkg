@@ -1,0 +1,8 @@
+name: xfce4-mpc-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-mpc-plugin
+    repo: extra
+  tag: stable

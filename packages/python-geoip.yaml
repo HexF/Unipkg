@@ -1,0 +1,8 @@
+name: python-geoip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-geoip
+    repo: extra
+  tag: stable

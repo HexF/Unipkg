@@ -1,0 +1,8 @@
+name: librsvg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: librsvg
+    repo: extra
+  tag: stable

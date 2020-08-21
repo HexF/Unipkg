@@ -1,0 +1,8 @@
+name: linux-zen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-zen
+    repo: extra
+  tag: stable

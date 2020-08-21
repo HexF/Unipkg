@@ -1,0 +1,8 @@
+name: volume-key
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: volume_key
+    repo: extra
+  tag: stable

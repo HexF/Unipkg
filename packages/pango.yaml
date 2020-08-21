@@ -1,0 +1,8 @@
+name: pango
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pango
+    repo: extra
+  tag: stable

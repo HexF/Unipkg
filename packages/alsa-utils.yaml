@@ -1,0 +1,8 @@
+name: alsa-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: alsa-utils
+    repo: extra
+  tag: stable

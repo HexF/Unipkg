@@ -1,0 +1,8 @@
+name: trayer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: trayer
+    repo: extra
+  tag: stable

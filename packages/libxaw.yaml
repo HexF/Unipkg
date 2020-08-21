@@ -1,0 +1,8 @@
+name: libxaw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxaw
+    repo: extra
+  tag: stable

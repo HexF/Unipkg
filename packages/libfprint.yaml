@@ -1,0 +1,8 @@
+name: libfprint
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libfprint
+    repo: extra
+  tag: stable

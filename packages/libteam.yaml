@@ -1,0 +1,8 @@
+name: libteam
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libteam
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: fcgi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fcgi
+    repo: extra
+  tag: stable

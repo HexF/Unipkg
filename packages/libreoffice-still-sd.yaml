@@ -1,0 +1,8 @@
+name: libreoffice-still-sd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-sd
+    repo: extra
+  tag: stable

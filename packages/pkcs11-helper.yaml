@@ -1,0 +1,8 @@
+name: pkcs11-helper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pkcs11-helper
+    repo: extra
+  tag: stable

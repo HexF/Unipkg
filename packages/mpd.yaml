@@ -1,0 +1,8 @@
+name: mpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mpd
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: glew
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glew
+    repo: extra
+  tag: stable

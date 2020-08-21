@@ -1,0 +1,8 @@
+name: akregator
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akregator
+    repo: extra
+  tag: stable

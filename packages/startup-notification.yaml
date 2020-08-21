@@ -1,0 +1,8 @@
+name: startup-notification
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: startup-notification
+    repo: extra
+  tag: stable

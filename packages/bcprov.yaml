@@ -1,0 +1,8 @@
+name: bcprov
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bcprov
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xfce4-pulseaudio-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-pulseaudio-plugin
+    repo: extra
+  tag: stable

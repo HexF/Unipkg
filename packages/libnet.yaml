@@ -1,0 +1,8 @@
+name: libnet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnet
+    repo: extra
+  tag: stable

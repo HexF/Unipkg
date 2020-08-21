@@ -1,0 +1,8 @@
+name: gnome-mines
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-mines
+    repo: extra
+  tag: stable

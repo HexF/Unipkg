@@ -1,0 +1,8 @@
+name: python-pyparsing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyparsing
+    repo: extra
+  tag: stable

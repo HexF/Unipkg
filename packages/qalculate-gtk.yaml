@@ -1,0 +1,8 @@
+name: qalculate-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qalculate-gtk
+    repo: extra
+  tag: stable

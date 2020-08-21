@@ -1,0 +1,8 @@
+name: perl-file-basedir
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-basedir
+    repo: extra
+  tag: stable

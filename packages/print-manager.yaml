@@ -1,0 +1,8 @@
+name: print-manager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: print-manager
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: texlive-langgreek
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langgreek
+    repo: extra
+  tag: stable

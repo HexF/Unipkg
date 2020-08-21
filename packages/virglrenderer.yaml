@@ -1,0 +1,8 @@
+name: virglrenderer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: virglrenderer
+    repo: extra
+  tag: stable

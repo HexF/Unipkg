@@ -1,0 +1,8 @@
+name: tsocks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tsocks
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gvfs-goa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs-goa
+    repo: extra
+  tag: stable

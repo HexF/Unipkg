@@ -1,0 +1,8 @@
+name: gvfs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs
+    repo: extra
+  tag: stable

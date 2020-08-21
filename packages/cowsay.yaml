@@ -1,0 +1,8 @@
+name: cowsay
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cowsay
+    repo: extra
+  tag: stable

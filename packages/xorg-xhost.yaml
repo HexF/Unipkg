@@ -1,0 +1,8 @@
+name: xorg-xhost
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xhost
+    repo: extra
+  tag: stable

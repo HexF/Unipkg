@@ -1,0 +1,8 @@
+name: libreoffice-fresh-uk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-uk
+    repo: extra
+  tag: stable

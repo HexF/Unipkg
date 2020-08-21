@@ -1,0 +1,8 @@
+name: kigo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kigo
+    repo: extra
+  tag: stable

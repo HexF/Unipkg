@@ -1,0 +1,8 @@
+name: libpano13
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpano13
+    repo: extra
+  tag: stable

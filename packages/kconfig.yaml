@@ -1,0 +1,8 @@
+name: kconfig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kconfig
+    repo: extra
+  tag: stable

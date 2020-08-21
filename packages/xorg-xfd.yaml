@@ -1,0 +1,8 @@
+name: xorg-xfd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xfd
+    repo: extra
+  tag: stable

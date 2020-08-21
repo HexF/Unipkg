@@ -1,0 +1,8 @@
+name: rebuilderd-website
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rebuilderd-website
+    repo: extra
+  tag: stable

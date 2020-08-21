@@ -1,0 +1,8 @@
+name: cvs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cvs
+    repo: extra
+  tag: stable

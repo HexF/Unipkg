@@ -1,0 +1,8 @@
+name: perl-file-which
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-which
+    repo: extra
+  tag: stable

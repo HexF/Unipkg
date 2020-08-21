@@ -1,0 +1,8 @@
+name: libuninameslist
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libuninameslist
+    repo: extra
+  tag: stable

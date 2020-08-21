@@ -1,0 +1,8 @@
+name: glib-perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glib-perl
+    repo: extra
+  tag: stable

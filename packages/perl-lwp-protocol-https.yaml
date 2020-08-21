@@ -1,0 +1,8 @@
+name: perl-lwp-protocol-https
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-lwp-protocol-https
+    repo: extra
+  tag: stable

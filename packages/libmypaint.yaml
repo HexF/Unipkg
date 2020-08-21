@@ -1,0 +1,8 @@
+name: libmypaint
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmypaint
+    repo: extra
+  tag: stable

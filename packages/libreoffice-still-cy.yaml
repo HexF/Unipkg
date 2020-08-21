@@ -1,0 +1,8 @@
+name: libreoffice-still-cy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-cy
+    repo: extra
+  tag: stable

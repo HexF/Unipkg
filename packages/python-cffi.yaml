@@ -1,0 +1,8 @@
+name: python-cffi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-cffi
+    repo: extra
+  tag: stable

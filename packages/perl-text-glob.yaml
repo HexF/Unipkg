@@ -1,0 +1,8 @@
+name: perl-text-glob
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-text-glob
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gst-libav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gst-libav
+    repo: extra
+  tag: stable

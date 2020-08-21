@@ -1,0 +1,8 @@
+name: vde2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vde2
+    repo: extra
+  tag: stable

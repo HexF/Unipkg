@@ -1,0 +1,8 @@
+name: libnetfilter-cttimeout
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnetfilter_cttimeout
+    repo: extra
+  tag: stable

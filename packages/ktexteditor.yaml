@@ -1,0 +1,8 @@
+name: ktexteditor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ktexteditor
+    repo: extra
+  tag: stable

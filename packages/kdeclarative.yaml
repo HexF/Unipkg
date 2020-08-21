@@ -1,0 +1,8 @@
+name: kdeclarative
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdeclarative
+    repo: extra
+  tag: stable

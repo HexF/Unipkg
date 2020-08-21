@@ -1,0 +1,8 @@
+name: libgnt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgnt
+    repo: extra
+  tag: stable

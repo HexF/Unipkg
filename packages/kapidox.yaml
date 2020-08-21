@@ -1,0 +1,8 @@
+name: kapidox
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kapidox
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libqaccessibilityclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libqaccessibilityclient
+    repo: extra
+  tag: stable

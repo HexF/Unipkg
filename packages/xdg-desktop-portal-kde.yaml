@@ -1,0 +1,8 @@
+name: xdg-desktop-portal-kde
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xdg-desktop-portal-kde
+    repo: extra
+  tag: stable

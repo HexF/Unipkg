@@ -1,0 +1,8 @@
+name: tracker-miners
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tracker-miners
+    repo: extra
+  tag: stable

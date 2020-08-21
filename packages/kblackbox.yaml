@@ -1,0 +1,8 @@
+name: kblackbox
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kblackbox
+    repo: extra
+  tag: stable

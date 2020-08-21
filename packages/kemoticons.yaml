@@ -1,0 +1,8 @@
+name: kemoticons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kemoticons
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xfdesktop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfdesktop
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mono
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mono
+    repo: extra
+  tag: stable

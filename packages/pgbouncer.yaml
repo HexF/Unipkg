@@ -1,0 +1,8 @@
+name: pgbouncer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pgbouncer
+    repo: extra
+  tag: stable

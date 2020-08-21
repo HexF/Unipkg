@@ -1,0 +1,8 @@
+name: brasero
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: brasero
+    repo: extra
+  tag: stable

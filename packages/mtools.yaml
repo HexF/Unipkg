@@ -1,0 +1,8 @@
+name: mtools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mtools
+    repo: extra
+  tag: stable

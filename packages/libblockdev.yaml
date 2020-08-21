@@ -1,0 +1,8 @@
+name: libblockdev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libblockdev
+    repo: extra
+  tag: stable

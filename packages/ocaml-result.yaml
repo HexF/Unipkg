@@ -1,0 +1,8 @@
+name: ocaml-result
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocaml-result
+    repo: extra
+  tag: stable

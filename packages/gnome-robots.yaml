@@ -1,0 +1,8 @@
+name: gnome-robots
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-robots
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: liblastfm-qt5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liblastfm-qt5
+    repo: extra
+  tag: stable

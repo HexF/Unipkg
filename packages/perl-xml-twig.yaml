@@ -1,0 +1,8 @@
+name: perl-xml-twig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-twig
+    repo: extra
+  tag: stable

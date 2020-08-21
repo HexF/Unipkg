@@ -1,0 +1,8 @@
+name: xorg-xrandr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xrandr
+    repo: extra
+  tag: stable

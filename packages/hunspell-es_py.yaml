@@ -1,0 +1,8 @@
+name: hunspell-es-py
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell-es_py
+    repo: extra
+  tag: stable

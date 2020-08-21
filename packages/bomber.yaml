@@ -1,0 +1,8 @@
+name: bomber
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bomber
+    repo: extra
+  tag: stable

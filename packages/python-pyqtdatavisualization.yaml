@@ -1,0 +1,8 @@
+name: python-pyqtdatavisualization
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyqtdatavisualization
+    repo: extra
+  tag: stable

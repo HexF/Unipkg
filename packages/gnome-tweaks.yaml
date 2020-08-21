@@ -1,0 +1,8 @@
+name: gnome-tweaks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-tweaks
+    repo: extra
+  tag: stable

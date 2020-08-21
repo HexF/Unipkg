@@ -1,0 +1,8 @@
+name: cppcodec
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cppcodec
+    repo: extra
+  tag: stable

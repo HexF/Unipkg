@@ -1,0 +1,8 @@
+name: ttf-hack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-hack
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: devhelp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: devhelp
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: easytag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: easytag
+    repo: extra
+  tag: stable

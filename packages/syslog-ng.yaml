@@ -1,0 +1,8 @@
+name: syslog-ng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: syslog-ng
+    repo: extra
+  tag: stable

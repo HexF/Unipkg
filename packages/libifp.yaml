@@ -1,0 +1,8 @@
+name: libifp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libifp
+    repo: extra
+  tag: stable

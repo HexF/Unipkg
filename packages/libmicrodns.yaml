@@ -1,0 +1,8 @@
+name: libmicrodns
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmicrodns
+    repo: extra
+  tag: stable

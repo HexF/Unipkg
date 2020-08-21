@@ -1,0 +1,8 @@
+name: clawsker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clawsker
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gnome-maps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-maps
+    repo: extra
+  tag: stable

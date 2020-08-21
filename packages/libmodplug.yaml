@@ -1,0 +1,8 @@
+name: libmodplug
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmodplug
+    repo: extra
+  tag: stable

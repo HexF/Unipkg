@@ -1,0 +1,8 @@
+name: nfacct
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nfacct
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: sdl-pango
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_pango
+    repo: extra
+  tag: stable

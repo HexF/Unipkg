@@ -1,0 +1,8 @@
+name: python2-lxml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-lxml
+    repo: extra
+  tag: stable

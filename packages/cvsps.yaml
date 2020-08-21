@@ -1,0 +1,8 @@
+name: cvsps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cvsps
+    repo: extra
+  tag: stable

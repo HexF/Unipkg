@@ -1,0 +1,8 @@
+name: numactl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: numactl
+    repo: extra
+  tag: stable

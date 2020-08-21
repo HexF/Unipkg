@@ -1,0 +1,8 @@
+name: celestia
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: celestia
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: telepathy-kde-send-file
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-kde-send-file
+    repo: extra
+  tag: stable

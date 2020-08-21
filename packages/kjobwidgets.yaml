@@ -1,0 +1,8 @@
+name: kjobwidgets
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kjobwidgets
+    repo: extra
+  tag: stable

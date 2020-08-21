@@ -1,0 +1,8 @@
+name: tomcat7
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tomcat7
+    repo: extra
+  tag: stable

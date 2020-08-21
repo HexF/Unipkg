@@ -1,0 +1,8 @@
+name: davfs2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: davfs2
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gnome-themes-extra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-themes-extra
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-pyqt3d
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyqt3d
+    repo: extra
+  tag: stable

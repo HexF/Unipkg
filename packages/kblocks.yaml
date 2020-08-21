@@ -1,0 +1,8 @@
+name: kblocks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kblocks
+    repo: extra
+  tag: stable

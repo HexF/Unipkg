@@ -1,0 +1,8 @@
+name: claws-mail
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: claws-mail
+    repo: extra
+  tag: stable

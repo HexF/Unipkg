@@ -1,0 +1,8 @@
+name: re2c
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: re2c
+    repo: extra
+  tag: stable

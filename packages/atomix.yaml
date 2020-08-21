@@ -1,0 +1,8 @@
+name: atomix
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: atomix
+    repo: extra
+  tag: stable

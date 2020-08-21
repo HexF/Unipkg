@@ -1,0 +1,8 @@
+name: plasma-sdk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-sdk
+    repo: extra
+  tag: stable

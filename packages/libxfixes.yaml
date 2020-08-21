@@ -1,0 +1,8 @@
+name: libxfixes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxfixes
+    repo: extra
+  tag: stable

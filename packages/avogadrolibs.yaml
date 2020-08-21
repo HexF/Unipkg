@@ -1,0 +1,8 @@
+name: avogadrolibs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: avogadrolibs
+    repo: extra
+  tag: stable

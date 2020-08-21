@@ -1,0 +1,8 @@
+name: qemu-block-iscsi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu-block-iscsi
+    repo: extra
+  tag: stable

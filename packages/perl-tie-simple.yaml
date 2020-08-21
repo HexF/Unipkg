@@ -1,0 +1,8 @@
+name: perl-tie-simple
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-tie-simple
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libxfce4util
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxfce4util
+    repo: extra
+  tag: stable

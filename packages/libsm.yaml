@@ -1,0 +1,8 @@
+name: libsm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsm
+    repo: extra
+  tag: stable

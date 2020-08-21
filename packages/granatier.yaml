@@ -1,0 +1,8 @@
+name: granatier
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: granatier
+    repo: extra
+  tag: stable

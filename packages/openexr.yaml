@@ -1,0 +1,8 @@
+name: openexr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openexr
+    repo: extra
+  tag: stable

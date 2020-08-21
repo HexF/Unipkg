@@ -1,0 +1,8 @@
+name: openjdk-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk-doc
+    repo: extra
+  tag: stable

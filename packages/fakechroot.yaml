@@ -1,0 +1,8 @@
+name: fakechroot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fakechroot
+    repo: extra
+  tag: stable

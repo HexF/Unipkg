@@ -1,0 +1,8 @@
+name: xorg-xmodmap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xmodmap
+    repo: extra
+  tag: stable

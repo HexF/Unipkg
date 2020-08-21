@@ -1,0 +1,8 @@
+name: xscreensaver
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xscreensaver
+    repo: extra
+  tag: stable

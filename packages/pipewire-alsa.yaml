@@ -1,0 +1,8 @@
+name: pipewire-alsa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pipewire-alsa
+    repo: extra
+  tag: stable

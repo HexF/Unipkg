@@ -1,0 +1,8 @@
+name: brltty
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: brltty
+    repo: extra
+  tag: stable

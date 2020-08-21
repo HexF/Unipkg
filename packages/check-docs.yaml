@@ -1,0 +1,8 @@
+name: check-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: check-docs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: pipewire
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pipewire
+    repo: extra
+  tag: stable

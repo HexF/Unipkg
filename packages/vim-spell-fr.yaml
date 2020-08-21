@@ -1,0 +1,8 @@
+name: vim-spell-fr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-fr
+    repo: extra
+  tag: stable

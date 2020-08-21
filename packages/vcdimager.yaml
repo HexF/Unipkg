@@ -1,0 +1,8 @@
+name: vcdimager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vcdimager
+    repo: extra
+  tag: stable

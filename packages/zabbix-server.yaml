@@ -1,0 +1,8 @@
+name: zabbix-server
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zabbix-server
+    repo: extra
+  tag: stable

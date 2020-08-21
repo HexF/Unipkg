@@ -1,0 +1,8 @@
+name: libgxps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgxps
+    repo: extra
+  tag: stable

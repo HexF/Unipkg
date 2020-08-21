@@ -1,0 +1,8 @@
+name: ibus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ibus
+    repo: extra
+  tag: stable

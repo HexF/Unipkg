@@ -1,0 +1,8 @@
+name: xfce4-settings
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-settings
+    repo: extra
+  tag: stable

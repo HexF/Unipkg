@@ -1,0 +1,8 @@
+name: xorg-xmessage
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xmessage
+    repo: extra
+  tag: stable

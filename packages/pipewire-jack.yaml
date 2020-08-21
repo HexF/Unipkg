@@ -1,0 +1,8 @@
+name: pipewire-jack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pipewire-jack
+    repo: extra
+  tag: stable

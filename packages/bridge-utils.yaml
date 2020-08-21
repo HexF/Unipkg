@@ -1,0 +1,8 @@
+name: bridge-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bridge-utils
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: bash-completion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bash-completion
+    repo: extra
+  tag: stable

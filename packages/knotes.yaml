@@ -1,0 +1,8 @@
+name: knotes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knotes
+    repo: extra
+  tag: stable

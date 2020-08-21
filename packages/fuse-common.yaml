@@ -1,0 +1,8 @@
+name: fuse-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fuse-common
+    repo: extra
+  tag: stable

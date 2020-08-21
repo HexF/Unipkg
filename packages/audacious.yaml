@@ -1,0 +1,8 @@
+name: audacious
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: audacious
+    repo: extra
+  tag: stable

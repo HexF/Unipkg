@@ -1,0 +1,8 @@
+name: noto-fonts-cjk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: noto-fonts-cjk
+    repo: extra
+  tag: stable

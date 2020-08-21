@@ -1,0 +1,8 @@
+name: geocode-glib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: geocode-glib
+    repo: extra
+  tag: stable

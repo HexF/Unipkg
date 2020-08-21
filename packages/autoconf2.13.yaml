@@ -1,0 +1,8 @@
+name: autoconf2.13
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: autoconf2.13
+    repo: extra
+  tag: stable

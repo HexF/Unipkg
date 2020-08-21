@@ -1,0 +1,8 @@
+name: linux-atm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-atm
+    repo: extra
+  tag: stable

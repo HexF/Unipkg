@@ -1,0 +1,8 @@
+name: xorg-server-devel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-devel
+    repo: extra
+  tag: stable

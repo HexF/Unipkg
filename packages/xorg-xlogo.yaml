@@ -1,0 +1,8 @@
+name: xorg-xlogo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xlogo
+    repo: extra
+  tag: stable

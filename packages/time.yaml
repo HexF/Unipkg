@@ -1,0 +1,8 @@
+name: time
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: time
+    repo: extra
+  tag: stable

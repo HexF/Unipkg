@@ -1,0 +1,8 @@
+name: dmidecode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dmidecode
+    repo: extra
+  tag: stable

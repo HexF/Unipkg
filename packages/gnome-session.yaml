@@ -1,0 +1,8 @@
+name: gnome-session
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-session
+    repo: extra
+  tag: stable

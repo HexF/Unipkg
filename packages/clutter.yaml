@@ -1,0 +1,8 @@
+name: clutter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clutter
+    repo: extra
+  tag: stable

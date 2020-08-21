@@ -1,0 +1,8 @@
+name: pam-wrapper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pam_wrapper
+    repo: extra
+  tag: stable

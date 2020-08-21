@@ -1,0 +1,8 @@
+name: perl-digest-nilsimsa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-digest-nilsimsa
+    repo: extra
+  tag: stable

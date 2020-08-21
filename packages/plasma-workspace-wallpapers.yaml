@@ -1,0 +1,8 @@
+name: plasma-workspace-wallpapers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-workspace-wallpapers
+    repo: extra
+  tag: stable

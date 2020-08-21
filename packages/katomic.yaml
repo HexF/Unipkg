@@ -1,0 +1,8 @@
+name: katomic
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: katomic
+    repo: extra
+  tag: stable

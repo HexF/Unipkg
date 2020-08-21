@@ -1,0 +1,8 @@
+name: python2-zope-interface
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-zope-interface
+    repo: extra
+  tag: stable

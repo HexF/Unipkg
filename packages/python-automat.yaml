@@ -1,0 +1,8 @@
+name: python-automat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-automat
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: krdc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: krdc
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-perlio-utf8-strict
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-perlio-utf8-strict
+    repo: extra
+  tag: stable

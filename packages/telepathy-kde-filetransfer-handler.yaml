@@ -1,0 +1,8 @@
+name: telepathy-kde-filetransfer-handler
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-kde-filetransfer-handler
+    repo: extra
+  tag: stable

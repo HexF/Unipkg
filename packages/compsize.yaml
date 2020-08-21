@@ -1,0 +1,8 @@
+name: compsize
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: compsize
+    repo: extra
+  tag: stable

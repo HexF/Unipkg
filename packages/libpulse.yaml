@@ -1,0 +1,8 @@
+name: libpulse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpulse
+    repo: extra
+  tag: stable

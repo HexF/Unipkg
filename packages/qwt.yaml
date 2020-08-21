@@ -1,0 +1,8 @@
+name: qwt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qwt
+    repo: extra
+  tag: stable

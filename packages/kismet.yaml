@@ -1,0 +1,8 @@
+name: kismet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kismet
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-defusedxml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-defusedxml
+    repo: extra
+  tag: stable

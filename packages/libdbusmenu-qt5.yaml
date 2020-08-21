@@ -1,0 +1,8 @@
+name: libdbusmenu-qt5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdbusmenu-qt5
+    repo: extra
+  tag: stable

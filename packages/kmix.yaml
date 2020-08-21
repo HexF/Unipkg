@@ -1,0 +1,8 @@
+name: kmix
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmix
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: uchardet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: uchardet
+    repo: extra
+  tag: stable

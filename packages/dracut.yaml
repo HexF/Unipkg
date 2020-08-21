@@ -1,0 +1,8 @@
+name: dracut
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dracut
+    repo: extra
+  tag: stable

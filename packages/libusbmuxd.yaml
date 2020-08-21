@@ -1,0 +1,8 @@
+name: libusbmuxd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libusbmuxd
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libnma
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnma
+    repo: extra
+  tag: stable

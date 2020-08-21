@@ -1,0 +1,8 @@
+name: avahi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: avahi
+    repo: extra
+  tag: stable

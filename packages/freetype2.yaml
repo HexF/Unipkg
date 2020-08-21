@@ -1,0 +1,8 @@
+name: freetype2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: freetype2
+    repo: extra
+  tag: stable

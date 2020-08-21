@@ -1,0 +1,8 @@
+name: w3m
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: w3m
+    repo: extra
+  tag: stable

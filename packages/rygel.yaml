@@ -1,0 +1,8 @@
+name: rygel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rygel
+    repo: extra
+  tag: stable

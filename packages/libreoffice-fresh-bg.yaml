@@ -1,0 +1,8 @@
+name: libreoffice-fresh-bg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-bg
+    repo: extra
+  tag: stable

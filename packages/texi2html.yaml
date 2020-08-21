@@ -1,0 +1,8 @@
+name: texi2html
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texi2html
+    repo: extra
+  tag: stable

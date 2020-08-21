@@ -1,0 +1,8 @@
+name: keditbookmarks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: keditbookmarks
+    repo: extra
+  tag: stable

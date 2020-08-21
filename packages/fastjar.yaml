@@ -1,0 +1,8 @@
+name: fastjar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fastjar
+    repo: extra
+  tag: stable

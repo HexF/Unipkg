@@ -1,0 +1,8 @@
+name: libinput
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libinput
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: webrtc-audio-processing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: webrtc-audio-processing
+    repo: extra
+  tag: stable

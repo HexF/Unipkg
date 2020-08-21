@@ -1,0 +1,8 @@
+name: polkit-kde-agent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: polkit-kde-agent
+    repo: extra
+  tag: stable

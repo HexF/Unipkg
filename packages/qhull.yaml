@@ -1,0 +1,8 @@
+name: qhull
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qhull
+    repo: extra
+  tag: stable

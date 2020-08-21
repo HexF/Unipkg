@@ -1,0 +1,8 @@
+name: xsane
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xsane
+    repo: extra
+  tag: stable

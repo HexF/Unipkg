@@ -1,0 +1,8 @@
+name: perl-clone
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-clone
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-extutils-libbuilder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-extutils-libbuilder
+    repo: extra
+  tag: stable

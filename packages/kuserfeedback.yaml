@@ -1,0 +1,8 @@
+name: kuserfeedback
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kuserfeedback
+    repo: extra
+  tag: stable

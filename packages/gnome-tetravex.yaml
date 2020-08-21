@@ -1,0 +1,8 @@
+name: gnome-tetravex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-tetravex
+    repo: extra
+  tag: stable

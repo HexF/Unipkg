@@ -1,0 +1,8 @@
+name: arch-install-scripts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: arch-install-scripts
+    repo: extra
+  tag: stable

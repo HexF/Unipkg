@@ -1,0 +1,8 @@
+name: akonadiconsole
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akonadiconsole
+    repo: extra
+  tag: stable

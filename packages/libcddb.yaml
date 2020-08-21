@@ -1,0 +1,8 @@
+name: libcddb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcddb
+    repo: extra
+  tag: stable

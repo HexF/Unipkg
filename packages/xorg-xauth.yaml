@@ -1,0 +1,8 @@
+name: xorg-xauth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xauth
+    repo: extra
+  tag: stable

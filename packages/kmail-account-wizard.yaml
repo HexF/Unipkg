@@ -1,0 +1,8 @@
+name: kmail-account-wizard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmail-account-wizard
+    repo: extra
+  tag: stable

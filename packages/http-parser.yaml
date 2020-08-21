@@ -1,0 +1,8 @@
+name: http-parser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: http-parser
+    repo: extra
+  tag: stable

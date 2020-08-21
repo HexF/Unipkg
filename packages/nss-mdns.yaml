@@ -1,0 +1,8 @@
+name: nss-mdns
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nss-mdns
+    repo: extra
+  tag: stable

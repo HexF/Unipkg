@@ -1,0 +1,8 @@
+name: libbs2b
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libbs2b
+    repo: extra
+  tag: stable

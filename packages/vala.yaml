@@ -1,0 +1,8 @@
+name: vala
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vala
+    repo: extra
+  tag: stable

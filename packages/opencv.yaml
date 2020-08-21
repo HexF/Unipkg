@@ -1,0 +1,8 @@
+name: opencv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencv
+    repo: extra
+  tag: stable

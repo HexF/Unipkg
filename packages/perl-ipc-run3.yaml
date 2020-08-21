@@ -1,0 +1,8 @@
+name: perl-ipc-run3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-ipc-run3
+    repo: extra
+  tag: stable

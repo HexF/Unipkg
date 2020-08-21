@@ -1,0 +1,8 @@
+name: texlive-langjapanese
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langjapanese
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ijs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ijs
+    repo: extra
+  tag: stable

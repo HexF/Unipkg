@@ -1,0 +1,8 @@
+name: kcharselect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcharselect
+    repo: extra
+  tag: stable

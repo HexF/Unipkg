@@ -1,0 +1,8 @@
+name: libgda-postgres
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgda-postgres
+    repo: extra
+  tag: stable

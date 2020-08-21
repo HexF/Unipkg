@@ -1,0 +1,8 @@
+name: rhino-javadoc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rhino-javadoc
+    repo: extra
+  tag: stable

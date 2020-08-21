@@ -1,0 +1,8 @@
+name: xcb-util-keysyms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcb-util-keysyms
+    repo: extra
+  tag: stable

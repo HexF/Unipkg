@@ -1,0 +1,8 @@
+name: kirigami-gallery
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kirigami-gallery
+    repo: extra
+  tag: stable

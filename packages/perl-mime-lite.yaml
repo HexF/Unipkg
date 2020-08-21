@@ -1,0 +1,8 @@
+name: perl-mime-lite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mime-lite
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: qemu-block-gluster
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu-block-gluster
+    repo: extra
+  tag: stable

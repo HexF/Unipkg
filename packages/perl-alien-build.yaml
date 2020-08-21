@@ -1,0 +1,8 @@
+name: perl-alien-build
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-alien-build
+    repo: extra
+  tag: stable

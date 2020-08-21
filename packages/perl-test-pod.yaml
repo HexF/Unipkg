@@ -1,0 +1,8 @@
+name: perl-test-pod
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-test-pod
+    repo: extra
+  tag: stable

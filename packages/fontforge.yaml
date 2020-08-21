@@ -1,0 +1,8 @@
+name: fontforge
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fontforge
+    repo: extra
+  tag: stable

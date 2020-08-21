@@ -1,0 +1,8 @@
+name: libreoffice-still-ml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-ml
+    repo: extra
+  tag: stable

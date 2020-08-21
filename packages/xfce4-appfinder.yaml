@@ -1,0 +1,8 @@
+name: xfce4-appfinder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-appfinder
+    repo: extra
+  tag: stable

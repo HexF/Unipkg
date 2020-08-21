@@ -1,0 +1,8 @@
+name: libxcomp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxcomp
+    repo: extra
+  tag: stable

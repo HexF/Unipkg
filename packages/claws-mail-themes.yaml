@@ -1,0 +1,8 @@
+name: claws-mail-themes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: claws-mail-themes
+    repo: extra
+  tag: stable

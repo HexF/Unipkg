@@ -1,0 +1,8 @@
+name: polari
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: polari
+    repo: extra
+  tag: stable

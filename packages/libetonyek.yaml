@@ -1,0 +1,8 @@
+name: libetonyek
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libetonyek
+    repo: extra
+  tag: stable

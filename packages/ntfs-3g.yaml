@@ -1,0 +1,8 @@
+name: ntfs-3g
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ntfs-3g
+    repo: extra
+  tag: stable

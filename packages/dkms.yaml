@@ -1,0 +1,8 @@
+name: dkms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dkms
+    repo: extra
+  tag: stable

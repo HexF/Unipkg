@@ -1,0 +1,8 @@
+name: php-tidy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-tidy
+    repo: extra
+  tag: stable

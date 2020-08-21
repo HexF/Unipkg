@@ -1,0 +1,8 @@
+name: xcb-util-wm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcb-util-wm
+    repo: extra
+  tag: stable

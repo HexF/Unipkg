@@ -1,0 +1,8 @@
+name: libmilter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmilter
+    repo: extra
+  tag: stable

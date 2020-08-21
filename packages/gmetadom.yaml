@@ -1,0 +1,8 @@
+name: gmetadom
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gmetadom
+    repo: extra
+  tag: stable

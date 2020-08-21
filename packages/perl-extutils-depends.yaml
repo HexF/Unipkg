@@ -1,0 +1,8 @@
+name: perl-extutils-depends
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-extutils-depends
+    repo: extra
+  tag: stable

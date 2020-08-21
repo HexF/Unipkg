@@ -1,0 +1,8 @@
+name: gnome-notes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-notes
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mtr-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mtr-gtk
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: dbus-sharp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dbus-sharp
+    repo: extra
+  tag: stable

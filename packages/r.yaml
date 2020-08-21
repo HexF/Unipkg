@@ -1,0 +1,8 @@
+name: r
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: r
+    repo: extra
+  tag: stable

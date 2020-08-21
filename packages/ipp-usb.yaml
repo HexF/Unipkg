@@ -1,0 +1,8 @@
+name: ipp-usb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ipp-usb
+    repo: extra
+  tag: stable

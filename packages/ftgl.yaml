@@ -1,0 +1,8 @@
+name: ftgl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ftgl
+    repo: extra
+  tag: stable

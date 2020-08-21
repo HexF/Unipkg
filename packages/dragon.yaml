@@ -1,0 +1,8 @@
+name: dragon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dragon
+    repo: extra
+  tag: stable

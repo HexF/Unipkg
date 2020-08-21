@@ -1,0 +1,8 @@
+name: libtheora
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtheora
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mousetweaks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mousetweaks
+    repo: extra
+  tag: stable

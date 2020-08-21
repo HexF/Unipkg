@@ -1,0 +1,8 @@
+name: libimobiledevice
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libimobiledevice
+    repo: extra
+  tag: stable

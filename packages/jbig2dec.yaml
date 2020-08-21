@@ -1,0 +1,8 @@
+name: jbig2dec
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jbig2dec
+    repo: extra
+  tag: stable

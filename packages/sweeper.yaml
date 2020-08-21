@@ -1,0 +1,8 @@
+name: sweeper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sweeper
+    repo: extra
+  tag: stable

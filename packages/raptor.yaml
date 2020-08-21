@@ -1,0 +1,8 @@
+name: raptor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: raptor
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdoctools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdoctools
+    repo: extra
+  tag: stable

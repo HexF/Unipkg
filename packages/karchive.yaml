@@ -1,0 +1,8 @@
+name: karchive
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: karchive
+    repo: extra
+  tag: stable

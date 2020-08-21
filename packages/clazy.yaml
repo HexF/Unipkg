@@ -1,0 +1,8 @@
+name: clazy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clazy
+    repo: extra
+  tag: stable

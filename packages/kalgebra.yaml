@@ -1,0 +1,8 @@
+name: kalgebra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kalgebra
+    repo: extra
+  tag: stable

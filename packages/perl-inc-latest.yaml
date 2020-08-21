@@ -1,0 +1,8 @@
+name: perl-inc-latest
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-inc-latest
+    repo: extra
+  tag: stable

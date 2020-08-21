@@ -1,0 +1,8 @@
+name: vim-spell-cs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-cs
+    repo: extra
+  tag: stable

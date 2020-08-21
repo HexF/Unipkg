@@ -1,0 +1,8 @@
+name: grml-zsh-config
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grml-zsh-config
+    repo: extra
+  tag: stable

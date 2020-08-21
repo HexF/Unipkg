@@ -1,0 +1,8 @@
+name: libgnomekbd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgnomekbd
+    repo: extra
+  tag: stable

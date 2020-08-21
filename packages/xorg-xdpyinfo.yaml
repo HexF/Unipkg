@@ -1,0 +1,8 @@
+name: xorg-xdpyinfo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xdpyinfo
+    repo: extra
+  tag: stable

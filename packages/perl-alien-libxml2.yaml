@@ -1,0 +1,8 @@
+name: perl-alien-libxml2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-alien-libxml2
+    repo: extra
+  tag: stable

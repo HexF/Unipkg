@@ -1,0 +1,8 @@
+name: flashplugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: flashplugin
+    repo: extra
+  tag: stable

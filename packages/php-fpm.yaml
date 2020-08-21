@@ -1,0 +1,8 @@
+name: php-fpm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-fpm
+    repo: extra
+  tag: stable

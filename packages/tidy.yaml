@@ -1,0 +1,8 @@
+name: tidy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tidy
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gvim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvim
+    repo: extra
+  tag: stable

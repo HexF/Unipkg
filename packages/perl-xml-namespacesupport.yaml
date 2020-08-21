@@ -1,0 +1,8 @@
+name: perl-xml-namespacesupport
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-namespacesupport
+    repo: extra
+  tag: stable

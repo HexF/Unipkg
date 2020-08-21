@@ -1,0 +1,8 @@
+name: xorg-xprop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xprop
+    repo: extra
+  tag: stable

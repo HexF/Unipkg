@@ -1,0 +1,8 @@
+name: yelp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: yelp
+    repo: extra
+  tag: stable

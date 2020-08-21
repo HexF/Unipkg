@@ -1,0 +1,8 @@
+name: python-atspi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-atspi
+    repo: extra
+  tag: stable

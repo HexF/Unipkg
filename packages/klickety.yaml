@@ -1,0 +1,8 @@
+name: klickety
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: klickety
+    repo: extra
+  tag: stable

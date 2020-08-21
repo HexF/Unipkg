@@ -1,0 +1,8 @@
+name: quagga
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: quagga
+    repo: extra
+  tag: stable

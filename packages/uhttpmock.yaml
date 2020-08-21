@@ -1,0 +1,8 @@
+name: uhttpmock
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: uhttpmock
+    repo: extra
+  tag: stable

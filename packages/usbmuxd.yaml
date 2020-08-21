@@ -1,0 +1,8 @@
+name: usbmuxd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: usbmuxd
+    repo: extra
+  tag: stable

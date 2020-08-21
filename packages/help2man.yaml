@@ -1,0 +1,8 @@
+name: help2man
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: help2man
+    repo: extra
+  tag: stable

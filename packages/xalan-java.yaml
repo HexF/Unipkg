@@ -1,0 +1,8 @@
+name: xalan-java
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xalan-java
+    repo: extra
+  tag: stable

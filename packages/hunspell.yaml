@@ -1,0 +1,8 @@
+name: hunspell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hunspell
+    repo: extra
+  tag: stable

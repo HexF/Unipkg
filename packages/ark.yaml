@@ -1,0 +1,8 @@
+name: ark
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ark
+    repo: extra
+  tag: stable

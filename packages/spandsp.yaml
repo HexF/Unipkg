@@ -1,0 +1,8 @@
+name: spandsp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spandsp
+    repo: extra
+  tag: stable

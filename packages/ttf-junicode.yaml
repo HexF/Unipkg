@@ -1,0 +1,8 @@
+name: ttf-junicode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-junicode
+    repo: extra
+  tag: stable

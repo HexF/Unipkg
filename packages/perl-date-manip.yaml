@@ -1,0 +1,8 @@
+name: perl-date-manip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-date-manip
+    repo: extra
+  tag: stable

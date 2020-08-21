@@ -1,0 +1,8 @@
+name: libabw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libabw
+    repo: extra
+  tag: stable

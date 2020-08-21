@@ -1,0 +1,8 @@
+name: mkvtoolnix-cli
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mkvtoolnix-cli
+    repo: extra
+  tag: stable

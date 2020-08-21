@@ -1,0 +1,8 @@
+name: f2fs-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: f2fs-tools
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: vim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim
+    repo: extra
+  tag: stable

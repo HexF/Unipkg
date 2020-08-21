@@ -1,0 +1,8 @@
+name: vim-spell-tn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-tn
+    repo: extra
+  tag: stable

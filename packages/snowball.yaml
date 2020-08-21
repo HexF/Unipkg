@@ -1,0 +1,8 @@
+name: snowball
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: snowball
+    repo: extra
+  tag: stable

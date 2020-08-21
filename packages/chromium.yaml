@@ -1,0 +1,8 @@
+name: chromium
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: chromium
+    repo: extra
+  tag: stable

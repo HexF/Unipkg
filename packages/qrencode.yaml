@@ -1,0 +1,8 @@
+name: qrencode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qrencode
+    repo: extra
+  tag: stable

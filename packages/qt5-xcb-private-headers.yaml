@@ -1,0 +1,8 @@
+name: qt5-xcb-private-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-xcb-private-headers
+    repo: extra
+  tag: stable

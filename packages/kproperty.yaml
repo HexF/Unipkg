@@ -1,0 +1,8 @@
+name: kproperty
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kproperty
+    repo: extra
+  tag: stable

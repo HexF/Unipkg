@@ -1,0 +1,8 @@
+name: texlive-langchinese
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langchinese
+    repo: extra
+  tag: stable

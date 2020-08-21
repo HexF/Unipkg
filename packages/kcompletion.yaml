@@ -1,0 +1,8 @@
+name: kcompletion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcompletion
+    repo: extra
+  tag: stable

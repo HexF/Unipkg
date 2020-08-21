@@ -1,0 +1,8 @@
+name: xcb-util-renderutil
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcb-util-renderutil
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xapian-core
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xapian-core
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: docbook-sgml31
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-sgml31
+    repo: extra
+  tag: stable

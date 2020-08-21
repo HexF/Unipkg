@@ -1,0 +1,8 @@
+name: networkmanager-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: networkmanager-qt
+    repo: extra
+  tag: stable

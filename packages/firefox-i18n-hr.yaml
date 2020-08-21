@@ -1,0 +1,8 @@
+name: firefox-i18n-hr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: firefox-i18n-hr
+    repo: extra
+  tag: stable

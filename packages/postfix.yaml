@@ -1,0 +1,8 @@
+name: postfix
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: postfix
+    repo: extra
+  tag: stable

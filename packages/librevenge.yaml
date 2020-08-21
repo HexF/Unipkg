@@ -1,0 +1,8 @@
+name: librevenge
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: librevenge
+    repo: extra
+  tag: stable

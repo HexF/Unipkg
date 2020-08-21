@@ -1,0 +1,8 @@
+name: amtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: amtk
+    repo: extra
+  tag: stable

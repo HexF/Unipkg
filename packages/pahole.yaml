@@ -1,0 +1,8 @@
+name: pahole
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pahole
+    repo: extra
+  tag: stable

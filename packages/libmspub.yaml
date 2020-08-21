@@ -1,0 +1,8 @@
+name: libmspub
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmspub
+    repo: extra
+  tag: stable

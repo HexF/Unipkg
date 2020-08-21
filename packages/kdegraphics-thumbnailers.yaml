@@ -1,0 +1,8 @@
+name: kdegraphics-thumbnailers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdegraphics-thumbnailers
+    repo: extra
+  tag: stable

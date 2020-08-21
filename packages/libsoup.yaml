@@ -1,0 +1,8 @@
+name: libsoup
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsoup
+    repo: extra
+  tag: stable

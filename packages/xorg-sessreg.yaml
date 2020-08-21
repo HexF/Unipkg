@@ -1,0 +1,8 @@
+name: xorg-sessreg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-sessreg
+    repo: extra
+  tag: stable

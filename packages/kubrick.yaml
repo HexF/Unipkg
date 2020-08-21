@@ -1,0 +1,8 @@
+name: kubrick
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kubrick
+    repo: extra
+  tag: stable

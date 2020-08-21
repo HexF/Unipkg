@@ -1,0 +1,8 @@
+name: kcmutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcmutils
+    repo: extra
+  tag: stable

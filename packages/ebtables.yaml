@@ -1,0 +1,8 @@
+name: ebtables
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ebtables
+    repo: extra
+  tag: stable

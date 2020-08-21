@@ -1,0 +1,8 @@
+name: knavalbattle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: knavalbattle
+    repo: extra
+  tag: stable

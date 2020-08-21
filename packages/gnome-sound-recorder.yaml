@@ -1,0 +1,8 @@
+name: gnome-sound-recorder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-sound-recorder
+    repo: extra
+  tag: stable

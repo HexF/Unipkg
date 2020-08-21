@@ -1,0 +1,8 @@
+name: vim-spell-af
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-af
+    repo: extra
+  tag: stable

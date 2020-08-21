@@ -1,0 +1,8 @@
+name: tumbler
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tumbler
+    repo: extra
+  tag: stable

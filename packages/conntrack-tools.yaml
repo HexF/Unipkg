@@ -1,0 +1,8 @@
+name: conntrack-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: conntrack-tools
+    repo: extra
+  tag: stable

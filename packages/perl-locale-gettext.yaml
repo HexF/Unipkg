@@ -1,0 +1,8 @@
+name: perl-locale-gettext
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-locale-gettext
+    repo: extra
+  tag: stable

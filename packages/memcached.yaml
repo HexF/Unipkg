@@ -1,0 +1,8 @@
+name: memcached
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: memcached
+    repo: extra
+  tag: stable

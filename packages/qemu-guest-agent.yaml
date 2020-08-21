@@ -1,0 +1,8 @@
+name: qemu-guest-agent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu-guest-agent
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdeedu-data
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdeedu-data
+    repo: extra
+  tag: stable

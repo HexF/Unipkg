@@ -1,0 +1,8 @@
+name: perl-bit-vector
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-bit-vector
+    repo: extra
+  tag: stable

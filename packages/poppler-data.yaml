@@ -1,0 +1,8 @@
+name: poppler-data
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: poppler-data
+    repo: extra
+  tag: stable

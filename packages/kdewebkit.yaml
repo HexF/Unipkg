@@ -1,0 +1,8 @@
+name: kdewebkit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdewebkit
+    repo: extra
+  tag: stable

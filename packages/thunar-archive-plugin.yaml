@@ -1,0 +1,8 @@
+name: thunar-archive-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thunar-archive-plugin
+    repo: extra
+  tag: stable

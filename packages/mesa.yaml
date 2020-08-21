@@ -1,0 +1,8 @@
+name: mesa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mesa
+    repo: extra
+  tag: stable

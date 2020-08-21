@@ -1,0 +1,8 @@
+name: libmbim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmbim
+    repo: extra
+  tag: stable

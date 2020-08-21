@@ -1,0 +1,8 @@
+name: libxp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxp
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-ply
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-ply
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: dhclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dhclient
+    repo: extra
+  tag: stable

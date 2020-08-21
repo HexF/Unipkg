@@ -1,0 +1,8 @@
+name: signon-plugin-oauth2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: signon-plugin-oauth2
+    repo: extra
+  tag: stable

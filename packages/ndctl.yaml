@@ -1,0 +1,8 @@
+name: ndctl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ndctl
+    repo: extra
+  tag: stable

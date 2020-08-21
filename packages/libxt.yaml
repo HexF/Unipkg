@@ -1,0 +1,8 @@
+name: libxt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxt
+    repo: extra
+  tag: stable

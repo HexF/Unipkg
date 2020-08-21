@@ -1,0 +1,8 @@
+name: libxklavier
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxklavier
+    repo: extra
+  tag: stable

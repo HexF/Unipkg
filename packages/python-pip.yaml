@@ -1,0 +1,8 @@
+name: python-pip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pip
+    repo: extra
+  tag: stable

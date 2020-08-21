@@ -1,0 +1,8 @@
+name: perl-html-tagset
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-html-tagset
+    repo: extra
+  tag: stable

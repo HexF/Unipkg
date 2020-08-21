@@ -1,0 +1,8 @@
+name: libshout
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libshout
+    repo: extra
+  tag: stable

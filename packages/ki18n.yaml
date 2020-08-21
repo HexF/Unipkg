@@ -1,0 +1,8 @@
+name: ki18n
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ki18n
+    repo: extra
+  tag: stable

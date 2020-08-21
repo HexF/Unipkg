@@ -1,0 +1,8 @@
+name: gsm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gsm
+    repo: extra
+  tag: stable

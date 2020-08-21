@@ -1,0 +1,8 @@
+name: perl-http-message
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-http-message
+    repo: extra
+  tag: stable

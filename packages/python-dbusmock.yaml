@@ -1,0 +1,8 @@
+name: python-dbusmock
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-dbusmock
+    repo: extra
+  tag: stable

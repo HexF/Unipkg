@@ -1,0 +1,8 @@
+name: xorg-iceauth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-iceauth
+    repo: extra
+  tag: stable

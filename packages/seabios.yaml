@@ -1,0 +1,8 @@
+name: seabios
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: seabios
+    repo: extra
+  tag: stable

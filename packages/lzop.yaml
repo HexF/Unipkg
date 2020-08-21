@@ -1,0 +1,8 @@
+name: lzop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lzop
+    repo: extra
+  tag: stable

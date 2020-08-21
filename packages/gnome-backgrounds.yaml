@@ -1,0 +1,8 @@
+name: gnome-backgrounds
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-backgrounds
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kget
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kget
+    repo: extra
+  tag: stable

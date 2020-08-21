@@ -1,0 +1,8 @@
+name: bdf-unifont
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bdf-unifont
+    repo: extra
+  tag: stable

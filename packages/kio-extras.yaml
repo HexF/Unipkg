@@ -1,0 +1,8 @@
+name: kio-extras
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kio-extras
+    repo: extra
+  tag: stable

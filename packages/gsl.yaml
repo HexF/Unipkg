@@ -1,0 +1,8 @@
+name: gsl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gsl
+    repo: extra
+  tag: stable

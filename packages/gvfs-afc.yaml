@@ -1,0 +1,8 @@
+name: gvfs-afc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs-afc
+    repo: extra
+  tag: stable

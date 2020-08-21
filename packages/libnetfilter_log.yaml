@@ -1,0 +1,8 @@
+name: libnetfilter-log
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnetfilter_log
+    repo: extra
+  tag: stable

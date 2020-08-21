@@ -1,0 +1,8 @@
+name: tinycdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tinycdb
+    repo: extra
+  tag: stable

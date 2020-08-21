@@ -1,0 +1,8 @@
+name: libksieve
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libksieve
+    repo: extra
+  tag: stable

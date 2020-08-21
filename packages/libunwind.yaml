@@ -1,0 +1,8 @@
+name: libunwind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libunwind
+    repo: extra
+  tag: stable

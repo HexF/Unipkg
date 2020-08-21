@@ -1,0 +1,8 @@
+name: python-packaging
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-packaging
+    repo: extra
+  tag: stable

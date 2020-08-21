@@ -1,0 +1,8 @@
+name: mono-addins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mono-addins
+    repo: extra
+  tag: stable

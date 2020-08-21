@@ -1,0 +1,8 @@
+name: pimcommon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pimcommon
+    repo: extra
+  tag: stable

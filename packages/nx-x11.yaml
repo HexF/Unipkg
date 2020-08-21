@@ -1,0 +1,8 @@
+name: nx-x11
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nx-x11
+    repo: extra
+  tag: stable

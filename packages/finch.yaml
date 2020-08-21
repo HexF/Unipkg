@@ -1,0 +1,8 @@
+name: finch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: finch
+    repo: extra
+  tag: stable

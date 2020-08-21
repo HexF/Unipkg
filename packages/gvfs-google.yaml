@@ -1,0 +1,8 @@
+name: gvfs-google
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs-google
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: figlet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: figlet
+    repo: extra
+  tag: stable

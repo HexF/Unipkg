@@ -1,0 +1,8 @@
+name: openjdk11-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk11-doc
+    repo: extra
+  tag: stable

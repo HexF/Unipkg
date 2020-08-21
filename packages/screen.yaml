@@ -1,0 +1,8 @@
+name: screen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: screen
+    repo: extra
+  tag: stable

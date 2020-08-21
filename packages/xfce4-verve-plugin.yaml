@@ -1,0 +1,8 @@
+name: xfce4-verve-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-verve-plugin
+    repo: extra
+  tag: stable

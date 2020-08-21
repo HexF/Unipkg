@@ -1,0 +1,8 @@
+name: terminology
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: terminology
+    repo: extra
+  tag: stable

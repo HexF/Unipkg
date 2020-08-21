@@ -1,0 +1,8 @@
+name: gpaste
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gpaste
+    repo: extra
+  tag: stable

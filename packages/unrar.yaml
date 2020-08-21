@@ -1,0 +1,8 @@
+name: unrar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: unrar
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: plasma-integration
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-integration
+    repo: extra
+  tag: stable

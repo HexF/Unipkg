@@ -1,0 +1,8 @@
+name: paprefs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: paprefs
+    repo: extra
+  tag: stable

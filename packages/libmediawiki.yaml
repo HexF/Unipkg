@@ -1,0 +1,8 @@
+name: libmediawiki
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmediawiki
+    repo: extra
+  tag: stable

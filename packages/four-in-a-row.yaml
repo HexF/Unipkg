@@ -1,0 +1,8 @@
+name: four-in-a-row
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: four-in-a-row
+    repo: extra
+  tag: stable

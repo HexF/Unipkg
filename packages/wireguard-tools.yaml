@@ -1,0 +1,8 @@
+name: wireguard-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wireguard-tools
+    repo: extra
+  tag: stable

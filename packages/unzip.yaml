@@ -1,0 +1,8 @@
+name: unzip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: unzip
+    repo: extra
+  tag: stable

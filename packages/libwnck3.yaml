@@ -1,0 +1,8 @@
+name: libwnck3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwnck3
+    repo: extra
+  tag: stable

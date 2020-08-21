@@ -1,0 +1,8 @@
+name: gegl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gegl
+    repo: extra
+  tag: stable

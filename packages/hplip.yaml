@@ -1,0 +1,8 @@
+name: hplip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hplip
+    repo: extra
+  tag: stable

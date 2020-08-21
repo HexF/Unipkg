@@ -1,0 +1,8 @@
+name: kwidgetsaddons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwidgetsaddons
+    repo: extra
+  tag: stable

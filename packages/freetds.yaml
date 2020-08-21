@@ -1,0 +1,8 @@
+name: freetds
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: freetds
+    repo: extra
+  tag: stable

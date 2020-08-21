@@ -1,0 +1,8 @@
+name: ipset
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ipset
+    repo: extra
+  tag: stable

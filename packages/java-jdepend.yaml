@@ -1,0 +1,8 @@
+name: java-jdepend
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-jdepend
+    repo: extra
+  tag: stable

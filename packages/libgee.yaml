@@ -1,0 +1,8 @@
+name: libgee
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgee
+    repo: extra
+  tag: stable

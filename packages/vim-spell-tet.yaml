@@ -1,0 +1,8 @@
+name: vim-spell-tet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-tet
+    repo: extra
+  tag: stable

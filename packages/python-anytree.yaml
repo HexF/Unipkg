@@ -1,0 +1,8 @@
+name: python-anytree
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-anytree
+    repo: extra
+  tag: stable

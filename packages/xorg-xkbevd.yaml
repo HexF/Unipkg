@@ -1,0 +1,8 @@
+name: xorg-xkbevd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xkbevd
+    repo: extra
+  tag: stable

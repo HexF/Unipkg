@@ -1,0 +1,8 @@
+name: facile
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: facile
+    repo: extra
+  tag: stable

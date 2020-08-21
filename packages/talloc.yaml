@@ -1,0 +1,8 @@
+name: talloc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: talloc
+    repo: extra
+  tag: stable

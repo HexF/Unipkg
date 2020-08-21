@@ -1,0 +1,8 @@
+name: libthai
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libthai
+    repo: extra
+  tag: stable

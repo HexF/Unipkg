@@ -1,0 +1,8 @@
+name: kmousetool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmousetool
+    repo: extra
+  tag: stable

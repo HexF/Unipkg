@@ -1,0 +1,8 @@
+name: libmp4v2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmp4v2
+    repo: extra
+  tag: stable

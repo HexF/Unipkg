@@ -1,0 +1,8 @@
+name: gnome-font-viewer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-font-viewer
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: modemmanager-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: modemmanager-qt
+    repo: extra
+  tag: stable

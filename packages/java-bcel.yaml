@@ -1,0 +1,8 @@
+name: java-bcel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-bcel
+    repo: extra
+  tag: stable

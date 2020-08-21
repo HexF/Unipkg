@@ -1,0 +1,8 @@
+name: libomxil-bellagio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libomxil-bellagio
+    repo: extra
+  tag: stable

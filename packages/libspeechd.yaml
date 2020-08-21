@@ -1,0 +1,8 @@
+name: libspeechd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libspeechd
+    repo: extra
+  tag: stable

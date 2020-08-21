@@ -1,0 +1,8 @@
+name: guile-bytestructures
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: guile-bytestructures
+    repo: extra
+  tag: stable

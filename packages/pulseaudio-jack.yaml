@@ -1,0 +1,8 @@
+name: pulseaudio-jack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-jack
+    repo: extra
+  tag: stable

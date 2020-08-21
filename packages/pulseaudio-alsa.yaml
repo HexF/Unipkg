@@ -1,0 +1,8 @@
+name: pulseaudio-alsa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-alsa
+    repo: extra
+  tag: stable

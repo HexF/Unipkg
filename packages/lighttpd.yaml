@@ -1,0 +1,8 @@
+name: lighttpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lighttpd
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kcolorchooser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcolorchooser
+    repo: extra
+  tag: stable

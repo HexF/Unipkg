@@ -1,0 +1,8 @@
+name: ttf-caladea
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-caladea
+    repo: extra
+  tag: stable

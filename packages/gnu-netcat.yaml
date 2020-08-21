@@ -1,0 +1,8 @@
+name: gnu-netcat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnu-netcat
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mdds
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mdds
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: bovo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bovo
+    repo: extra
+  tag: stable

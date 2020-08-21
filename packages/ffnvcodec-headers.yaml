@@ -1,0 +1,8 @@
+name: ffnvcodec-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ffnvcodec-headers
+    repo: extra
+  tag: stable

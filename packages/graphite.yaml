@@ -1,0 +1,8 @@
+name: graphite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: graphite
+    repo: extra
+  tag: stable

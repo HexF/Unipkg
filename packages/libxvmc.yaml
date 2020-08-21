@@ -1,0 +1,8 @@
+name: libxvmc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxvmc
+    repo: extra
+  tag: stable

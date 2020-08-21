@@ -1,0 +1,8 @@
+name: libdc1394
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdc1394
+    repo: extra
+  tag: stable

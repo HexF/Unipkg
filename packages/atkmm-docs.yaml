@@ -1,0 +1,8 @@
+name: atkmm-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: atkmm-docs
+    repo: extra
+  tag: stable

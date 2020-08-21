@@ -1,0 +1,8 @@
+name: archiso
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: archiso
+    repo: extra
+  tag: stable

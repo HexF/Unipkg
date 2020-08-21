@@ -1,0 +1,8 @@
+name: antlr2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: antlr2
+    repo: extra
+  tag: stable

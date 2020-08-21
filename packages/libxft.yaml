@@ -1,0 +1,8 @@
+name: libxft
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxft
+    repo: extra
+  tag: stable

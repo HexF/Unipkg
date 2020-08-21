@@ -1,0 +1,8 @@
+name: libguess
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libguess
+    repo: extra
+  tag: stable

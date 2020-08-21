@@ -1,0 +1,8 @@
+name: evolution-spamassassin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evolution-spamassassin
+    repo: extra
+  tag: stable

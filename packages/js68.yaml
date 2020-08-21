@@ -1,0 +1,8 @@
+name: js68
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: js68
+    repo: extra
+  tag: stable

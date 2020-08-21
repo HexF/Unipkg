@@ -1,0 +1,8 @@
+name: libxv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxv
+    repo: extra
+  tag: stable

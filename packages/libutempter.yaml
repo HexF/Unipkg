@@ -1,0 +1,8 @@
+name: libutempter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libutempter
+    repo: extra
+  tag: stable

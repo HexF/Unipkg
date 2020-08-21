@@ -1,0 +1,8 @@
+name: xfce4-notifyd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-notifyd
+    repo: extra
+  tag: stable

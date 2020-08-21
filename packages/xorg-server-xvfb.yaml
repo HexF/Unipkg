@@ -1,0 +1,8 @@
+name: xorg-server-xvfb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-xvfb
+    repo: extra
+  tag: stable

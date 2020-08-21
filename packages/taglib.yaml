@@ -1,0 +1,8 @@
+name: taglib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: taglib
+    repo: extra
+  tag: stable

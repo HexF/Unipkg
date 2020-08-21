@@ -1,0 +1,8 @@
+name: kitinerary
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kitinerary
+    repo: extra
+  tag: stable

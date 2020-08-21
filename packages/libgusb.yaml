@@ -1,0 +1,8 @@
+name: libgusb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgusb
+    repo: extra
+  tag: stable

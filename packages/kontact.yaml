@@ -1,0 +1,8 @@
+name: kontact
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kontact
+    repo: extra
+  tag: stable

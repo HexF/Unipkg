@@ -1,0 +1,8 @@
+name: ktouch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ktouch
+    repo: extra
+  tag: stable

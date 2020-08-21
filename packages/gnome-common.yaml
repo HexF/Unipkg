@@ -1,0 +1,8 @@
+name: gnome-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-common
+    repo: extra
+  tag: stable

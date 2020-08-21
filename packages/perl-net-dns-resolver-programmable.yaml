@@ -1,0 +1,8 @@
+name: perl-net-dns-resolver-programmable
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-dns-resolver-programmable
+    repo: extra
+  tag: stable

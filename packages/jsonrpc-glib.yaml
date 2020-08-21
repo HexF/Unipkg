@@ -1,0 +1,8 @@
+name: jsonrpc-glib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jsonrpc-glib
+    repo: extra
+  tag: stable

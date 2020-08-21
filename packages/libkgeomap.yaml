@@ -1,0 +1,8 @@
+name: libkgeomap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkgeomap
+    repo: extra
+  tag: stable

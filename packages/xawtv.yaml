@@ -1,0 +1,8 @@
+name: xawtv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xawtv
+    repo: extra
+  tag: stable

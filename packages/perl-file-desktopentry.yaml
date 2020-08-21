@@ -1,0 +1,8 @@
+name: perl-file-desktopentry
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-desktopentry
+    repo: extra
+  tag: stable

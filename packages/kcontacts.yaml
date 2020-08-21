@@ -1,0 +1,8 @@
+name: kcontacts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcontacts
+    repo: extra
+  tag: stable

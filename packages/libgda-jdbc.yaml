@@ -1,0 +1,8 @@
+name: libgda-jdbc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgda-jdbc
+    repo: extra
+  tag: stable

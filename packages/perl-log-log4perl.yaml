@@ -1,0 +1,8 @@
+name: perl-log-log4perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-log-log4perl
+    repo: extra
+  tag: stable

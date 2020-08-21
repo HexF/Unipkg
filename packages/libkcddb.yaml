@@ -1,0 +1,8 @@
+name: libkcddb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkcddb
+    repo: extra
+  tag: stable

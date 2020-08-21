@@ -1,0 +1,8 @@
+name: java-jsch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-jsch
+    repo: extra
+  tag: stable

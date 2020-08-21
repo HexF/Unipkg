@@ -1,0 +1,8 @@
+name: leveldb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: leveldb
+    repo: extra
+  tag: stable

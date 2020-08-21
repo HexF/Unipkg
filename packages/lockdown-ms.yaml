@@ -1,0 +1,8 @@
+name: lockdown-ms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lockdown-ms
+    repo: extra
+  tag: stable

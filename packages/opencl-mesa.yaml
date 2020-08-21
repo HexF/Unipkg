@@ -1,0 +1,8 @@
+name: opencl-mesa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencl-mesa
+    repo: extra
+  tag: stable

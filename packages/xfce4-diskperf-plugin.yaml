@@ -1,0 +1,8 @@
+name: xfce4-diskperf-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-diskperf-plugin
+    repo: extra
+  tag: stable

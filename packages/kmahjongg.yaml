@@ -1,0 +1,8 @@
+name: kmahjongg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmahjongg
+    repo: extra
+  tag: stable

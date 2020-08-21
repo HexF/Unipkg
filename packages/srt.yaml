@@ -1,0 +1,8 @@
+name: srt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: srt
+    repo: extra
+  tag: stable

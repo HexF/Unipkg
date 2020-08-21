@@ -1,0 +1,8 @@
+name: python2-gobject
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-gobject
+    repo: extra
+  tag: stable

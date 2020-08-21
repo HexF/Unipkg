@@ -1,0 +1,8 @@
+name: pam-ldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pam_ldap
+    repo: extra
+  tag: stable

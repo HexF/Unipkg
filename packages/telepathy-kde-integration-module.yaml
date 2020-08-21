@@ -1,0 +1,8 @@
+name: telepathy-kde-integration-module
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-kde-integration-module
+    repo: extra
+  tag: stable

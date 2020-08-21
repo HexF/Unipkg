@@ -1,0 +1,8 @@
+name: opus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opus
+    repo: extra
+  tag: stable

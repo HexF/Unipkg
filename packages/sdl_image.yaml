@@ -1,0 +1,8 @@
+name: sdl-image
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_image
+    repo: extra
+  tag: stable

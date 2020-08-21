@@ -1,0 +1,8 @@
+name: gssdp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gssdp
+    repo: extra
+  tag: stable

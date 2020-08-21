@@ -1,0 +1,8 @@
+name: wipe
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wipe
+    repo: extra
+  tag: stable

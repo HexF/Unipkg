@@ -1,0 +1,8 @@
+name: mtr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mtr
+    repo: extra
+  tag: stable

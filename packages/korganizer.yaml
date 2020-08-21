@@ -1,0 +1,8 @@
+name: korganizer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: korganizer
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: konqueror
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: konqueror
+    repo: extra
+  tag: stable

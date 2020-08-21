@@ -1,0 +1,8 @@
+name: man2html
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: man2html
+    repo: extra
+  tag: stable

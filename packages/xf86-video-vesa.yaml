@@ -1,0 +1,8 @@
+name: xf86-video-vesa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-video-vesa
+    repo: extra
+  tag: stable

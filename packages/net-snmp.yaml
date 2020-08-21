@@ -1,0 +1,8 @@
+name: net-snmp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: net-snmp
+    repo: extra
+  tag: stable

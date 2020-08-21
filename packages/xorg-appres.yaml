@@ -1,0 +1,8 @@
+name: xorg-appres
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-appres
+    repo: extra
+  tag: stable

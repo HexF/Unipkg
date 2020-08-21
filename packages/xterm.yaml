@@ -1,0 +1,8 @@
+name: xterm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xterm
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: rtmpdump
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rtmpdump
+    repo: extra
+  tag: stable

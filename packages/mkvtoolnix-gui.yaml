@@ -1,0 +1,8 @@
+name: mkvtoolnix-gui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mkvtoolnix-gui
+    repo: extra
+  tag: stable

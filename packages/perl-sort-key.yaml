@@ -1,0 +1,8 @@
+name: perl-sort-key
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-sort-key
+    repo: extra
+  tag: stable

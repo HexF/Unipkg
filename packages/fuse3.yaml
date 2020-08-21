@@ -1,0 +1,8 @@
+name: fuse3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fuse3
+    repo: extra
+  tag: stable

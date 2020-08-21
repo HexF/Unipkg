@@ -1,0 +1,8 @@
+name: asp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: asp
+    repo: extra
+  tag: stable

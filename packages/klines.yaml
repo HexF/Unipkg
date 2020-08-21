@@ -1,0 +1,8 @@
+name: klines
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: klines
+    repo: extra
+  tag: stable

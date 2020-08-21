@@ -1,0 +1,8 @@
+name: python-opengl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-opengl
+    repo: extra
+  tag: stable

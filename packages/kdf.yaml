@@ -1,0 +1,8 @@
+name: kdf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdf
+    repo: extra
+  tag: stable

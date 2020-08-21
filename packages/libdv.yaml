@@ -1,0 +1,8 @@
+name: libdv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdv
+    repo: extra
+  tag: stable

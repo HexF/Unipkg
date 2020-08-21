@@ -1,0 +1,8 @@
+name: xorg-xcmsdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xcmsdb
+    repo: extra
+  tag: stable

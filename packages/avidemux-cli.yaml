@@ -1,0 +1,8 @@
+name: avidemux-cli
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: avidemux-cli
+    repo: extra
+  tag: stable

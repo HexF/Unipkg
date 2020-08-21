@@ -1,0 +1,8 @@
+name: perl-business-issn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-business-issn
+    repo: extra
+  tag: stable

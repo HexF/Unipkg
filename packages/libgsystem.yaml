@@ -1,0 +1,8 @@
+name: libgsystem
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgsystem
+    repo: extra
+  tag: stable

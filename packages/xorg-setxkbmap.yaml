@@ -1,0 +1,8 @@
+name: xorg-setxkbmap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-setxkbmap
+    repo: extra
+  tag: stable

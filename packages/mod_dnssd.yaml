@@ -1,0 +1,8 @@
+name: mod-dnssd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mod_dnssd
+    repo: extra
+  tag: stable

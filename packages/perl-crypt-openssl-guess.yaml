@@ -1,0 +1,8 @@
+name: perl-crypt-openssl-guess
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-crypt-openssl-guess
+    repo: extra
+  tag: stable

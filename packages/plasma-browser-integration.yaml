@@ -1,0 +1,8 @@
+name: plasma-browser-integration
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plasma-browser-integration
+    repo: extra
+  tag: stable

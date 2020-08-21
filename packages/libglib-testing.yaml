@@ -1,0 +1,8 @@
+name: libglib-testing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libglib-testing
+    repo: extra
+  tag: stable

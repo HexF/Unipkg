@@ -1,0 +1,8 @@
+name: meld
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: meld
+    repo: extra
+  tag: stable

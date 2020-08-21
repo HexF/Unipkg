@@ -1,0 +1,8 @@
+name: python2-asn1crypto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-asn1crypto
+    repo: extra
+  tag: stable

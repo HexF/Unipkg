@@ -1,0 +1,8 @@
+name: kconfigwidgets
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kconfigwidgets
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-pysmbc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pysmbc
+    repo: extra
+  tag: stable

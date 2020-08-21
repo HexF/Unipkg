@@ -1,0 +1,8 @@
+name: mypaint-brushes1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mypaint-brushes1
+    repo: extra
+  tag: stable

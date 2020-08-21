@@ -1,0 +1,8 @@
+name: mysql-python
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mysql-python
+    repo: extra
+  tag: stable

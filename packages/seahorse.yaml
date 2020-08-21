@@ -1,0 +1,8 @@
+name: seahorse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: seahorse
+    repo: extra
+  tag: stable

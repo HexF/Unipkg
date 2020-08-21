@@ -1,0 +1,8 @@
+name: lasem
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lasem
+    repo: extra
+  tag: stable

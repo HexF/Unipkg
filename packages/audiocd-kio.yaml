@@ -1,0 +1,8 @@
+name: audiocd-kio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: audiocd-kio
+    repo: extra
+  tag: stable

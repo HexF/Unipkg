@@ -1,0 +1,8 @@
+name: python-tests
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-tests
+    repo: extra
+  tag: stable

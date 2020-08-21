@@ -1,0 +1,8 @@
+name: libtiff
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtiff
+    repo: extra
+  tag: stable

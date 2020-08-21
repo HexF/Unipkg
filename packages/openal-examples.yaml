@@ -1,0 +1,8 @@
+name: openal-examples
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openal-examples
+    repo: extra
+  tag: stable

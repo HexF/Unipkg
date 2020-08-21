@@ -1,0 +1,8 @@
+name: gnome-photos
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-photos
+    repo: extra
+  tag: stable

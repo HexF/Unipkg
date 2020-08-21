@@ -1,0 +1,8 @@
+name: syndication
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: syndication
+    repo: extra
+  tag: stable

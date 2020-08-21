@@ -1,0 +1,8 @@
+name: libgrss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgrss
+    repo: extra
+  tag: stable

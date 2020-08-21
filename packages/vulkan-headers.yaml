@@ -1,0 +1,8 @@
+name: vulkan-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-headers
+    repo: extra
+  tag: stable

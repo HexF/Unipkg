@@ -1,0 +1,8 @@
+name: aalib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: aalib
+    repo: extra
+  tag: stable

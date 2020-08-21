@@ -1,0 +1,8 @@
+name: kmenuedit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmenuedit
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-server-xwayland
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-xwayland
+    repo: extra
+  tag: stable

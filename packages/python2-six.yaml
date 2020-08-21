@@ -1,0 +1,8 @@
+name: python2-six
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python2-six
+    repo: extra
+  tag: stable

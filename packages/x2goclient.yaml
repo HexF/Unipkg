@@ -1,0 +1,8 @@
+name: x2goclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: x2goclient
+    repo: extra
+  tag: stable

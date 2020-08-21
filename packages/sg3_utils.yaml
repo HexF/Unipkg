@@ -1,0 +1,8 @@
+name: sg3-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sg3_utils
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: nm-connection-editor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nm-connection-editor
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: archboot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: archboot
+    repo: extra
+  tag: stable

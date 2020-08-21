@@ -1,0 +1,8 @@
+name: libcups
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcups
+    repo: extra
+  tag: stable

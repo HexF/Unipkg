@@ -1,0 +1,8 @@
+name: gnome-bluetooth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-bluetooth
+    repo: extra
+  tag: stable

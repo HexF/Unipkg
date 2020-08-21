@@ -1,0 +1,8 @@
+name: python-setuptools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-setuptools
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-retrying
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-retrying
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libgnome-keyring
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgnome-keyring
+    repo: extra
+  tag: stable

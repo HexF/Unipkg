@@ -1,0 +1,8 @@
+name: rubygems
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rubygems
+    repo: extra
+  tag: stable

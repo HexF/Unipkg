@@ -1,0 +1,8 @@
+name: xorg-twm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-twm
+    repo: extra
+  tag: stable

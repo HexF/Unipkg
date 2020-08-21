@@ -1,0 +1,8 @@
+name: lsof
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lsof
+    repo: extra
+  tag: stable

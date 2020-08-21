@@ -1,0 +1,8 @@
+name: kcachegrind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcachegrind
+    repo: extra
+  tag: stable

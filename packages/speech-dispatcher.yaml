@@ -1,0 +1,8 @@
+name: speech-dispatcher
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: speech-dispatcher
+    repo: extra
+  tag: stable

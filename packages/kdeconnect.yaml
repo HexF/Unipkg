@@ -1,0 +1,8 @@
+name: kdeconnect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdeconnect
+    repo: extra
+  tag: stable

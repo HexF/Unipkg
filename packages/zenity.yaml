@@ -1,0 +1,8 @@
+name: zenity
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zenity
+    repo: extra
+  tag: stable

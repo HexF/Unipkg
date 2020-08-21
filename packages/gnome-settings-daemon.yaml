@@ -1,0 +1,8 @@
+name: gnome-settings-daemon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-settings-daemon
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: foomatic-db-nonfree
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: foomatic-db-nonfree
+    repo: extra
+  tag: stable

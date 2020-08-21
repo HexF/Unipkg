@@ -1,0 +1,8 @@
+name: vim-spell-ga
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-ga
+    repo: extra
+  tag: stable

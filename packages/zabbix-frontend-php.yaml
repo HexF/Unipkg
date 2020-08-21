@@ -1,0 +1,8 @@
+name: zabbix-frontend-php
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zabbix-frontend-php
+    repo: extra
+  tag: stable

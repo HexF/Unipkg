@@ -1,0 +1,8 @@
+name: perl-xml-simple
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-simple
+    repo: extra
+  tag: stable

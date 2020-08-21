@@ -1,0 +1,8 @@
+name: libreoffice-still-xh
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-xh
+    repo: extra
+  tag: stable

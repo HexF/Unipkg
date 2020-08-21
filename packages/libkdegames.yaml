@@ -1,0 +1,8 @@
+name: libkdegames
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkdegames
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: rcs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rcs
+    repo: extra
+  tag: stable

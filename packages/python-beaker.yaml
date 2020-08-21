@@ -1,0 +1,8 @@
+name: python-beaker
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-beaker
+    repo: extra
+  tag: stable

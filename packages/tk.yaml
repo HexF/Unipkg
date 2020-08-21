@@ -1,0 +1,8 @@
+name: tk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tk
+    repo: extra
+  tag: stable

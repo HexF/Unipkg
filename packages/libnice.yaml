@@ -1,0 +1,8 @@
+name: libnice
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnice
+    repo: extra
+  tag: stable

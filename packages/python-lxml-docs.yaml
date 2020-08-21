@@ -1,0 +1,8 @@
+name: python-lxml-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-lxml-docs
+    repo: extra
+  tag: stable

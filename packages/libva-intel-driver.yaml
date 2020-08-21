@@ -1,0 +1,8 @@
+name: libva-intel-driver
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libva-intel-driver
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libidn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libidn
+    repo: extra
+  tag: stable

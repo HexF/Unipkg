@@ -1,0 +1,8 @@
+name: sharutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sharutils
+    repo: extra
+  tag: stable

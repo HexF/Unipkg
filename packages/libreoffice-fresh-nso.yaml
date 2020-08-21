@@ -1,0 +1,8 @@
+name: libreoffice-fresh-nso
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-nso
+    repo: extra
+  tag: stable

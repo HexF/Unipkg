@@ -1,0 +1,8 @@
+name: perl-ev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-ev
+    repo: extra
+  tag: stable

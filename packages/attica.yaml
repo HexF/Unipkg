@@ -1,0 +1,8 @@
+name: attica
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: attica
+    repo: extra
+  tag: stable

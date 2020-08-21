@@ -1,0 +1,8 @@
+name: accerciser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: accerciser
+    repo: extra
+  tag: stable

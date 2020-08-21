@@ -1,0 +1,8 @@
+name: qt5-networkauth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-networkauth
+    repo: extra
+  tag: stable

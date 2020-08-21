@@ -1,0 +1,8 @@
+name: libreoffice-still-mai
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-mai
+    repo: extra
+  tag: stable

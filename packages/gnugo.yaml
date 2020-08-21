@@ -1,0 +1,8 @@
+name: gnugo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnugo
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mytop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mytop
+    repo: extra
+  tag: stable

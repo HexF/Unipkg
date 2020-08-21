@@ -1,0 +1,8 @@
+name: marble-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: marble-common
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libgda
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgda
+    repo: extra
+  tag: stable

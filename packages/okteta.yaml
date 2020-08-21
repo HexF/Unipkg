@@ -1,0 +1,8 @@
+name: okteta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: okteta
+    repo: extra
+  tag: stable

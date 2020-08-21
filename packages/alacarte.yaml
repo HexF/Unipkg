@@ -1,0 +1,8 @@
+name: alacarte
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: alacarte
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: spglib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spglib
+    repo: extra
+  tag: stable

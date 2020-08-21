@@ -1,0 +1,8 @@
+name: vulkan-mesa-layers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-mesa-layers
+    repo: extra
+  tag: stable

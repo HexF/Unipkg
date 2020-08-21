@@ -1,0 +1,8 @@
+name: orc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: orc
+    repo: extra
+  tag: stable

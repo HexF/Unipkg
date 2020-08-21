@@ -1,0 +1,8 @@
+name: perl-cpan-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-cpan-meta
+    repo: extra
+  tag: stable

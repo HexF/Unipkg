@@ -1,0 +1,8 @@
+name: python-pyasn1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyasn1
+    repo: extra
+  tag: stable

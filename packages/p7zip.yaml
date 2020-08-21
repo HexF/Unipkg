@@ -1,0 +1,8 @@
+name: p7zip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: p7zip
+    repo: extra
+  tag: stable

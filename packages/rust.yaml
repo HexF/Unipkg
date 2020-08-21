@@ -1,0 +1,8 @@
+name: rust
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rust
+    repo: extra
+  tag: stable

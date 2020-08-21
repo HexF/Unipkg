@@ -1,0 +1,8 @@
+name: graphicsmagick
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: graphicsmagick
+    repo: extra
+  tag: stable

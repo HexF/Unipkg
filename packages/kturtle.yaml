@@ -1,0 +1,8 @@
+name: kturtle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kturtle
+    repo: extra
+  tag: stable

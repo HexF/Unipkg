@@ -1,0 +1,8 @@
+name: kcalutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcalutils
+    repo: extra
+  tag: stable

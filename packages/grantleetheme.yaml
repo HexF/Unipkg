@@ -1,0 +1,8 @@
+name: grantleetheme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grantleetheme
+    repo: extra
+  tag: stable

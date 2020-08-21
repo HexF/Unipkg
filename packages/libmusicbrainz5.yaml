@@ -1,0 +1,8 @@
+name: libmusicbrainz5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmusicbrainz5
+    repo: extra
+  tag: stable

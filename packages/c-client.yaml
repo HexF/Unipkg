@@ -1,0 +1,8 @@
+name: c-client
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: c-client
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ksysguard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ksysguard
+    repo: extra
+  tag: stable

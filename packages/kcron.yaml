@@ -1,0 +1,8 @@
+name: kcron
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcron
+    repo: extra
+  tag: stable

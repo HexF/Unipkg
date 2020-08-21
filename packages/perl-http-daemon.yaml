@@ -1,0 +1,8 @@
+name: perl-http-daemon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-http-daemon
+    repo: extra
+  tag: stable

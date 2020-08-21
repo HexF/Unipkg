@@ -1,0 +1,8 @@
+name: openconnect
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openconnect
+    repo: extra
+  tag: stable

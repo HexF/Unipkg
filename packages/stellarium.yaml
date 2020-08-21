@@ -1,0 +1,8 @@
+name: stellarium
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: stellarium
+    repo: extra
+  tag: stable

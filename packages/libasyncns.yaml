@@ -1,0 +1,8 @@
+name: libasyncns
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libasyncns
+    repo: extra
+  tag: stable

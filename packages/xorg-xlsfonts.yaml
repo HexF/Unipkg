@@ -1,0 +1,8 @@
+name: xorg-xlsfonts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xlsfonts
+    repo: extra
+  tag: stable

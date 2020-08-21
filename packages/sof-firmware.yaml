@@ -1,0 +1,8 @@
+name: sof-firmware
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sof-firmware
+    repo: extra
+  tag: stable

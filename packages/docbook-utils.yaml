@@ -1,0 +1,8 @@
+name: docbook-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-utils
+    repo: extra
+  tag: stable

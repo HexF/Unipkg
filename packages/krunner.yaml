@@ -1,0 +1,8 @@
+name: krunner
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: krunner
+    repo: extra
+  tag: stable

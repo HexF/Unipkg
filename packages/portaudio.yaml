@@ -1,0 +1,8 @@
+name: portaudio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: portaudio
+    repo: extra
+  tag: stable

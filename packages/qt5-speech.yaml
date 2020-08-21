@@ -1,0 +1,8 @@
+name: qt5-speech
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-speech
+    repo: extra
+  tag: stable

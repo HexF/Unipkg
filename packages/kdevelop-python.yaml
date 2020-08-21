@@ -1,0 +1,8 @@
+name: kdevelop-python
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdevelop-python
+    repo: extra
+  tag: stable

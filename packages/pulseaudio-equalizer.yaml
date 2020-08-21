@@ -1,0 +1,8 @@
+name: pulseaudio-equalizer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-equalizer
+    repo: extra
+  tag: stable

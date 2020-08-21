@@ -1,0 +1,8 @@
+name: postgresql-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: postgresql-docs
+    repo: extra
+  tag: stable

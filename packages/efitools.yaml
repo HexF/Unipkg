@@ -1,0 +1,8 @@
+name: efitools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: efitools
+    repo: extra
+  tag: stable

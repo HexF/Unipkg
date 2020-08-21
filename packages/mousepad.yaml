@@ -1,0 +1,8 @@
+name: mousepad
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mousepad
+    repo: extra
+  tag: stable

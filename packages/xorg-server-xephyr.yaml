@@ -1,0 +1,8 @@
+name: xorg-server-xephyr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-xephyr
+    repo: extra
+  tag: stable

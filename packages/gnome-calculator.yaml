@@ -1,0 +1,8 @@
+name: gnome-calculator
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-calculator
+    repo: extra
+  tag: stable

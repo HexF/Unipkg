@@ -1,0 +1,8 @@
+name: kspaceduel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kspaceduel
+    repo: extra
+  tag: stable

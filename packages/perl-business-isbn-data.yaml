@@ -1,0 +1,8 @@
+name: perl-business-isbn-data
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-business-isbn-data
+    repo: extra
+  tag: stable

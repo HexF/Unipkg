@@ -1,0 +1,8 @@
+name: libcanberra-pulse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcanberra-pulse
+    repo: extra
+  tag: stable

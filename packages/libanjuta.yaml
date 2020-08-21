@@ -1,0 +1,8 @@
+name: libanjuta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libanjuta
+    repo: extra
+  tag: stable

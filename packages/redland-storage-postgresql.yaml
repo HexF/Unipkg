@@ -1,0 +1,8 @@
+name: redland-storage-postgresql
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: redland-storage-postgresql
+    repo: extra
+  tag: stable

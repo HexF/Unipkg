@@ -1,0 +1,8 @@
+name: kpimtextedit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kpimtextedit
+    repo: extra
+  tag: stable

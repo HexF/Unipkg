@@ -1,0 +1,8 @@
+name: nitrogen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nitrogen
+    repo: extra
+  tag: stable

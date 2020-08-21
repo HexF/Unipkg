@@ -1,0 +1,8 @@
+name: nvidia-dkms
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nvidia-dkms
+    repo: extra
+  tag: stable

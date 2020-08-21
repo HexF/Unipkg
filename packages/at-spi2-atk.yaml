@@ -1,0 +1,8 @@
+name: at-spi2-atk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: at-spi2-atk
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: mplayer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mplayer
+    repo: extra
+  tag: stable

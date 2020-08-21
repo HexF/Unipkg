@@ -1,0 +1,8 @@
+name: kwrite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwrite
+    repo: extra
+  tag: stable

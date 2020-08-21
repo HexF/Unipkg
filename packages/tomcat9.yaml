@@ -1,0 +1,8 @@
+name: tomcat9
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tomcat9
+    repo: extra
+  tag: stable

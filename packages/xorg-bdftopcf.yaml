@@ -1,0 +1,8 @@
+name: xorg-bdftopcf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-bdftopcf
+    repo: extra
+  tag: stable

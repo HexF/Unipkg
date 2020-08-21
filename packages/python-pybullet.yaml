@@ -1,0 +1,8 @@
+name: python-pybullet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pybullet
+    repo: extra
+  tag: stable

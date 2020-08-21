@@ -1,0 +1,8 @@
+name: kwave
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwave
+    repo: extra
+  tag: stable

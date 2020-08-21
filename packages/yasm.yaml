@@ -1,0 +1,8 @@
+name: yasm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: yasm
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: qbs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qbs
+    repo: extra
+  tag: stable

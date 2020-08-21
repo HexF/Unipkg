@@ -1,0 +1,8 @@
+name: xfce4-notes-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-notes-plugin
+    repo: extra
+  tag: stable

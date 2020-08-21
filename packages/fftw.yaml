@@ -1,0 +1,8 @@
+name: fftw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fftw
+    repo: extra
+  tag: stable

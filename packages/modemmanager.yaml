@@ -1,0 +1,8 @@
+name: modemmanager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: modemmanager
+    repo: extra
+  tag: stable

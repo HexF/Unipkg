@@ -1,0 +1,8 @@
+name: clang
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clang
+    repo: extra
+  tag: stable

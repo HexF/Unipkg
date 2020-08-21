@@ -1,0 +1,8 @@
+name: opencv-samples
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencv-samples
+    repo: extra
+  tag: stable

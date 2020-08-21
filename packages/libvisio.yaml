@@ -1,0 +1,8 @@
+name: libvisio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvisio
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libkvkontakte
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkvkontakte
+    repo: extra
+  tag: stable

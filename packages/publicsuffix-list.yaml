@@ -1,0 +1,8 @@
+name: publicsuffix-list
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: publicsuffix-list
+    repo: extra
+  tag: stable

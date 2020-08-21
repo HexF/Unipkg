@@ -1,0 +1,8 @@
+name: vpnc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vpnc
+    repo: extra
+  tag: stable

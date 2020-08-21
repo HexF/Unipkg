@@ -1,0 +1,8 @@
+name: hwloc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hwloc
+    repo: extra
+  tag: stable

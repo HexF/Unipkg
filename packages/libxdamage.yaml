@@ -1,0 +1,8 @@
+name: libxdamage
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxdamage
+    repo: extra
+  tag: stable

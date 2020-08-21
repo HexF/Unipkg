@@ -1,0 +1,8 @@
+name: rust-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rust-docs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: geeqie
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: geeqie
+    repo: extra
+  tag: stable

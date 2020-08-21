@@ -1,0 +1,8 @@
+name: sddm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sddm
+    repo: extra
+  tag: stable

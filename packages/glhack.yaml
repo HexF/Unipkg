@@ -1,0 +1,8 @@
+name: glhack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glhack
+    repo: extra
+  tag: stable

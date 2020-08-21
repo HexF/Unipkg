@@ -1,0 +1,8 @@
+name: colord
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: colord
+    repo: extra
+  tag: stable

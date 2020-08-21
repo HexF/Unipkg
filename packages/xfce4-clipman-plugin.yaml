@@ -1,0 +1,8 @@
+name: xfce4-clipman-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-clipman-plugin
+    repo: extra
+  tag: stable

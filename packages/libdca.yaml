@@ -1,0 +1,8 @@
+name: libdca
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdca
+    repo: extra
+  tag: stable

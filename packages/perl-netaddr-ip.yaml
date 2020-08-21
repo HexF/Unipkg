@@ -1,0 +1,8 @@
+name: perl-netaddr-ip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-netaddr-ip
+    repo: extra
+  tag: stable

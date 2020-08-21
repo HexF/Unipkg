@@ -1,0 +1,8 @@
+name: libodfgen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libodfgen
+    repo: extra
+  tag: stable

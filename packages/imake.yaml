@@ -1,0 +1,8 @@
+name: imake
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: imake
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: cscope
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cscope
+    repo: extra
+  tag: stable

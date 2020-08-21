@@ -1,0 +1,8 @@
+name: xorg-xwud
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xwud
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: plotutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: plotutils
+    repo: extra
+  tag: stable

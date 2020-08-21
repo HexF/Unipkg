@@ -1,0 +1,8 @@
+name: editorconfig-core-c
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: editorconfig-core-c
+    repo: extra
+  tag: stable

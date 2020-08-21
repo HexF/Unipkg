@@ -1,0 +1,8 @@
+name: moc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: moc
+    repo: extra
+  tag: stable

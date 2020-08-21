@@ -1,0 +1,8 @@
+name: kgoldrunner
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kgoldrunner
+    repo: extra
+  tag: stable

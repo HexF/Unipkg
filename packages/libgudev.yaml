@@ -1,0 +1,8 @@
+name: libgudev
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgudev
+    repo: extra
+  tag: stable

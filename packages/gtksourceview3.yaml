@@ -1,0 +1,8 @@
+name: gtksourceview3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtksourceview3
+    repo: extra
+  tag: stable

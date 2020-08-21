@@ -1,0 +1,8 @@
+name: conky
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: conky
+    repo: extra
+  tag: stable

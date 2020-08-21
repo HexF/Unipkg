@@ -1,0 +1,8 @@
+name: postgresql-old-upgrade
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: postgresql-old-upgrade
+    repo: extra
+  tag: stable

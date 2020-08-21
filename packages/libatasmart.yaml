@@ -1,0 +1,8 @@
+name: libatasmart
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libatasmart
+    repo: extra
+  tag: stable

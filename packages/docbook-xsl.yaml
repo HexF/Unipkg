@@ -1,0 +1,8 @@
+name: docbook-xsl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-xsl
+    repo: extra
+  tag: stable

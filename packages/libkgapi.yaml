@@ -1,0 +1,8 @@
+name: libkgapi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkgapi
+    repo: extra
+  tag: stable

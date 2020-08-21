@@ -1,0 +1,8 @@
+name: five-or-more
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: five-or-more
+    repo: extra
+  tag: stable

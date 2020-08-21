@@ -1,0 +1,8 @@
+name: libwebp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwebp
+    repo: extra
+  tag: stable

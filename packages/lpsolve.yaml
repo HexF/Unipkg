@@ -1,0 +1,8 @@
+name: lpsolve
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lpsolve
+    repo: extra
+  tag: stable

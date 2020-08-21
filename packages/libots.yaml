@@ -1,0 +1,8 @@
+name: libots
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libots
+    repo: extra
+  tag: stable

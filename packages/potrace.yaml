@@ -1,0 +1,8 @@
+name: potrace
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: potrace
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: at-spi2-core
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: at-spi2-core
+    repo: extra
+  tag: stable

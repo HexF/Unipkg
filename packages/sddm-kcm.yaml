@@ -1,0 +1,8 @@
+name: sddm-kcm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sddm-kcm
+    repo: extra
+  tag: stable

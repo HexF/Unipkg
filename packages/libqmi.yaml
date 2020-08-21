@@ -1,0 +1,8 @@
+name: libqmi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libqmi
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: paper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: paper
+    repo: extra
+  tag: stable

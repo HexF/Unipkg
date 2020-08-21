@@ -1,0 +1,8 @@
+name: wildmidi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wildmidi
+    repo: extra
+  tag: stable

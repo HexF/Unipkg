@@ -1,0 +1,8 @@
+name: php-snmp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-snmp
+    repo: extra
+  tag: stable

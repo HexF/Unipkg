@@ -1,0 +1,8 @@
+name: libfontenc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libfontenc
+    repo: extra
+  tag: stable

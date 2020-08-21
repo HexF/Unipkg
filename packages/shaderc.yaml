@@ -1,0 +1,8 @@
+name: shaderc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: shaderc
+    repo: extra
+  tag: stable

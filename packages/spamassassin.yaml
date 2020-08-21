@@ -1,0 +1,8 @@
+name: spamassassin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spamassassin
+    repo: extra
+  tag: stable

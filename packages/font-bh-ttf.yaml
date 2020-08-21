@@ -1,0 +1,8 @@
+name: font-bh-ttf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: font-bh-ttf
+    repo: extra
+  tag: stable

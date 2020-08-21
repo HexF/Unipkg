@@ -1,0 +1,8 @@
+name: dolphin-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dolphin-plugins
+    repo: extra
+  tag: stable

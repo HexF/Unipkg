@@ -1,0 +1,8 @@
+name: memtest86-
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: memtest86+
+    repo: extra
+  tag: stable

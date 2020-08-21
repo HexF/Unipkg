@@ -1,0 +1,8 @@
+name: mythes-it
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mythes-it
+    repo: extra
+  tag: stable

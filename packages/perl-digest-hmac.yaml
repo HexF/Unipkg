@@ -1,0 +1,8 @@
+name: perl-digest-hmac
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-digest-hmac
+    repo: extra
+  tag: stable

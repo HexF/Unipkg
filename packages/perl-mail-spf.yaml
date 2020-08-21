@@ -1,0 +1,8 @@
+name: perl-mail-spf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mail-spf
+    repo: extra
+  tag: stable

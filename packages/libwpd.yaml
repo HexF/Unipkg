@@ -1,0 +1,8 @@
+name: libwpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwpd
+    repo: extra
+  tag: stable

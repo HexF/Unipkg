@@ -1,0 +1,8 @@
+name: perl-config-simple
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-config-simple
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libreoffice-still-bn-in
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-bn-in
+    repo: extra
+  tag: stable

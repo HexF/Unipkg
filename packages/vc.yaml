@@ -1,0 +1,8 @@
+name: vc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vc
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libwps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libwps
+    repo: extra
+  tag: stable

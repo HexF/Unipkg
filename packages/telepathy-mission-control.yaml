@@ -1,0 +1,8 @@
+name: telepathy-mission-control
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-mission-control
+    repo: extra
+  tag: stable

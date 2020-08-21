@@ -1,0 +1,8 @@
+name: kdenetwork-filesharing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdenetwork-filesharing
+    repo: extra
+  tag: stable

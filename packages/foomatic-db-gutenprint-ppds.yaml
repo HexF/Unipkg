@@ -1,0 +1,8 @@
+name: foomatic-db-gutenprint-ppds
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: foomatic-db-gutenprint-ppds
+    repo: extra
+  tag: stable

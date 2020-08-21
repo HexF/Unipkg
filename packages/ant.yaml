@@ -1,0 +1,8 @@
+name: ant
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ant
+    repo: extra
+  tag: stable

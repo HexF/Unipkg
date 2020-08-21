@@ -1,0 +1,8 @@
+name: nxagent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nxagent
+    repo: extra
+  tag: stable

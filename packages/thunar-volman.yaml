@@ -1,0 +1,8 @@
+name: thunar-volman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thunar-volman
+    repo: extra
+  tag: stable

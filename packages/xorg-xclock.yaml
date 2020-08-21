@@ -1,0 +1,8 @@
+name: xorg-xclock
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xclock
+    repo: extra
+  tag: stable

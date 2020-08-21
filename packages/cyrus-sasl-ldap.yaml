@@ -1,0 +1,8 @@
+name: cyrus-sasl-ldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cyrus-sasl-ldap
+    repo: extra
+  tag: stable

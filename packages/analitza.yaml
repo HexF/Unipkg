@@ -1,0 +1,8 @@
+name: analitza
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: analitza
+    repo: extra
+  tag: stable

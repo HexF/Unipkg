@@ -1,0 +1,8 @@
+name: kpeople
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kpeople
+    repo: extra
+  tag: stable

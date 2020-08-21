@@ -1,0 +1,8 @@
+name: libquvi-scripts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libquvi-scripts
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libxrender
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxrender
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: lib32-rust-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lib32-rust-libs
+    repo: extra
+  tag: stable

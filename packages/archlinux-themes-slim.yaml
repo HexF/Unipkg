@@ -1,0 +1,8 @@
+name: archlinux-themes-slim
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: archlinux-themes-slim
+    repo: extra
+  tag: stable

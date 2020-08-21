@@ -1,0 +1,8 @@
+name: inkscape
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: inkscape
+    repo: extra
+  tag: stable

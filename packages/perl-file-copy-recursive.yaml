@@ -1,0 +1,8 @@
+name: perl-file-copy-recursive
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-copy-recursive
+    repo: extra
+  tag: stable

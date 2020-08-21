@@ -1,0 +1,8 @@
+name: libxtst
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxtst
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-xload
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xload
+    repo: extra
+  tag: stable

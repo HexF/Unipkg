@@ -1,0 +1,8 @@
+name: convertlit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: convertlit
+    repo: extra
+  tag: stable

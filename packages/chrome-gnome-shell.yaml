@@ -1,0 +1,8 @@
+name: chrome-gnome-shell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: chrome-gnome-shell
+    repo: extra
+  tag: stable

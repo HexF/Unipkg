@@ -1,0 +1,8 @@
+name: libdazzle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdazzle
+    repo: extra
+  tag: stable

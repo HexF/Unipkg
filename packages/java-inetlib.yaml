@@ -1,0 +1,8 @@
+name: java-inetlib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: java-inetlib
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: zabbix-agent2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zabbix-agent2
+    repo: extra
+  tag: stable

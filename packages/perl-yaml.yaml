@@ -1,0 +1,8 @@
+name: perl-yaml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-yaml
+    repo: extra
+  tag: stable

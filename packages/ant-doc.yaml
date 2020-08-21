@@ -1,0 +1,8 @@
+name: ant-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ant-doc
+    repo: extra
+  tag: stable

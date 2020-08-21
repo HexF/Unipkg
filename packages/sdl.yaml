@@ -1,0 +1,8 @@
+name: sdl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: evince
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: evince
+    repo: extra
+  tag: stable

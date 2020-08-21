@@ -1,0 +1,8 @@
+name: kdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdb
+    repo: extra
+  tag: stable

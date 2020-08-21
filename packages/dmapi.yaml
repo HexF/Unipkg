@@ -1,0 +1,8 @@
+name: dmapi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dmapi
+    repo: extra
+  tag: stable

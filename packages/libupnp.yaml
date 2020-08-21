@@ -1,0 +1,8 @@
+name: libupnp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libupnp
+    repo: extra
+  tag: stable

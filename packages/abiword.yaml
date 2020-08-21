@@ -1,0 +1,8 @@
+name: abiword
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: abiword
+    repo: extra
+  tag: stable

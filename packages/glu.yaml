@@ -1,0 +1,8 @@
+name: glu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glu
+    repo: extra
+  tag: stable

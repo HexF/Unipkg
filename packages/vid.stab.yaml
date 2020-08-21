@@ -1,0 +1,8 @@
+name: vid.stab
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vid.stab
+    repo: extra
+  tag: stable

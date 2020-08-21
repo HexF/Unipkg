@@ -1,0 +1,8 @@
+name: sdl-sound
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl_sound
+    repo: extra
+  tag: stable

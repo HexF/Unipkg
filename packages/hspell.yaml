@@ -1,0 +1,8 @@
+name: hspell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hspell
+    repo: extra
+  tag: stable

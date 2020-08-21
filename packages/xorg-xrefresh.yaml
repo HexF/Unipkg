@@ -1,0 +1,8 @@
+name: xorg-xrefresh
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xrefresh
+    repo: extra
+  tag: stable

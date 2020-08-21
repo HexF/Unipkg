@@ -1,0 +1,8 @@
+name: kcodecs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcodecs
+    repo: extra
+  tag: stable

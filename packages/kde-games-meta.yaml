@@ -1,0 +1,8 @@
+name: kde-games-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-games-meta
+    repo: extra
+  tag: stable

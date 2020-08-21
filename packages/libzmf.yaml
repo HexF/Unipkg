@@ -1,0 +1,8 @@
+name: libzmf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libzmf
+    repo: extra
+  tag: stable

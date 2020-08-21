@@ -1,0 +1,8 @@
+name: cups-pk-helper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cups-pk-helper
+    repo: extra
+  tag: stable

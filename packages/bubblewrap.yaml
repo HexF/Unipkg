@@ -1,0 +1,8 @@
+name: bubblewrap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bubblewrap
+    repo: extra
+  tag: stable

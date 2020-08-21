@@ -1,0 +1,8 @@
+name: liblouis
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liblouis
+    repo: extra
+  tag: stable

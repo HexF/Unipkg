@@ -1,0 +1,8 @@
+name: lynx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lynx
+    repo: extra
+  tag: stable

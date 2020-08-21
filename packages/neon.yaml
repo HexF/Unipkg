@@ -1,0 +1,8 @@
+name: neon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: neon
+    repo: extra
+  tag: stable

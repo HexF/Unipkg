@@ -1,0 +1,8 @@
+name: perl-xml-sax
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-sax
+    repo: extra
+  tag: stable

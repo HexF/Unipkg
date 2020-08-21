@@ -1,0 +1,8 @@
+name: libsigc---docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsigc++-docs
+    repo: extra
+  tag: stable

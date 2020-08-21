@@ -1,0 +1,8 @@
+name: mailcommon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mailcommon
+    repo: extra
+  tag: stable

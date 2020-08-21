@@ -1,0 +1,8 @@
+name: tdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tdb
+    repo: extra
+  tag: stable

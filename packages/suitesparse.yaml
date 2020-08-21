@@ -1,0 +1,8 @@
+name: suitesparse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: suitesparse
+    repo: extra
+  tag: stable

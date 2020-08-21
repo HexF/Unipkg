@@ -1,0 +1,8 @@
+name: ristretto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ristretto
+    repo: extra
+  tag: stable

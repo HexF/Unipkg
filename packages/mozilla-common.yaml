@@ -1,0 +1,8 @@
+name: mozilla-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mozilla-common
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xf86-video-amdgpu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-video-amdgpu
+    repo: extra
+  tag: stable

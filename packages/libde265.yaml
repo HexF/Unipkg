@@ -1,0 +1,8 @@
+name: libde265
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libde265
+    repo: extra
+  tag: stable

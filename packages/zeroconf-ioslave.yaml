@@ -1,0 +1,8 @@
+name: zeroconf-ioslave
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zeroconf-ioslave
+    repo: extra
+  tag: stable

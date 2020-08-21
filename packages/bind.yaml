@@ -1,0 +1,8 @@
+name: bind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bind
+    repo: extra
+  tag: stable

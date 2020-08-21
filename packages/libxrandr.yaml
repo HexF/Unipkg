@@ -1,0 +1,8 @@
+name: libxrandr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxrandr
+    repo: extra
+  tag: stable

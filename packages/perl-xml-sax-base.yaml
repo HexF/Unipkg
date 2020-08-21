@@ -1,0 +1,8 @@
+name: perl-xml-sax-base
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-xml-sax-base
+    repo: extra
+  tag: stable

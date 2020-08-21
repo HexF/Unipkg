@@ -1,0 +1,8 @@
+name: ktextwidgets
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ktextwidgets
+    repo: extra
+  tag: stable

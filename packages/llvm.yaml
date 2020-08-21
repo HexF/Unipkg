@@ -1,0 +1,8 @@
+name: llvm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: llvm
+    repo: extra
+  tag: stable

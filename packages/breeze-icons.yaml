@@ -1,0 +1,8 @@
+name: breeze-icons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: breeze-icons
+    repo: extra
+  tag: stable

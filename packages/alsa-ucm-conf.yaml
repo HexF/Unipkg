@@ -1,0 +1,8 @@
+name: alsa-ucm-conf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: alsa-ucm-conf
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-config-autoconf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-config-autoconf
+    repo: extra
+  tag: stable

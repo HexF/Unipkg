@@ -1,0 +1,8 @@
+name: kpackage
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kpackage
+    repo: extra
+  tag: stable

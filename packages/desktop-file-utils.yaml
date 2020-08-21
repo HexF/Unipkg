@@ -1,0 +1,8 @@
+name: desktop-file-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: desktop-file-utils
+    repo: extra
+  tag: stable

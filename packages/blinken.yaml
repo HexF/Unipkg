@@ -1,0 +1,8 @@
+name: blinken
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: blinken
+    repo: extra
+  tag: stable

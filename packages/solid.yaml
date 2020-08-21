@@ -1,0 +1,8 @@
+name: solid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: solid
+    repo: extra
+  tag: stable

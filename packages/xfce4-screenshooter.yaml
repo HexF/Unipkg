@@ -1,0 +1,8 @@
+name: xfce4-screenshooter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-screenshooter
+    repo: extra
+  tag: stable

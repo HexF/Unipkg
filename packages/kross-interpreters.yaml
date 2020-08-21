@@ -1,0 +1,8 @@
+name: kross-interpreters
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kross-interpreters
+    repo: extra
+  tag: stable

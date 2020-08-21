@@ -1,0 +1,8 @@
+name: glslang
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glslang
+    repo: extra
+  tag: stable

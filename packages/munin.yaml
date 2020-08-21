@@ -1,0 +1,8 @@
+name: munin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: munin
+    repo: extra
+  tag: stable

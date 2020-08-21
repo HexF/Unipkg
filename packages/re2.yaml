@@ -1,0 +1,8 @@
+name: re2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: re2
+    repo: extra
+  tag: stable

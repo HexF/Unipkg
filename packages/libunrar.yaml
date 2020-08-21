@@ -1,0 +1,8 @@
+name: libunrar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libunrar
+    repo: extra
+  tag: stable

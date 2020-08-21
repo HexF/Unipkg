@@ -1,0 +1,8 @@
+name: libreoffice-still-vi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-vi
+    repo: extra
+  tag: stable

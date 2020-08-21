@@ -1,0 +1,8 @@
+name: opencl-nvidia
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: opencl-nvidia
+    repo: extra
+  tag: stable

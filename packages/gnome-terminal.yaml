@@ -1,0 +1,8 @@
+name: gnome-terminal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-terminal
+    repo: extra
+  tag: stable

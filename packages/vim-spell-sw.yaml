@@ -1,0 +1,8 @@
+name: vim-spell-sw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-sw
+    repo: extra
+  tag: stable

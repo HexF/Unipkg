@@ -1,0 +1,8 @@
+name: epiphany
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: epiphany
+    repo: extra
+  tag: stable

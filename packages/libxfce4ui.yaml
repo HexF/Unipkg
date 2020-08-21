@@ -1,0 +1,8 @@
+name: libxfce4ui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxfce4ui
+    repo: extra
+  tag: stable

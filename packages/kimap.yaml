@@ -1,0 +1,8 @@
+name: kimap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kimap
+    repo: extra
+  tag: stable

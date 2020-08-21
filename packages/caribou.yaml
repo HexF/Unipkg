@@ -1,0 +1,8 @@
+name: caribou
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: caribou
+    repo: extra
+  tag: stable

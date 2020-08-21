@@ -1,0 +1,8 @@
+name: vim-spell-ku
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-ku
+    repo: extra
+  tag: stable

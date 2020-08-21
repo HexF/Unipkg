@@ -1,0 +1,8 @@
+name: cantarell-fonts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cantarell-fonts
+    repo: extra
+  tag: stable

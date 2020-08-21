@@ -1,0 +1,8 @@
+name: libkleo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkleo
+    repo: extra
+  tag: stable

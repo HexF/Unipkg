@@ -1,0 +1,8 @@
+name: libbytesize
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libbytesize
+    repo: extra
+  tag: stable

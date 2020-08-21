@@ -1,0 +1,8 @@
+name: gtk-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk-doc
+    repo: extra
+  tag: stable

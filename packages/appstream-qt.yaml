@@ -1,0 +1,8 @@
+name: appstream-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: appstream-qt
+    repo: extra
+  tag: stable

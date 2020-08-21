@@ -1,0 +1,8 @@
+name: kdevelop-php
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdevelop-php
+    repo: extra
+  tag: stable

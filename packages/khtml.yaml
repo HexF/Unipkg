@@ -1,0 +1,8 @@
+name: khtml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: khtml
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: bigloo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bigloo
+    repo: extra
+  tag: stable

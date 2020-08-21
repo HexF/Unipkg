@@ -1,0 +1,8 @@
+name: ntp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ntp
+    repo: extra
+  tag: stable

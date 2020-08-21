@@ -1,0 +1,8 @@
+name: vim-spell-da
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-da
+    repo: extra
+  tag: stable

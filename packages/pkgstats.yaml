@@ -1,0 +1,8 @@
+name: pkgstats
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pkgstats
+    repo: extra
+  tag: stable

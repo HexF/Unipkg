@@ -1,0 +1,8 @@
+name: perl-sys-hostname-long
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-sys-hostname-long
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gtkglext
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtkglext
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: php-embed
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-embed
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kfind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kfind
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-term-readkey
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-term-readkey
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: nss-ldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nss_ldap
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: totem-pl-parser
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: totem-pl-parser
+    repo: extra
+  tag: stable

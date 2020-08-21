@@ -1,0 +1,8 @@
+name: gcab
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gcab
+    repo: extra
+  tag: stable

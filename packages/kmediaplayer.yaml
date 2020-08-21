@@ -1,0 +1,8 @@
+name: kmediaplayer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmediaplayer
+    repo: extra
+  tag: stable

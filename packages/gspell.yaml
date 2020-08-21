@@ -1,0 +1,8 @@
+name: gspell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gspell
+    repo: extra
+  tag: stable

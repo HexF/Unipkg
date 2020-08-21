@@ -1,0 +1,8 @@
+name: dotconf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dotconf
+    repo: extra
+  tag: stable

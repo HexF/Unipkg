@@ -1,0 +1,8 @@
+name: libcue
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcue
+    repo: extra
+  tag: stable

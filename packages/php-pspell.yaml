@@ -1,0 +1,8 @@
+name: php-pspell
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-pspell
+    repo: extra
+  tag: stable

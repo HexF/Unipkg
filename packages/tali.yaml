@@ -1,0 +1,8 @@
+name: tali
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tali
+    repo: extra
+  tag: stable

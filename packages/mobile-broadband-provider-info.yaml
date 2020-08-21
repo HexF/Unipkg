@@ -1,0 +1,8 @@
+name: mobile-broadband-provider-info
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mobile-broadband-provider-info
+    repo: extra
+  tag: stable

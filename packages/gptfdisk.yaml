@@ -1,0 +1,8 @@
+name: gptfdisk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gptfdisk
+    repo: extra
+  tag: stable

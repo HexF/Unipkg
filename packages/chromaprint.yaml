@@ -1,0 +1,8 @@
+name: chromaprint
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: chromaprint
+    repo: extra
+  tag: stable

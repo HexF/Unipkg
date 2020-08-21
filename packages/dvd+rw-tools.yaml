@@ -1,0 +1,8 @@
+name: dvd-rw-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dvd+rw-tools
+    repo: extra
+  tag: stable

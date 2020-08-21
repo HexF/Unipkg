@@ -1,0 +1,8 @@
+name: gthumb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gthumb
+    repo: extra
+  tag: stable

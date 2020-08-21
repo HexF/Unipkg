@@ -1,0 +1,8 @@
+name: libgfshare
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgfshare
+    repo: extra
+  tag: stable

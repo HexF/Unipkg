@@ -1,0 +1,8 @@
+name: arch-signoff
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: arch-signoff
+    repo: extra
+  tag: stable

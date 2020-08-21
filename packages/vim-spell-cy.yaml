@@ -1,0 +1,8 @@
+name: vim-spell-cy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-cy
+    repo: extra
+  tag: stable

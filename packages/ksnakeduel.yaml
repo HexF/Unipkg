@@ -1,0 +1,8 @@
+name: ksnakeduel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ksnakeduel
+    repo: extra
+  tag: stable

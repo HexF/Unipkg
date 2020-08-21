@@ -1,0 +1,8 @@
+name: libcroco
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcroco
+    repo: extra
+  tag: stable

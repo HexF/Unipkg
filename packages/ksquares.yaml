@@ -1,0 +1,8 @@
+name: ksquares
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ksquares
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: openbabel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openbabel
+    repo: extra
+  tag: stable

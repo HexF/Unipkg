@@ -1,0 +1,8 @@
+name: yakuake
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: yakuake
+    repo: extra
+  tag: stable

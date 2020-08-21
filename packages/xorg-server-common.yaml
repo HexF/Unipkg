@@ -1,0 +1,8 @@
+name: xorg-server-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-server-common
+    repo: extra
+  tag: stable

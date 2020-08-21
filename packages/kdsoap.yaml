@@ -1,0 +1,8 @@
+name: kdsoap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdsoap
+    repo: extra
+  tag: stable

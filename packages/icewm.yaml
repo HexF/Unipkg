@@ -1,0 +1,8 @@
+name: icewm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: icewm
+    repo: extra
+  tag: stable

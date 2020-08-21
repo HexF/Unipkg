@@ -1,0 +1,8 @@
+name: baobab
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: baobab
+    repo: extra
+  tag: stable

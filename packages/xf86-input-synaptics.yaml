@@ -1,0 +1,8 @@
+name: xf86-input-synaptics
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-input-synaptics
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: wayland-protocols
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wayland-protocols
+    repo: extra
+  tag: stable

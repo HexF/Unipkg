@@ -1,0 +1,8 @@
+name: libatomic-ops
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libatomic_ops
+    repo: extra
+  tag: stable

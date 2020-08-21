@@ -1,0 +1,8 @@
+name: pacrunner
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pacrunner
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: edac-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: edac-utils
+    repo: extra
+  tag: stable

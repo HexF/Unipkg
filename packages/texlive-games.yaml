@@ -1,0 +1,8 @@
+name: texlive-games
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-games
+    repo: extra
+  tag: stable

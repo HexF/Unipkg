@@ -1,0 +1,8 @@
+name: libreoffice-fresh-sat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-sat
+    repo: extra
+  tag: stable

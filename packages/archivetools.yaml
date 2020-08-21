@@ -1,0 +1,8 @@
+name: archivetools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: archivetools
+    repo: extra
+  tag: stable

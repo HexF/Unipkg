@@ -1,0 +1,8 @@
+name: libass
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libass
+    repo: extra
+  tag: stable

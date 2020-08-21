@@ -1,0 +1,8 @@
+name: wavpack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wavpack
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: assimp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: assimp
+    repo: extra
+  tag: stable

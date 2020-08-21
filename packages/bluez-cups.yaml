@@ -1,0 +1,8 @@
+name: bluez-cups
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bluez-cups
+    repo: extra
+  tag: stable

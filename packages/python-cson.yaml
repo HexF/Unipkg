@@ -1,0 +1,8 @@
+name: python-cson
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-cson
+    repo: extra
+  tag: stable

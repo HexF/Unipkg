@@ -1,0 +1,8 @@
+name: libkate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkate
+    repo: extra
+  tag: stable

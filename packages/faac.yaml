@@ -1,0 +1,8 @@
+name: faac
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: faac
+    repo: extra
+  tag: stable

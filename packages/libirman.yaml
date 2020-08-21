@@ -1,0 +1,8 @@
+name: libirman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libirman
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdbusaddons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdbusaddons
+    repo: extra
+  tag: stable

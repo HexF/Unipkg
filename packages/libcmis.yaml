@@ -1,0 +1,8 @@
+name: libcmis
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcmis
+    repo: extra
+  tag: stable

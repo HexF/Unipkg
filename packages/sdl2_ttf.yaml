@@ -1,0 +1,8 @@
+name: sdl2-ttf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdl2_ttf
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: ttf-dejavu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ttf-dejavu
+    repo: extra
+  tag: stable

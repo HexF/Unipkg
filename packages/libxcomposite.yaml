@@ -1,0 +1,8 @@
+name: libxcomposite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxcomposite
+    repo: extra
+  tag: stable

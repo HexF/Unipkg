@@ -1,0 +1,8 @@
+name: signon-kwallet-extension
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: signon-kwallet-extension
+    repo: extra
+  tag: stable

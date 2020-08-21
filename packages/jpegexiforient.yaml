@@ -1,0 +1,8 @@
+name: jpegexiforient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jpegexiforient
+    repo: extra
+  tag: stable

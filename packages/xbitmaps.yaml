@@ -1,0 +1,8 @@
+name: xbitmaps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xbitmaps
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gom
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gom
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libinstpatch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libinstpatch
+    repo: extra
+  tag: stable

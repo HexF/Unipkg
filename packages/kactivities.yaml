@@ -1,0 +1,8 @@
+name: kactivities
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kactivities
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libnss-nis
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnss_nis
+    repo: extra
+  tag: stable

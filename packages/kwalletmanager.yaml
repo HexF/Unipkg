@@ -1,0 +1,8 @@
+name: kwalletmanager
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwalletmanager
+    repo: extra
+  tag: stable

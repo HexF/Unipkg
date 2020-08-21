@@ -1,0 +1,8 @@
+name: qt5-imageformats
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-imageformats
+    repo: extra
+  tag: stable

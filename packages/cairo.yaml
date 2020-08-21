@@ -1,0 +1,8 @@
+name: cairo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cairo
+    repo: extra
+  tag: stable

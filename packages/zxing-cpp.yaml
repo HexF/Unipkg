@@ -1,0 +1,8 @@
+name: zxing-cpp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zxing-cpp
+    repo: extra
+  tag: stable

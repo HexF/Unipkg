@@ -1,0 +1,8 @@
+name: xorg-fonts-75dpi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-fonts-75dpi
+    repo: extra
+  tag: stable

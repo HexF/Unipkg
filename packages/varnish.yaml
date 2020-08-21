@@ -1,0 +1,8 @@
+name: varnish
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: varnish
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: lld
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lld
+    repo: extra
+  tag: stable

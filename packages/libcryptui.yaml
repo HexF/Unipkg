@@ -1,0 +1,8 @@
+name: libcryptui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcryptui
+    repo: extra
+  tag: stable

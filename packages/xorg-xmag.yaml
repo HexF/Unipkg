@@ -1,0 +1,8 @@
+name: xorg-xmag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xmag
+    repo: extra
+  tag: stable

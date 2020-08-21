@@ -1,0 +1,8 @@
+name: vulkan-extra-layers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-extra-layers
+    repo: extra
+  tag: stable

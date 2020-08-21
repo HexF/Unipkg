@@ -1,0 +1,8 @@
+name: pidgin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pidgin
+    repo: extra
+  tag: stable

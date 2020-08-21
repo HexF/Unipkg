@@ -1,0 +1,8 @@
+name: perl-libwww
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-libwww
+    repo: extra
+  tag: stable

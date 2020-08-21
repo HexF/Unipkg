@@ -1,0 +1,8 @@
+name: python-astroid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-astroid
+    repo: extra
+  tag: stable

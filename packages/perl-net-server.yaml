@@ -1,0 +1,8 @@
+name: perl-net-server
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-server
+    repo: extra
+  tag: stable

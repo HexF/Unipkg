@@ -1,0 +1,8 @@
+name: libksysguard
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libksysguard
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: grilo-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grilo-plugins
+    repo: extra
+  tag: stable

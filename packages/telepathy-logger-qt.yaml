@@ -1,0 +1,8 @@
+name: telepathy-logger-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: telepathy-logger-qt
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: blas
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: blas
+    repo: extra
+  tag: stable

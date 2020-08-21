@@ -1,0 +1,8 @@
+name: gc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gc
+    repo: extra
+  tag: stable

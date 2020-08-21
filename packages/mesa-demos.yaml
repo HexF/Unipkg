@@ -1,0 +1,8 @@
+name: mesa-demos
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mesa-demos
+    repo: extra
+  tag: stable

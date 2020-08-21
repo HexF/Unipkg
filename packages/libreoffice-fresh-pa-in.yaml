@@ -1,0 +1,8 @@
+name: libreoffice-fresh-pa-in
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-pa-in
+    repo: extra
+  tag: stable

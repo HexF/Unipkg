@@ -1,0 +1,8 @@
+name: link-grammar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: link-grammar
+    repo: extra
+  tag: stable

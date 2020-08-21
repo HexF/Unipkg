@@ -1,0 +1,8 @@
+name: keychain
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: keychain
+    repo: extra
+  tag: stable

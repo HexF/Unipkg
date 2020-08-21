@@ -1,0 +1,8 @@
+name: xorg-xdm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xdm
+    repo: extra
+  tag: stable

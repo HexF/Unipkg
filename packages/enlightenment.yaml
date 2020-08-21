@@ -1,0 +1,8 @@
+name: enlightenment
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: enlightenment
+    repo: extra
+  tag: stable

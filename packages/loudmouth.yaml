@@ -1,0 +1,8 @@
+name: loudmouth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: loudmouth
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xkeyboard-config
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xkeyboard-config
+    repo: extra
+  tag: stable

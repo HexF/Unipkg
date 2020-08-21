@@ -1,0 +1,8 @@
+name: kwallet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwallet
+    repo: extra
+  tag: stable

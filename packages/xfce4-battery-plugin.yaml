@@ -1,0 +1,8 @@
+name: xfce4-battery-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-battery-plugin
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: abook
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: abook
+    repo: extra
+  tag: stable

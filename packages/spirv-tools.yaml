@@ -1,0 +1,8 @@
+name: spirv-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: spirv-tools
+    repo: extra
+  tag: stable

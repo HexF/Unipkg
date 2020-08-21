@@ -1,0 +1,8 @@
+name: liferea
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: liferea
+    repo: extra
+  tag: stable

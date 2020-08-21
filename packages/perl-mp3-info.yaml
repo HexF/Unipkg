@@ -1,0 +1,8 @@
+name: perl-mp3-info
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mp3-info
+    repo: extra
+  tag: stable

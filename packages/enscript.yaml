@@ -1,0 +1,8 @@
+name: enscript
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: enscript
+    repo: extra
+  tag: stable

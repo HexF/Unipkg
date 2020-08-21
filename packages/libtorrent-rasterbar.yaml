@@ -1,0 +1,8 @@
+name: libtorrent-rasterbar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtorrent-rasterbar
+    repo: extra
+  tag: stable

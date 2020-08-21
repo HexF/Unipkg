@@ -1,0 +1,8 @@
+name: nitrokey-app
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nitrokey-app
+    repo: extra
+  tag: stable

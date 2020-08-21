@@ -1,0 +1,8 @@
+name: kdevelop-pg-qt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdevelop-pg-qt
+    repo: extra
+  tag: stable

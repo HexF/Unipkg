@@ -1,0 +1,8 @@
+name: kalzium
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kalzium
+    repo: extra
+  tag: stable

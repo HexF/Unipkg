@@ -1,0 +1,8 @@
+name: gnome-control-center
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-control-center
+    repo: extra
+  tag: stable

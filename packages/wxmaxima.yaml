@@ -1,0 +1,8 @@
+name: wxmaxima
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wxmaxima
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: qemu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qemu
+    repo: extra
+  tag: stable

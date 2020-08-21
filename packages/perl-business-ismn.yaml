@@ -1,0 +1,8 @@
+name: perl-business-ismn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-business-ismn
+    repo: extra
+  tag: stable

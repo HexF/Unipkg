@@ -1,0 +1,8 @@
+name: libxau
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxau
+    repo: extra
+  tag: stable

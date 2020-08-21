@@ -1,0 +1,8 @@
+name: libreoffice-fresh-vi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-vi
+    repo: extra
+  tag: stable

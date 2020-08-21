@@ -1,0 +1,8 @@
+name: gnome-dictionary
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-dictionary
+    repo: extra
+  tag: stable

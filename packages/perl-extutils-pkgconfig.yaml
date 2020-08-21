@@ -1,0 +1,8 @@
+name: perl-extutils-pkgconfig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-extutils-pkgconfig
+    repo: extra
+  tag: stable

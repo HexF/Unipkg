@@ -1,0 +1,8 @@
+name: xfce4-screensaver
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-screensaver
+    repo: extra
+  tag: stable

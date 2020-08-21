@@ -1,0 +1,8 @@
+name: gstreamer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gstreamer
+    repo: extra
+  tag: stable

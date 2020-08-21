@@ -1,0 +1,8 @@
+name: python-mccabe
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-mccabe
+    repo: extra
+  tag: stable

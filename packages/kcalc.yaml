@@ -1,0 +1,8 @@
+name: kcalc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcalc
+    repo: extra
+  tag: stable

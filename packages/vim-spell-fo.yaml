@@ -1,0 +1,8 @@
+name: vim-spell-fo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-fo
+    repo: extra
+  tag: stable

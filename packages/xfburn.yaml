@@ -1,0 +1,8 @@
+name: xfburn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfburn
+    repo: extra
+  tag: stable

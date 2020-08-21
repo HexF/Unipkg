@@ -1,0 +1,8 @@
+name: alsa-oss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: alsa-oss
+    repo: extra
+  tag: stable

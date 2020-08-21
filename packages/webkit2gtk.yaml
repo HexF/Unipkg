@@ -1,0 +1,8 @@
+name: webkit2gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: webkit2gtk
+    repo: extra
+  tag: stable

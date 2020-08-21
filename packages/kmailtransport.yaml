@@ -1,0 +1,8 @@
+name: kmailtransport
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmailtransport
+    repo: extra
+  tag: stable

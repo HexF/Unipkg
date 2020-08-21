@@ -1,0 +1,8 @@
+name: pyside2-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pyside2-tools
+    repo: extra
+  tag: stable

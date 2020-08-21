@@ -1,0 +1,8 @@
+name: gnome-user-share
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-user-share
+    repo: extra
+  tag: stable

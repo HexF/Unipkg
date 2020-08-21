@@ -1,0 +1,8 @@
+name: vulkan-trace
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-trace
+    repo: extra
+  tag: stable

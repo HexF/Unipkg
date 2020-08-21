@@ -1,0 +1,8 @@
+name: gnome-remote-desktop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-remote-desktop
+    repo: extra
+  tag: stable

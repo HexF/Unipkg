@@ -1,0 +1,8 @@
+name: libpurple
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpurple
+    repo: extra
+  tag: stable

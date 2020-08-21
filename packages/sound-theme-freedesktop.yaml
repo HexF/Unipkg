@@ -1,0 +1,8 @@
+name: sound-theme-freedesktop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sound-theme-freedesktop
+    repo: extra
+  tag: stable

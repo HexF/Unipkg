@@ -1,0 +1,8 @@
+name: gst-plugins-ugly
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gst-plugins-ugly
+    repo: extra
+  tag: stable

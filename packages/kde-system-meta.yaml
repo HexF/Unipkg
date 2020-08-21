@@ -1,0 +1,8 @@
+name: kde-system-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-system-meta
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kipi-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kipi-plugins
+    repo: extra
+  tag: stable

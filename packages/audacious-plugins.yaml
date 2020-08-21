@@ -1,0 +1,8 @@
+name: audacious-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: audacious-plugins
+    repo: extra
+  tag: stable

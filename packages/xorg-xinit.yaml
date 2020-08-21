@@ -1,0 +1,8 @@
+name: xorg-xinit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xinit
+    repo: extra
+  tag: stable

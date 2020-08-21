@@ -1,0 +1,8 @@
+name: kontactinterface
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kontactinterface
+    repo: extra
+  tag: stable

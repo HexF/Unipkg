@@ -1,0 +1,8 @@
+name: lldb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lldb
+    repo: extra
+  tag: stable

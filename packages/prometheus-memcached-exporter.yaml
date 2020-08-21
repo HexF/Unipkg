@@ -1,0 +1,8 @@
+name: prometheus-memcached-exporter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: prometheus-memcached-exporter
+    repo: extra
+  tag: stable

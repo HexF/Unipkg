@@ -1,0 +1,8 @@
+name: ghex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ghex
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: linux-hardened
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-hardened
+    repo: extra
+  tag: stable

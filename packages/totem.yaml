@@ -1,0 +1,8 @@
+name: totem
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: totem
+    repo: extra
+  tag: stable

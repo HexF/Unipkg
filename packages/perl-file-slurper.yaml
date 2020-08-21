@@ -1,0 +1,8 @@
+name: perl-file-slurper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-slurper
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libvisual-plugins
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libvisual-plugins
+    repo: extra
+  tag: stable

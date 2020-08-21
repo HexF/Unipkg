@@ -1,0 +1,8 @@
+name: a52dec
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: a52dec
+    repo: extra
+  tag: stable

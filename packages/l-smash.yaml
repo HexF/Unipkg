@@ -1,0 +1,8 @@
+name: l-smash
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: l-smash
+    repo: extra
+  tag: stable

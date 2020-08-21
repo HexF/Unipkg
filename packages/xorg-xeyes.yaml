@@ -1,0 +1,8 @@
+name: xorg-xeyes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xeyes
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: speexdsp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: speexdsp
+    repo: extra
+  tag: stable

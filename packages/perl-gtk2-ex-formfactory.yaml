@@ -1,0 +1,8 @@
+name: perl-gtk2-ex-formfactory
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-gtk2-ex-formfactory
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kwindowsystem
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwindowsystem
+    repo: extra
+  tag: stable

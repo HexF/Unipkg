@@ -1,0 +1,8 @@
+name: vim-spell-zu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-zu
+    repo: extra
+  tag: stable

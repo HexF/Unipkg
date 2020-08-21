@@ -1,0 +1,8 @@
+name: bluedevil
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bluedevil
+    repo: extra
+  tag: stable

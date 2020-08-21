@@ -1,0 +1,8 @@
+name: gitg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gitg
+    repo: extra
+  tag: stable

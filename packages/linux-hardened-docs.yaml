@@ -1,0 +1,8 @@
+name: linux-hardened-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-hardened-docs
+    repo: extra
+  tag: stable

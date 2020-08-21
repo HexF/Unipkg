@@ -1,0 +1,8 @@
+name: gnome-system-monitor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-system-monitor
+    repo: extra
+  tag: stable

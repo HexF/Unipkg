@@ -1,0 +1,8 @@
+name: signon-ui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: signon-ui
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: orage
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: orage
+    repo: extra
+  tag: stable

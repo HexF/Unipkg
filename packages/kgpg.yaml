@@ -1,0 +1,8 @@
+name: kgpg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kgpg
+    repo: extra
+  tag: stable

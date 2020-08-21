@@ -1,0 +1,8 @@
+name: kglobalaccel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kglobalaccel
+    repo: extra
+  tag: stable

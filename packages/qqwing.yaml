@@ -1,0 +1,8 @@
+name: qqwing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qqwing
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: xorg-mkfontscale
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-mkfontscale
+    repo: extra
+  tag: stable

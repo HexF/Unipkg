@@ -1,0 +1,8 @@
+name: pangomm-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pangomm-docs
+    repo: extra
+  tag: stable

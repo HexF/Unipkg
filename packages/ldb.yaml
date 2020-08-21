@@ -1,0 +1,8 @@
+name: ldb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ldb
+    repo: extra
+  tag: stable

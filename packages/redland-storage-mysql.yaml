@@ -1,0 +1,8 @@
+name: redland-storage-mysql
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: redland-storage-mysql
+    repo: extra
+  tag: stable

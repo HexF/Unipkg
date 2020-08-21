@@ -1,0 +1,8 @@
+name: libsoxr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsoxr
+    repo: extra
+  tag: stable

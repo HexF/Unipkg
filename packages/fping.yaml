@@ -1,0 +1,8 @@
+name: fping
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fping
+    repo: extra
+  tag: stable

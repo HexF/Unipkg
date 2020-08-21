@@ -1,0 +1,8 @@
+name: perl-file-mimeinfo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-mimeinfo
+    repo: extra
+  tag: stable

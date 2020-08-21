@@ -1,0 +1,8 @@
+name: apr-util
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: apr-util
+    repo: extra
+  tag: stable

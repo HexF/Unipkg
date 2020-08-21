@@ -1,0 +1,8 @@
+name: gnote
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnote
+    repo: extra
+  tag: stable

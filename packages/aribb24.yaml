@@ -1,0 +1,8 @@
+name: aribb24
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: aribb24
+    repo: extra
+  tag: stable

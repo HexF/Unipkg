@@ -1,0 +1,8 @@
+name: libogg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libogg
+    repo: extra
+  tag: stable

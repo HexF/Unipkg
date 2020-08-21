@@ -1,0 +1,8 @@
+name: samba
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: samba
+    repo: extra
+  tag: stable

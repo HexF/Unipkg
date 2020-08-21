@@ -1,0 +1,8 @@
+name: lskat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lskat
+    repo: extra
+  tag: stable

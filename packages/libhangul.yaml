@@ -1,0 +1,8 @@
+name: libhangul
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libhangul
+    repo: extra
+  tag: stable

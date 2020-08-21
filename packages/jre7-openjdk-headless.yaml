@@ -1,0 +1,8 @@
+name: jre7-openjdk-headless
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jre7-openjdk-headless
+    repo: extra
+  tag: stable

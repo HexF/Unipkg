@@ -1,0 +1,8 @@
+name: python-ordered-set
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-ordered-set
+    repo: extra
+  tag: stable

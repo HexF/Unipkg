@@ -1,0 +1,8 @@
+name: texlive-science
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-science
+    repo: extra
+  tag: stable

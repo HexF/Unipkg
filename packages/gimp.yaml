@@ -1,0 +1,8 @@
+name: gimp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gimp
+    repo: extra
+  tag: stable

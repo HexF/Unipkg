@@ -1,0 +1,8 @@
+name: openal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openal
+    repo: extra
+  tag: stable

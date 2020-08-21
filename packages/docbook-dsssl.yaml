@@ -1,0 +1,8 @@
+name: docbook-dsssl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: docbook-dsssl
+    repo: extra
+  tag: stable

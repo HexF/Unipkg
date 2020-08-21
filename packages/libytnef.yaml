@@ -1,0 +1,8 @@
+name: libytnef
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libytnef
+    repo: extra
+  tag: stable

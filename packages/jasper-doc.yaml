@@ -1,0 +1,8 @@
+name: jasper-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jasper-doc
+    repo: extra
+  tag: stable

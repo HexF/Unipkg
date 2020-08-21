@@ -1,0 +1,8 @@
+name: gtkmathview
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtkmathview
+    repo: extra
+  tag: stable

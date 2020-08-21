@@ -1,0 +1,8 @@
+name: xorg-xedit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-xedit
+    repo: extra
+  tag: stable

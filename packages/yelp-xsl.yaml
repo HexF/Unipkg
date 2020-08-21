@@ -1,0 +1,8 @@
+name: yelp-xsl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: yelp-xsl
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-protobuf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-protobuf
+    repo: extra
+  tag: stable

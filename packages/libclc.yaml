@@ -1,0 +1,8 @@
+name: libclc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libclc
+    repo: extra
+  tag: stable

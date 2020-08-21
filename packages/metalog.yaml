@@ -1,0 +1,8 @@
+name: metalog
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: metalog
+    repo: extra
+  tag: stable

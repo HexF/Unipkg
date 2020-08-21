@@ -1,0 +1,8 @@
+name: ncmpc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ncmpc
+    repo: extra
+  tag: stable

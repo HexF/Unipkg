@@ -1,0 +1,8 @@
+name: xf86-video-openchrome
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-video-openchrome
+    repo: extra
+  tag: stable

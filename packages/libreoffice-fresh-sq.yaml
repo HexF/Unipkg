@@ -1,0 +1,8 @@
+name: libreoffice-fresh-sq
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-sq
+    repo: extra
+  tag: stable

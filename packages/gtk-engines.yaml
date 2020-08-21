@@ -1,0 +1,8 @@
+name: gtk-engines
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtk-engines
+    repo: extra
+  tag: stable

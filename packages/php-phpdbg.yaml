@@ -1,0 +1,8 @@
+name: php-phpdbg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: php-phpdbg
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kiriki
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kiriki
+    repo: extra
+  tag: stable

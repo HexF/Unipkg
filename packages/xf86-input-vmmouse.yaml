@@ -1,0 +1,8 @@
+name: xf86-input-vmmouse
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xf86-input-vmmouse
+    repo: extra
+  tag: stable

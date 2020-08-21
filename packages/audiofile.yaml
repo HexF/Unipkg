@@ -1,0 +1,8 @@
+name: audiofile
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: audiofile
+    repo: extra
+  tag: stable

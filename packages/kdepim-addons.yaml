@@ -1,0 +1,8 @@
+name: kdepim-addons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdepim-addons
+    repo: extra
+  tag: stable

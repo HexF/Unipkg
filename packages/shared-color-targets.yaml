@@ -1,0 +1,8 @@
+name: shared-color-targets
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: shared-color-targets
+    repo: extra
+  tag: stable

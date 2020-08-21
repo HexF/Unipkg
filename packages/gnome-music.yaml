@@ -1,0 +1,8 @@
+name: gnome-music
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-music
+    repo: extra
+  tag: stable

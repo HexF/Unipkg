@@ -1,0 +1,8 @@
+name: kde-multimedia-meta
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kde-multimedia-meta
+    repo: extra
+  tag: stable

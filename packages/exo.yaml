@@ -1,0 +1,8 @@
+name: exo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: exo
+    repo: extra
+  tag: stable

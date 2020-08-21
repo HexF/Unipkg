@@ -1,0 +1,8 @@
+name: eog
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: eog
+    repo: extra
+  tag: stable

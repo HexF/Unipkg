@@ -1,0 +1,8 @@
+name: ocaml-topkg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ocaml-topkg
+    repo: extra
+  tag: stable

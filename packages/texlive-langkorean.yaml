@@ -1,0 +1,8 @@
+name: texlive-langkorean
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-langkorean
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: akonadi-contacts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: akonadi-contacts
+    repo: extra
+  tag: stable

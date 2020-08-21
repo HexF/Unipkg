@@ -1,0 +1,8 @@
+name: texlive-bin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-bin
+    repo: extra
+  tag: stable

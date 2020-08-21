@@ -1,0 +1,8 @@
+name: libxi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libxi
+    repo: extra
+  tag: stable

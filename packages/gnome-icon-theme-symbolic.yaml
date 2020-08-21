@@ -1,0 +1,8 @@
+name: gnome-icon-theme-symbolic
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-icon-theme-symbolic
+    repo: extra
+  tag: stable

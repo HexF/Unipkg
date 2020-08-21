@@ -1,0 +1,8 @@
+name: jasper
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jasper
+    repo: extra
+  tag: stable

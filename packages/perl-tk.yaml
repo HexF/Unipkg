@@ -1,0 +1,8 @@
+name: perl-tk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-tk
+    repo: extra
+  tag: stable

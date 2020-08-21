@@ -1,0 +1,8 @@
+name: perl-mail-authenticationresults
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mail-authenticationresults
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: wget
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wget
+    repo: extra
+  tag: stable

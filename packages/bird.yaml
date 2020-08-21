@@ -1,0 +1,8 @@
+name: bird
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bird
+    repo: extra
+  tag: stable

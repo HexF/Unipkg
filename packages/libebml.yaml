@@ -1,0 +1,8 @@
+name: libebml
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libebml
+    repo: extra
+  tag: stable

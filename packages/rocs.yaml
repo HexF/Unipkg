@@ -1,0 +1,8 @@
+name: rocs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rocs
+    repo: extra
+  tag: stable

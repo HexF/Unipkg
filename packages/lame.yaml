@@ -1,0 +1,8 @@
+name: lame
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lame
+    repo: extra
+  tag: stable

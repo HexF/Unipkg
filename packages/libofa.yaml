@@ -1,0 +1,8 @@
+name: libofa
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libofa
+    repo: extra
+  tag: stable

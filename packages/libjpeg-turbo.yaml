@@ -1,0 +1,8 @@
+name: libjpeg-turbo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libjpeg-turbo
+    repo: extra
+  tag: stable

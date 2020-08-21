@@ -1,0 +1,8 @@
+name: pulseaudio-lirc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pulseaudio-lirc
+    repo: extra
+  tag: stable

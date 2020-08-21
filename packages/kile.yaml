@@ -1,0 +1,8 @@
+name: kile
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kile
+    repo: extra
+  tag: stable

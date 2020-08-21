@@ -1,0 +1,8 @@
+name: gtkmm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gtkmm
+    repo: extra
+  tag: stable

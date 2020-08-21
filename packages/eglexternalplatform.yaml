@@ -1,0 +1,8 @@
+name: eglexternalplatform
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: eglexternalplatform
+    repo: extra
+  tag: stable

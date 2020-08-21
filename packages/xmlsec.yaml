@@ -1,0 +1,8 @@
+name: xmlsec
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xmlsec
+    repo: extra
+  tag: stable

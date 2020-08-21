@@ -1,0 +1,8 @@
+name: gnome-weather
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-weather
+    repo: extra
+  tag: stable

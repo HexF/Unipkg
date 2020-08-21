@@ -1,0 +1,8 @@
+name: libksane
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libksane
+    repo: extra
+  tag: stable

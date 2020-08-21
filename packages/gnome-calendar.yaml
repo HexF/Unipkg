@@ -1,0 +1,8 @@
+name: gnome-calendar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-calendar
+    repo: extra
+  tag: stable

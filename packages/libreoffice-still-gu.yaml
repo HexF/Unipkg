@@ -1,0 +1,8 @@
+name: libreoffice-still-gu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-gu
+    repo: extra
+  tag: stable

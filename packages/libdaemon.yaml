@@ -1,0 +1,8 @@
+name: libdaemon
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdaemon
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: haveged
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: haveged
+    repo: extra
+  tag: stable

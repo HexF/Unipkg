@@ -1,0 +1,8 @@
+name: libzip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libzip
+    repo: extra
+  tag: stable

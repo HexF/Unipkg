@@ -1,0 +1,8 @@
+name: libkeduvocdocument
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkeduvocdocument
+    repo: extra
+  tag: stable

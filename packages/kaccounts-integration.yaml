@@ -1,0 +1,8 @@
+name: kaccounts-integration
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kaccounts-integration
+    repo: extra
+  tag: stable

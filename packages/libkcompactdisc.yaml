@@ -1,0 +1,8 @@
+name: libkcompactdisc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libkcompactdisc
+    repo: extra
+  tag: stable

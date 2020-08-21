@@ -1,0 +1,8 @@
+name: geoclue
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: geoclue
+    repo: extra
+  tag: stable

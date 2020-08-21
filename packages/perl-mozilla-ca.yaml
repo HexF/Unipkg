@@ -1,0 +1,8 @@
+name: perl-mozilla-ca
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mozilla-ca
+    repo: extra
+  tag: stable

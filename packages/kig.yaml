@@ -1,0 +1,8 @@
+name: kig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kig
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-digest-sha1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-digest-sha1
+    repo: extra
+  tag: stable

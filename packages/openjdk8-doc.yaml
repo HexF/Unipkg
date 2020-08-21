@@ -1,0 +1,8 @@
+name: openjdk8-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openjdk8-doc
+    repo: extra
+  tag: stable

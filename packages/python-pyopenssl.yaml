@@ -1,0 +1,8 @@
+name: python-pyopenssl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pyopenssl
+    repo: extra
+  tag: stable

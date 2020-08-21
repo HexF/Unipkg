@@ -1,0 +1,8 @@
+name: libdvdread
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdvdread
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libdvdnav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdvdnav
+    repo: extra
+  tag: stable

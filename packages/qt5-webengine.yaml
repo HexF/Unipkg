@@ -1,0 +1,8 @@
+name: qt5-webengine
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-webengine
+    repo: extra
+  tag: stable

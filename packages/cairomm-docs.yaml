@@ -1,0 +1,8 @@
+name: cairomm-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cairomm-docs
+    repo: extra
+  tag: stable

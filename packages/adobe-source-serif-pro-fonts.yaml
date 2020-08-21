@@ -1,0 +1,8 @@
+name: adobe-source-serif-pro-fonts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: adobe-source-serif-pro-fonts
+    repo: extra
+  tag: stable

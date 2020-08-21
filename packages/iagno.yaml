@@ -1,0 +1,8 @@
+name: iagno
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iagno
+    repo: extra
+  tag: stable

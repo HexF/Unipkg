@@ -1,0 +1,8 @@
+name: python-urwid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-urwid
+    repo: extra
+  tag: stable

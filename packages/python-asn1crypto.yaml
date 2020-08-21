@@ -1,0 +1,8 @@
+name: python-asn1crypto
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-asn1crypto
+    repo: extra
+  tag: stable

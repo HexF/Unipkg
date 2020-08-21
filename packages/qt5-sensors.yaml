@@ -1,0 +1,8 @@
+name: qt5-sensors
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-sensors
+    repo: extra
+  tag: stable

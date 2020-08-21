@@ -1,0 +1,8 @@
+name: lm-sensors
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lm_sensors
+    repo: extra
+  tag: stable

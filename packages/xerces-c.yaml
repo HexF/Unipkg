@@ -1,0 +1,8 @@
+name: xerces-c
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xerces-c
+    repo: extra
+  tag: stable

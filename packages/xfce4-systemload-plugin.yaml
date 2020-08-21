@@ -1,0 +1,8 @@
+name: xfce4-systemload-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-systemload-plugin
+    repo: extra
+  tag: stable

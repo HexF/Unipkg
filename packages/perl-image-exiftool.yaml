@@ -1,0 +1,8 @@
+name: perl-image-exiftool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-image-exiftool
+    repo: extra
+  tag: stable

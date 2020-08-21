@@ -1,0 +1,8 @@
+name: perl-dbd-sqlite
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-dbd-sqlite
+    repo: extra
+  tag: stable

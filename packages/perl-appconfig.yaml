@@ -1,0 +1,8 @@
+name: perl-appconfig
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-appconfig
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdsoap-ws-discovery-client
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdsoap-ws-discovery-client
+    repo: extra
+  tag: stable

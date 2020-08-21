@@ -1,0 +1,8 @@
+name: vte3
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vte3
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-appdirs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-appdirs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: accounts-qml-module
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: accounts-qml-module
+    repo: extra
+  tag: stable

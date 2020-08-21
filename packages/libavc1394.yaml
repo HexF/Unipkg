@@ -1,0 +1,8 @@
+name: libavc1394
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libavc1394
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gmime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gmime
+    repo: extra
+  tag: stable

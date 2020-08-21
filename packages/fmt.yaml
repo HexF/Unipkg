@@ -1,0 +1,8 @@
+name: fmt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fmt
+    repo: extra
+  tag: stable

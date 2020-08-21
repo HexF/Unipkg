@@ -1,0 +1,8 @@
+name: cairo-perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cairo-perl
+    repo: extra
+  tag: stable

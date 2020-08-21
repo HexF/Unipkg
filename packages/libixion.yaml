@@ -1,0 +1,8 @@
+name: libixion
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libixion
+    repo: extra
+  tag: stable

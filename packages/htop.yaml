@@ -1,0 +1,8 @@
+name: htop
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: htop
+    repo: extra
+  tag: stable

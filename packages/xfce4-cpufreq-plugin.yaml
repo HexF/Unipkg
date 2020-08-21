@@ -1,0 +1,8 @@
+name: xfce4-cpufreq-plugin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-cpufreq-plugin
+    repo: extra
+  tag: stable

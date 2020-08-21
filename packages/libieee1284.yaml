@@ -1,0 +1,8 @@
+name: libieee1284
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libieee1284
+    repo: extra
+  tag: stable

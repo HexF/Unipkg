@@ -1,0 +1,8 @@
+name: gl2ps
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gl2ps
+    repo: extra
+  tag: stable

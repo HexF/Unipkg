@@ -1,0 +1,8 @@
+name: krfb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: krfb
+    repo: extra
+  tag: stable

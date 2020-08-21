@@ -1,0 +1,8 @@
+name: source-highlight
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: source-highlight
+    repo: extra
+  tag: stable

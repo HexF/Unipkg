@@ -1,0 +1,8 @@
+name: kjsembed
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kjsembed
+    repo: extra
+  tag: stable

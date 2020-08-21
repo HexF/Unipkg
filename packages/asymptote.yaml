@@ -1,0 +1,8 @@
+name: asymptote
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: asymptote
+    repo: extra
+  tag: stable

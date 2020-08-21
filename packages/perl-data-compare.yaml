@@ -1,0 +1,8 @@
+name: perl-data-compare
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-data-compare
+    repo: extra
+  tag: stable

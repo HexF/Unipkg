@@ -1,0 +1,8 @@
+name: libzapojit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libzapojit
+    repo: extra
+  tag: stable

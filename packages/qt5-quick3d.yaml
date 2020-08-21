@@ -1,0 +1,8 @@
+name: qt5-quick3d
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-quick3d
+    repo: extra
+  tag: stable

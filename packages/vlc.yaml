@@ -1,0 +1,8 @@
+name: vlc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vlc
+    repo: extra
+  tag: stable

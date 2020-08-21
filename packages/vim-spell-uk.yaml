@@ -1,0 +1,8 @@
+name: vim-spell-uk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-uk
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-mime-charset
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-mime-charset
+    repo: extra
+  tag: stable

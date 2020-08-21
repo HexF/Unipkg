@@ -1,0 +1,8 @@
+name: libreoffice-fresh-dgo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-fresh-dgo
+    repo: extra
+  tag: stable

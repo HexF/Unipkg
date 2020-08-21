@@ -1,0 +1,8 @@
+name: adobe-source-code-pro-fonts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: adobe-source-code-pro-fonts
+    repo: extra
+  tag: stable

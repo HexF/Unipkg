@@ -1,0 +1,8 @@
+name: python-nose
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-nose
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: perl-file-listing
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-file-listing
+    repo: extra
+  tag: stable

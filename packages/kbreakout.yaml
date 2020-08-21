@@ -1,0 +1,8 @@
+name: kbreakout
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kbreakout
+    repo: extra
+  tag: stable

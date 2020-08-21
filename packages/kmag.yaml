@@ -1,0 +1,8 @@
+name: kmag
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmag
+    repo: extra
+  tag: stable

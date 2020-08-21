@@ -1,0 +1,8 @@
+name: lua
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua
+    repo: extra
+  tag: stable

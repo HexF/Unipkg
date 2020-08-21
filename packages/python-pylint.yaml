@@ -1,0 +1,8 @@
+name: python-pylint
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-pylint
+    repo: extra
+  tag: stable

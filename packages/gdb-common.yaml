@@ -1,0 +1,8 @@
+name: gdb-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gdb-common
+    repo: extra
+  tag: stable

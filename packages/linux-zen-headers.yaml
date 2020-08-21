@@ -1,0 +1,8 @@
+name: linux-zen-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-zen-headers
+    repo: extra
+  tag: stable

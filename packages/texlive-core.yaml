@@ -1,0 +1,8 @@
+name: texlive-core
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-core
+    repo: extra
+  tag: stable

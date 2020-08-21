@@ -1,0 +1,8 @@
+name: id3lib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: id3lib
+    repo: extra
+  tag: stable

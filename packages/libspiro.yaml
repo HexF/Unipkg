@@ -1,0 +1,8 @@
+name: libspiro
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libspiro
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: clisp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clisp
+    repo: extra
+  tag: stable

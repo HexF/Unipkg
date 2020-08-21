@@ -1,0 +1,8 @@
+name: gpart
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gpart
+    repo: extra
+  tag: stable

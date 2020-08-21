@@ -1,0 +1,8 @@
+name: media-player-info
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: media-player-info
+    repo: extra
+  tag: stable

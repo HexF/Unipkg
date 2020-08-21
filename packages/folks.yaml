@@ -1,0 +1,8 @@
+name: folks
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: folks
+    repo: extra
+  tag: stable

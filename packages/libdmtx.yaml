@@ -1,0 +1,8 @@
+name: libdmtx
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libdmtx
+    repo: extra
+  tag: stable

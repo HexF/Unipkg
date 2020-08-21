@@ -1,0 +1,8 @@
+name: dnsmasq
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dnsmasq
+    repo: extra
+  tag: stable

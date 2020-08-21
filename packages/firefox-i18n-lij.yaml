@@ -1,0 +1,8 @@
+name: firefox-i18n-lij
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: firefox-i18n-lij
+    repo: extra
+  tag: stable

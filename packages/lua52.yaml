@@ -1,0 +1,8 @@
+name: lua52
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lua52
+    repo: extra
+  tag: stable

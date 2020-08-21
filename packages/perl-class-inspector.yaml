@@ -1,0 +1,8 @@
+name: perl-class-inspector
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-class-inspector
+    repo: extra
+  tag: stable

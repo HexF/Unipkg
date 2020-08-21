@@ -1,0 +1,8 @@
+name: kiconthemes
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kiconthemes
+    repo: extra
+  tag: stable

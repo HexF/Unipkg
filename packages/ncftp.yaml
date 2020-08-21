@@ -1,0 +1,8 @@
+name: ncftp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ncftp
+    repo: extra
+  tag: stable

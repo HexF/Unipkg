@@ -1,0 +1,8 @@
+name: xmltoman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xmltoman
+    repo: extra
+  tag: stable

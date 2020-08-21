@@ -1,0 +1,8 @@
+name: step
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: step
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: kdav
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdav
+    repo: extra
+  tag: stable

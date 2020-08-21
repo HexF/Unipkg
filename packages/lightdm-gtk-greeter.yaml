@@ -1,0 +1,8 @@
+name: lightdm-gtk-greeter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lightdm-gtk-greeter
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: python-chardet
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-chardet
+    repo: extra
+  tag: stable

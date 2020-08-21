@@ -1,0 +1,8 @@
+name: libepubgen
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libepubgen
+    repo: extra
+  tag: stable

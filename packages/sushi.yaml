@@ -1,0 +1,8 @@
+name: sushi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sushi
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: vim-spell-gl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vim-spell-gl
+    repo: extra
+  tag: stable

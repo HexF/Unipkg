@@ -1,0 +1,8 @@
+name: iucode-tool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iucode-tool
+    repo: extra
+  tag: stable

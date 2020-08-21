@@ -1,0 +1,8 @@
+name: nvidia-prime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nvidia-prime
+    repo: extra
+  tag: stable

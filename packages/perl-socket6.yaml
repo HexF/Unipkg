@@ -1,0 +1,8 @@
+name: perl-socket6
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-socket6
+    repo: extra
+  tag: stable

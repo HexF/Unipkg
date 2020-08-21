@@ -1,0 +1,8 @@
+name: perl-net-dns-resolver-mock
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-net-dns-resolver-mock
+    repo: extra
+  tag: stable

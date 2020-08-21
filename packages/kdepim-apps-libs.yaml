@@ -1,0 +1,8 @@
+name: kdepim-apps-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kdepim-apps-libs
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gnome-klotski
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-klotski
+    repo: extra
+  tag: stable

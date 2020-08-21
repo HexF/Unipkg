@@ -1,0 +1,8 @@
+name: emacs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: emacs
+    repo: extra
+  tag: stable

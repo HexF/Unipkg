@@ -1,0 +1,8 @@
+name: clutter-gtk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: clutter-gtk
+    repo: extra
+  tag: stable

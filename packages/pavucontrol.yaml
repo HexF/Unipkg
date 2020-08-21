@@ -1,0 +1,8 @@
+name: pavucontrol
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pavucontrol
+    repo: extra
+  tag: stable

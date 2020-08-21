@@ -1,0 +1,8 @@
+name: wireguard-lts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wireguard-lts
+    repo: extra
+  tag: stable

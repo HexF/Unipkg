@@ -1,0 +1,8 @@
+name: bogofilter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bogofilter
+    repo: extra
+  tag: stable

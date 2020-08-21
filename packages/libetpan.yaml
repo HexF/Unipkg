@@ -1,0 +1,8 @@
+name: libetpan
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libetpan
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: meson
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: meson
+    repo: extra
+  tag: stable

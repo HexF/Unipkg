@@ -1,0 +1,8 @@
+name: progsreiserfs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: progsreiserfs
+    repo: extra
+  tag: stable

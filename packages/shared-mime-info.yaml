@@ -1,0 +1,8 @@
+name: shared-mime-info
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: shared-mime-info
+    repo: extra
+  tag: stable

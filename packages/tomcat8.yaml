@@ -1,0 +1,8 @@
+name: tomcat8
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tomcat8
+    repo: extra
+  tag: stable

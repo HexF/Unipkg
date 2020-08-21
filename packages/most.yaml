@@ -1,0 +1,8 @@
+name: most
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: most
+    repo: extra
+  tag: stable

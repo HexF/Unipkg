@@ -1,0 +1,8 @@
+name: dconf-editor
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dconf-editor
+    repo: extra
+  tag: stable

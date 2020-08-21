@@ -1,0 +1,8 @@
+name: kfloppy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kfloppy
+    repo: extra
+  tag: stable

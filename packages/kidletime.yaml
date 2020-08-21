@@ -1,0 +1,8 @@
+name: kidletime
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kidletime
+    repo: extra
+  tag: stable

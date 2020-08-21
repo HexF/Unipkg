@@ -1,0 +1,8 @@
+name: cblas
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cblas
+    repo: extra
+  tag: stable

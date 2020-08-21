@@ -1,0 +1,8 @@
+name: kiten
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kiten
+    repo: extra
+  tag: stable

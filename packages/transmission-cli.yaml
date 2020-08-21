@@ -1,0 +1,8 @@
+name: transmission-cli
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: transmission-cli
+    repo: extra
+  tag: stable

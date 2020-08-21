@@ -1,0 +1,8 @@
+name: jsoncpp-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jsoncpp-doc
+    repo: extra
+  tag: stable

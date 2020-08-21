@@ -1,0 +1,8 @@
+name: lightsoff
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lightsoff
+    repo: extra
+  tag: stable

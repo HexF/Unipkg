@@ -1,0 +1,8 @@
+name: psutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: psutils
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: libmikmod
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmikmod
+    repo: extra
+  tag: stable

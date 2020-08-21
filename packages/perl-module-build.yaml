@@ -1,0 +1,8 @@
+name: perl-module-build
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-module-build
+    repo: extra
+  tag: stable

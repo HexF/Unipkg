@@ -1,0 +1,8 @@
+name: perl-archive-zip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-archive-zip
+    repo: extra
+  tag: stable

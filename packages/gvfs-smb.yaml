@@ -1,0 +1,8 @@
+name: gvfs-smb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gvfs-smb
+    repo: extra
+  tag: stable

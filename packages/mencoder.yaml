@@ -1,0 +1,8 @@
+name: mencoder
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mencoder
+    repo: extra
+  tag: stable

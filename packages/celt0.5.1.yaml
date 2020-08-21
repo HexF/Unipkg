@@ -1,0 +1,8 @@
+name: celt0.5.1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: celt0.5.1
+    repo: extra
+  tag: stable

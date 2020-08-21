@@ -1,0 +1,8 @@
+name: perl-async-interrupt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl-async-interrupt
+    repo: extra
+  tag: stable

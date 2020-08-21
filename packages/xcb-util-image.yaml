@@ -1,0 +1,8 @@
+name: xcb-util-image
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xcb-util-image
+    repo: extra
+  tag: stable

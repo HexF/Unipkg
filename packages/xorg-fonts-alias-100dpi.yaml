@@ -1,0 +1,8 @@
+name: xorg-fonts-alias-100dpi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xorg-fonts-alias-100dpi
+    repo: extra
+  tag: stable

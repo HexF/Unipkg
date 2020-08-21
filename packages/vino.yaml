@@ -1,0 +1,8 @@
+name: vino
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vino
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: texlive-latexextra
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: texlive-latexextra
+    repo: extra
+  tag: stable

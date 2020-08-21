@@ -1,0 +1,8 @@
+name: xfce4-terminal
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfce4-terminal
+    repo: extra
+  tag: stable

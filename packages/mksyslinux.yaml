@@ -1,0 +1,8 @@
+name: mksyslinux
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mksyslinux
+    repo: extra
+  tag: stable

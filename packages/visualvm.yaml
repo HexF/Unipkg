@@ -1,0 +1,8 @@
+name: visualvm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: visualvm
+    repo: extra
+  tag: stable

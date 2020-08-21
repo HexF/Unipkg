@@ -1,0 +1,8 @@
+name: kpatience
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kpatience
+    repo: extra
+  tag: stable

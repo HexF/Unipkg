@@ -1,0 +1,8 @@
+name: vte-common
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vte-common
+    repo: extra
+  tag: stable

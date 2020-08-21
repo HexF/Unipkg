@@ -1,0 +1,8 @@
+name: namcap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: namcap
+    repo: extra
+  tag: stable

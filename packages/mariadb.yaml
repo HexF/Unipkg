@@ -1,0 +1,8 @@
+name: mariadb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mariadb
+    repo: extra
+  tag: stable

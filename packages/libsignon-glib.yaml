@@ -1,0 +1,8 @@
+name: libsignon-glib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsignon-glib
+    repo: extra
+  tag: stable

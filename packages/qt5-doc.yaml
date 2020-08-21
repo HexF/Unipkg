@@ -1,0 +1,8 @@
+name: qt5-doc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qt5-doc
+    repo: extra
+  tag: stable

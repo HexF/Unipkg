@@ -1,0 +1,8 @@
+name: gnome-menus
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-menus
+    repo: extra
+  tag: stable

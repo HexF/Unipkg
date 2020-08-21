@@ -1,0 +1,8 @@
+name: kxmlgui
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kxmlgui
+    repo: extra
+  tag: stable

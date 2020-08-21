@@ -1,0 +1,8 @@
+name: mariadb-clients
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mariadb-clients
+    repo: extra
+  tag: stable

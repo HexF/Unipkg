@@ -1,0 +1,8 @@
+name: kwin
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kwin
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: gnome-nibbles
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnome-nibbles
+    repo: extra
+  tag: stable

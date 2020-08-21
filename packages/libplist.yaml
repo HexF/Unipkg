@@ -1,0 +1,8 @@
+name: libplist
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libplist
+    repo: extra
+  tag: stable

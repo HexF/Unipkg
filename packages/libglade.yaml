@@ -1,0 +1,8 @@
+name: libglade
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libglade
+    repo: extra
+  tag: stable

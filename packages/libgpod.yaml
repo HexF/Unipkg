@@ -1,0 +1,8 @@
+name: libgpod
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgpod
+    repo: extra
+  tag: stable

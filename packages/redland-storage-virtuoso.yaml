@@ -1,0 +1,8 @@
+name: redland-storage-virtuoso
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: redland-storage-virtuoso
+    repo: extra
+  tag: stable

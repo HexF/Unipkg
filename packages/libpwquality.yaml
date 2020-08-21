@@ -1,0 +1,8 @@
+name: libpwquality
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpwquality
+    repo: extra
+  tag: stable

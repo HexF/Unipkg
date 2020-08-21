@@ -1,0 +1,8 @@
+name: gob2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gob2
+    repo: extra
+  tag: stable

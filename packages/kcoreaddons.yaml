@@ -1,0 +1,8 @@
+name: kcoreaddons
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kcoreaddons
+    repo: extra
+  tag: stable

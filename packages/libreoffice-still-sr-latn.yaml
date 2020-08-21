@@ -1,0 +1,8 @@
+name: libreoffice-still-sr-latn
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libreoffice-still-sr-latn
+    repo: extra
+  tag: stable

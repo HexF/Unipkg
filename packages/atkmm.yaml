@@ -1,0 +1,8 @@
+name: atkmm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: atkmm
+    repo: extra
+  tag: stable

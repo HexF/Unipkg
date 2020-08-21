@@ -1,0 +1,8 @@
+name: arptables
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: arptables
+    repo: extra
+  tag: stable

@@ -1,0 +1,8 @@
+name: vulkan-intel
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: vulkan-intel
+    repo: extra
+  tag: stable

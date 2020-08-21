@@ -1,0 +1,8 @@
+name: icon-naming-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: icon-naming-utils
+    repo: extra
+  tag: stable
