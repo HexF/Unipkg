@@ -1,0 +1,32 @@
+name: Build 
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Cache
+      uses: actions/cache@v2.1.1
+      with:
+        # A list of files, directories, and wildcard patterns to cache and restore
+        path: |
+          build/*
+        # An explicit key for restoring and saving the cache
+        # Here we don't need to create unique cache names because Make deals with all that for us!
+        key: ${{ runner.os }}-cache
+    - name: make
+      run: make
+    - name: Upload database
+      uses: actions/upload-artifact@v2.1.4
+      with:
+        path: dist/*
+    
+
