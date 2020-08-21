@@ -1,0 +1,8 @@
+name: cryptsetup
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cryptsetup
+    repo: core
+  tag: stable

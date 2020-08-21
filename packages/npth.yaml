@@ -1,0 +1,8 @@
+name: npth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: npth
+    repo: core
+  tag: stable

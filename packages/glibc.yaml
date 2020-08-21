@@ -1,0 +1,8 @@
+name: glibc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glibc
+    repo: core
+  tag: stable

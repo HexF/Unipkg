@@ -1,0 +1,8 @@
+name: openssh
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openssh
+    repo: core
+  tag: stable

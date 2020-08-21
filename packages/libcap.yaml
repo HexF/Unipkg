@@ -1,0 +1,8 @@
+name: libcap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcap
+    repo: core
+  tag: stable

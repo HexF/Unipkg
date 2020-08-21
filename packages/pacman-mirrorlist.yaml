@@ -1,0 +1,8 @@
+name: pacman-mirrorlist
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pacman-mirrorlist
+    repo: core
+  tag: stable

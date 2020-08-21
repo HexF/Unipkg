@@ -1,0 +1,8 @@
+name: gssproxy
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gssproxy
+    repo: core
+  tag: stable

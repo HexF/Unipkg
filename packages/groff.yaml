@@ -1,0 +1,8 @@
+name: groff
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: groff
+    repo: core
+  tag: stable

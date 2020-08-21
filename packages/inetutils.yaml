@@ -1,0 +1,8 @@
+name: inetutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: inetutils
+    repo: core
+  tag: stable

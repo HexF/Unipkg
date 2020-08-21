@@ -1,0 +1,8 @@
+name: efibootmgr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: efibootmgr
+    repo: core
+  tag: stable

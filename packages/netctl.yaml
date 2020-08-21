@@ -1,0 +1,8 @@
+name: netctl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: netctl
+    repo: core
+  tag: stable

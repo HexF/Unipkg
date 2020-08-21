@@ -1,0 +1,8 @@
+name: util-linux
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: util-linux
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: openssl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openssl
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: libtool
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtool
+    repo: core
+  tag: stable

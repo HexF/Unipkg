@@ -1,0 +1,8 @@
+name: sysfsutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sysfsutils
+    repo: core
+  tag: stable

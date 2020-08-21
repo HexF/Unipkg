@@ -1,0 +1,8 @@
+name: acl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: acl
+    repo: core
+  tag: stable

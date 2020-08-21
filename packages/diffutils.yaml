@@ -1,0 +1,8 @@
+name: diffutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: diffutils
+    repo: core
+  tag: stable

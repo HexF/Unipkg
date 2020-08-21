@@ -1,0 +1,8 @@
+name: psmisc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: psmisc
+    repo: core
+  tag: stable

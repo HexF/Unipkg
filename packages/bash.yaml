@@ -1,0 +1,8 @@
+name: bash
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bash
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: ldns
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ldns
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: ipw2200-fw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ipw2200-fw
+    repo: core
+  tag: stable

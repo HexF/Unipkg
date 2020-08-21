@@ -1,0 +1,8 @@
+name: ca-certificates-mozilla
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ca-certificates-mozilla
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: dnssec-anchors
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dnssec-anchors
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: libedit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libedit
+    repo: core
+  tag: stable

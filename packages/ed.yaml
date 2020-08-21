@@ -1,0 +1,8 @@
+name: ed
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ed
+    repo: core
+  tag: stable

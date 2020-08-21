@@ -1,0 +1,8 @@
+name: linux-lts-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-lts-headers
+    repo: core
+  tag: stable

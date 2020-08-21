@@ -1,0 +1,8 @@
+name: iputils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iputils
+    repo: core
+  tag: stable

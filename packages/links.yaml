@@ -1,0 +1,8 @@
+name: links
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: links
+    repo: core
+  tag: stable

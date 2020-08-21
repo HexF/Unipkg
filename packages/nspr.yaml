@@ -1,0 +1,8 @@
+name: nspr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nspr
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: krb5
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: krb5
+    repo: core
+  tag: stable

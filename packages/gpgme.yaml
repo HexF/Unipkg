@@ -1,0 +1,8 @@
+name: gpgme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gpgme
+    repo: core
+  tag: stable

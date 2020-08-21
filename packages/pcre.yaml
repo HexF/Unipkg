@@ -1,0 +1,8 @@
+name: pcre
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pcre
+    repo: core
+  tag: stable

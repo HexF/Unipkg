@@ -1,0 +1,8 @@
+name: libnetfilter-conntrack
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnetfilter_conntrack
+    repo: core
+  tag: stable

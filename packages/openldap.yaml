@@ -1,0 +1,8 @@
+name: openldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openldap
+    repo: core
+  tag: stable

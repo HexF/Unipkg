@@ -1,0 +1,8 @@
+name: pcre2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pcre2
+    repo: core
+  tag: stable

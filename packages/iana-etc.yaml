@@ -1,0 +1,8 @@
+name: iana-etc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iana-etc
+    repo: core
+  tag: stable

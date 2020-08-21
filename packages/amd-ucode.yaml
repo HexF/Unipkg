@@ -1,0 +1,8 @@
+name: amd-ucode
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: amd-ucode
+    repo: core
+  tag: stable

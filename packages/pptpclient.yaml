@@ -1,0 +1,8 @@
+name: pptpclient
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pptpclient
+    repo: core
+  tag: stable

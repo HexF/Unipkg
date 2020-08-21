@@ -1,0 +1,8 @@
+name: linux-api-headers
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-api-headers
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: gcc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gcc
+    repo: core
+  tag: stable

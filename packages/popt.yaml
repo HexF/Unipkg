@@ -1,0 +1,8 @@
+name: popt
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: popt
+    repo: core
+  tag: stable

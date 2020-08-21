@@ -1,0 +1,8 @@
+name: gawk
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gawk
+    repo: core
+  tag: stable

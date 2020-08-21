@@ -1,0 +1,8 @@
+name: cronie
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cronie
+    repo: core
+  tag: stable

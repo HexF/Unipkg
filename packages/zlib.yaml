@@ -1,0 +1,8 @@
+name: zlib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zlib
+    repo: core
+  tag: stable

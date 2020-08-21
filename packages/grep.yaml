@@ -1,0 +1,8 @@
+name: grep
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grep
+    repo: core
+  tag: stable

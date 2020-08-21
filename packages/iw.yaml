@@ -1,0 +1,8 @@
+name: iw
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iw
+    repo: core
+  tag: stable

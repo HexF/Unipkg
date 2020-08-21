@@ -1,0 +1,8 @@
+name: curl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: curl
+    repo: core
+  tag: stable

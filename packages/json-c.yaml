@@ -1,0 +1,8 @@
+name: json-c
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: json-c
+    repo: core
+  tag: stable

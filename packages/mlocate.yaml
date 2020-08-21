@@ -1,0 +1,8 @@
+name: mlocate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mlocate
+    repo: core
+  tag: stable

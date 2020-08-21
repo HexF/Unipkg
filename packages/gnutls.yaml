@@ -1,0 +1,8 @@
+name: gnutls
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnutls
+    repo: core
+  tag: stable

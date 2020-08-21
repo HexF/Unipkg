@@ -1,0 +1,8 @@
+name: iptables-nft
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iptables-nft
+    repo: core
+  tag: stable

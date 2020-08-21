@@ -1,0 +1,8 @@
+name: libnfnetlink
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnfnetlink
+    repo: core
+  tag: stable

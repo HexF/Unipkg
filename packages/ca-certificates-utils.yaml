@@ -1,0 +1,8 @@
+name: ca-certificates-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ca-certificates-utils
+    repo: core
+  tag: stable

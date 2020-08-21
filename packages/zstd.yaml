@@ -1,0 +1,8 @@
+name: zstd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: zstd
+    repo: core
+  tag: stable

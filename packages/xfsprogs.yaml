@@ -1,0 +1,8 @@
+name: xfsprogs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xfsprogs
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: gettext
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gettext
+    repo: core
+  tag: stable

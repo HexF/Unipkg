@@ -1,0 +1,8 @@
+name: libassuan
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libassuan
+    repo: core
+  tag: stable

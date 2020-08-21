@@ -1,0 +1,8 @@
+name: libmicrohttpd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmicrohttpd
+    repo: core
+  tag: stable

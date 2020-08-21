@@ -1,0 +1,8 @@
+name: libcap-ng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libcap-ng
+    repo: core
+  tag: stable

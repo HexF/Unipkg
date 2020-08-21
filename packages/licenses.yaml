@@ -1,0 +1,8 @@
+name: licenses
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: licenses
+    repo: core
+  tag: stable

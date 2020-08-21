@@ -1,0 +1,8 @@
+name: perl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: perl
+    repo: core
+  tag: stable

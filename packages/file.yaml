@@ -1,0 +1,8 @@
+name: file
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: file
+    repo: core
+  tag: stable

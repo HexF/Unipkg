@@ -1,0 +1,8 @@
+name: efivar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: efivar
+    repo: core
+  tag: stable

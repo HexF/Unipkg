@@ -1,0 +1,8 @@
+name: linux
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux
+    repo: core
+  tag: stable

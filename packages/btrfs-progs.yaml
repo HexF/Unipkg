@@ -1,0 +1,8 @@
+name: btrfs-progs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: btrfs-progs
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: systemd-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: systemd-libs
+    repo: core
+  tag: stable

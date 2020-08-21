@@ -1,0 +1,8 @@
+name: procinfo-ng
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: procinfo-ng
+    repo: core
+  tag: stable

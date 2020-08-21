@@ -1,0 +1,8 @@
+name: elfutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: elfutils
+    repo: core
+  tag: stable

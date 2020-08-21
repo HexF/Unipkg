@@ -1,0 +1,8 @@
+name: mpfr
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mpfr
+    repo: core
+  tag: stable

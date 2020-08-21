@@ -1,0 +1,8 @@
+name: sqlite-analyzer
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sqlite-analyzer
+    repo: core
+  tag: stable

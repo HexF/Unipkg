@@ -1,0 +1,8 @@
+name: wpa-supplicant
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wpa_supplicant
+    repo: core
+  tag: stable

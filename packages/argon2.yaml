@@ -1,0 +1,8 @@
+name: argon2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: argon2
+    repo: core
+  tag: stable

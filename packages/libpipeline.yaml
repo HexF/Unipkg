@@ -1,0 +1,8 @@
+name: libpipeline
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpipeline
+    repo: core
+  tag: stable

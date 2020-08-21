@@ -1,0 +1,8 @@
+name: pciutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pciutils
+    repo: core
+  tag: stable

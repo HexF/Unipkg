@@ -1,0 +1,8 @@
+name: minizip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: minizip
+    repo: core
+  tag: stable

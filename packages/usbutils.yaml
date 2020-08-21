@@ -1,0 +1,8 @@
+name: usbutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: usbutils
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: systemd-resolvconf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: systemd-resolvconf
+    repo: core
+  tag: stable

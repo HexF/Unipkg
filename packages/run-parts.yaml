@@ -1,0 +1,8 @@
+name: run-parts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: run-parts
+    repo: core
+  tag: stable

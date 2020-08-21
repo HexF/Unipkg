@@ -1,0 +1,8 @@
+name: audit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: audit
+    repo: core
+  tag: stable

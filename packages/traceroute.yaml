@@ -1,0 +1,8 @@
+name: traceroute
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: traceroute
+    repo: core
+  tag: stable

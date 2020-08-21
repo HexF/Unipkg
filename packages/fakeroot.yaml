@@ -1,0 +1,8 @@
+name: fakeroot
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: fakeroot
+    repo: core
+  tag: stable

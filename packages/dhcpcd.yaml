@@ -1,0 +1,8 @@
+name: dhcpcd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dhcpcd
+    repo: core
+  tag: stable

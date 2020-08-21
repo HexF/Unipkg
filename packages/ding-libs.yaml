@@ -1,0 +1,8 @@
+name: ding-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ding-libs
+    repo: core
+  tag: stable

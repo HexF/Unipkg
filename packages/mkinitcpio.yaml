@@ -1,0 +1,8 @@
+name: mkinitcpio
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mkinitcpio
+    repo: core
+  tag: stable

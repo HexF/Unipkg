@@ -1,0 +1,8 @@
+name: pth
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pth
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: lzo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: lzo
+    repo: core
+  tag: stable

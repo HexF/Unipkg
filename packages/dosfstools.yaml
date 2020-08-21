@@ -1,0 +1,8 @@
+name: dosfstools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dosfstools
+    repo: core
+  tag: stable

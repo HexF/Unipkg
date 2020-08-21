@@ -1,0 +1,8 @@
+name: libusb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libusb
+    repo: core
+  tag: stable

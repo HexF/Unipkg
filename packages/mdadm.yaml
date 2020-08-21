@@ -1,0 +1,8 @@
+name: mdadm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mdadm
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: libksba
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libksba
+    repo: core
+  tag: stable

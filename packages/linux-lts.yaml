@@ -1,0 +1,8 @@
+name: linux-lts
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-lts
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: gnupg
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gnupg
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: icu
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: icu
+    repo: core
+  tag: stable

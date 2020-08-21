@@ -1,0 +1,8 @@
+name: libelf
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libelf
+    repo: core
+  tag: stable

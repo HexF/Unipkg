@@ -1,0 +1,8 @@
+name: nettle
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nettle
+    repo: core
+  tag: stable

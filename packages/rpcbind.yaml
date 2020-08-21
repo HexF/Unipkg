@@ -1,0 +1,8 @@
+name: rpcbind
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: rpcbind
+    repo: core
+  tag: stable

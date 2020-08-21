@@ -1,0 +1,8 @@
+name: libidn2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libidn2
+    repo: core
+  tag: stable

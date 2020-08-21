@@ -1,0 +1,8 @@
+name: automake
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: automake
+    repo: core
+  tag: stable

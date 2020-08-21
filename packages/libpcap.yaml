@@ -1,0 +1,8 @@
+name: libpcap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpcap
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: hdparm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: hdparm
+    repo: core
+  tag: stable

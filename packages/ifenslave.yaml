@@ -1,0 +1,8 @@
+name: ifenslave
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ifenslave
+    repo: core
+  tag: stable

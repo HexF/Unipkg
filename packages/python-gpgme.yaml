@@ -1,0 +1,8 @@
+name: python-gpgme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-gpgme
+    repo: core
+  tag: stable

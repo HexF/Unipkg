@@ -1,0 +1,8 @@
+name: grub
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: grub
+    repo: core
+  tag: stable

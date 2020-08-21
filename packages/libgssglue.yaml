@@ -1,0 +1,8 @@
+name: libgssglue
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgssglue
+    repo: core
+  tag: stable

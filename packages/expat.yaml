@@ -1,0 +1,8 @@
+name: expat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: expat
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: sqlite-tcl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sqlite-tcl
+    repo: core
+  tag: stable

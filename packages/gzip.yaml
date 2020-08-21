@@ -1,0 +1,8 @@
+name: gzip
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gzip
+    repo: core
+  tag: stable

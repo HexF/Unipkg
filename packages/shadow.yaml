@@ -1,0 +1,8 @@
+name: shadow
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: shadow
+    repo: core
+  tag: stable

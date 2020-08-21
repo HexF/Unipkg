@@ -1,0 +1,8 @@
+name: patch
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: patch
+    repo: core
+  tag: stable

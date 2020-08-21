@@ -1,0 +1,8 @@
+name: kmod
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: kmod
+    repo: core
+  tag: stable

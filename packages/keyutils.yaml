@@ -1,0 +1,8 @@
+name: keyutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: keyutils
+    repo: core
+  tag: stable

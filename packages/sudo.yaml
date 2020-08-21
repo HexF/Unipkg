@@ -1,0 +1,8 @@
+name: sudo
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sudo
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: pacman
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pacman
+    repo: core
+  tag: stable

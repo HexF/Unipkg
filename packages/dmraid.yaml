@@ -1,0 +1,8 @@
+name: dmraid
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dmraid
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: qgpgme
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: qgpgme
+    repo: core
+  tag: stable

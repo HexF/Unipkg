@@ -1,0 +1,8 @@
+name: bison
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bison
+    repo: core
+  tag: stable

@@ -1,0 +1,8 @@
+name: cracklib
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: cracklib
+    repo: core
+  tag: stable

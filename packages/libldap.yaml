@@ -1,0 +1,8 @@
+name: libldap
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libldap
+    repo: core
+  tag: stable

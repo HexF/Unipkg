@@ -1,0 +1,8 @@
+name: libnl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnl
+    repo: core
+  tag: stable

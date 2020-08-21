@@ -1,0 +1,8 @@
+name: xz
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: xz
+    repo: core
+  tag: stable

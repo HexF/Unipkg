@@ -1,0 +1,8 @@
+name: binutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: binutils
+    repo: core
+  tag: stable

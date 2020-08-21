@@ -1,0 +1,8 @@
+name: net-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: net-tools
+    repo: core
+  tag: stable

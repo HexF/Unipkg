@@ -1,0 +1,8 @@
+name: b43-fwcutter
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: b43-fwcutter
+    repo: core
+  tag: stable

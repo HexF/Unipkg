@@ -1,0 +1,8 @@
+name: s-nail
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: s-nail
+    repo: core
+  tag: stable

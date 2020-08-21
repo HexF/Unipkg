@@ -1,0 +1,8 @@
+name: openresolv
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: openresolv
+    repo: core
+  tag: stable

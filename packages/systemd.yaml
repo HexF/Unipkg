@@ -1,0 +1,8 @@
+name: systemd
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: systemd
+    repo: core
+  tag: stable

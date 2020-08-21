@@ -1,0 +1,8 @@
+name: thin-provisioning-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: thin-provisioning-tools
+    repo: core
+  tag: stable

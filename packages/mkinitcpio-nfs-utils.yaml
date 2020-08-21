@@ -1,0 +1,8 @@
+name: mkinitcpio-nfs-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: mkinitcpio-nfs-utils
+    repo: core
+  tag: stable

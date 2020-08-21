@@ -1,0 +1,8 @@
+name: glib2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glib2
+    repo: core
+  tag: stable

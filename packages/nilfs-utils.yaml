@@ -1,0 +1,8 @@
+name: nilfs-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nilfs-utils
+    repo: core
+  tag: stable

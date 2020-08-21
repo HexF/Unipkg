@@ -1,0 +1,8 @@
+name: libnsl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnsl
+    repo: core
+  tag: stable

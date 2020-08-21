@@ -1,0 +1,8 @@
+name: unixodbc
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: unixodbc
+    repo: core
+  tag: stable

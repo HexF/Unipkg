@@ -1,0 +1,8 @@
+name: iptables
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: iptables
+    repo: core
+  tag: stable

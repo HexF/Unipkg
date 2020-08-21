@@ -1,0 +1,8 @@
+name: make
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: make
+    repo: core
+  tag: stable

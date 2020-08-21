@@ -1,0 +1,8 @@
+name: nfs-utils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nfs-utils
+    repo: core
+  tag: stable

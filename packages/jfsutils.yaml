@@ -1,0 +1,8 @@
+name: jfsutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: jfsutils
+    repo: core
+  tag: stable

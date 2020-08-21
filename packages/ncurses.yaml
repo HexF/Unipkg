@@ -1,0 +1,8 @@
+name: ncurses
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ncurses
+    repo: core
+  tag: stable

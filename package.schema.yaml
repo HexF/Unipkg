@@ -1,9 +1,9 @@
-name: regex('^[a-z]+$')
+name: regex('^[a-z\-\.0-9]+$')
 tags: list(include('tag'))
 
 ---
 tag:
-  tag: regex('^[a-z]+$')
+  tag: regex('^[a-z\-0-9]+$')
   default: bool(required=False)
   packages: list(include('package'))
 

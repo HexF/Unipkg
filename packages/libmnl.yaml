@@ -1,0 +1,8 @@
+name: libmnl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libmnl
+    repo: core
+  tag: stable

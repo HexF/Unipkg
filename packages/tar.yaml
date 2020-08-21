@@ -1,0 +1,8 @@
+name: tar
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: tar
+    repo: core
+  tag: stable

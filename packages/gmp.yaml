@@ -1,0 +1,8 @@
+name: gmp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gmp
+    repo: core
+  tag: stable

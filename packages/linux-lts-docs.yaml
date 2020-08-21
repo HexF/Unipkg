@@ -1,0 +1,8 @@
+name: linux-lts-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: linux-lts-docs
+    repo: core
+  tag: stable

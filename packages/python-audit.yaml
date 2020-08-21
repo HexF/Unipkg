@@ -1,0 +1,8 @@
+name: python-audit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: python-audit
+    repo: core
+  tag: stable

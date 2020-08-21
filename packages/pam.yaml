@@ -1,0 +1,8 @@
+name: pam
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pam
+    repo: core
+  tag: stable

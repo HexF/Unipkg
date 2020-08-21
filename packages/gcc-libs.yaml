@@ -1,0 +1,8 @@
+name: gcc-libs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gcc-libs
+    repo: core
+  tag: stable

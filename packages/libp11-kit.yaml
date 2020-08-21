@@ -1,0 +1,8 @@
+name: libp11-kit
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libp11-kit
+    repo: core
+  tag: stable

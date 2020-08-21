@@ -1,0 +1,8 @@
+name: dbus-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: dbus-docs
+    repo: core
+  tag: stable

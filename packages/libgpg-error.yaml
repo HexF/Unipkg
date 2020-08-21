@@ -1,0 +1,8 @@
+name: libgpg-error
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libgpg-error
+    repo: core
+  tag: stable

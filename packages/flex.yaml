@@ -1,0 +1,8 @@
+name: flex
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: flex
+    repo: core
+  tag: stable

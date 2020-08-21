@@ -1,0 +1,8 @@
+name: libtasn1
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libtasn1
+    repo: core
+  tag: stable

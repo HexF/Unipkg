@@ -1,0 +1,8 @@
+name: ppp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: ppp
+    repo: core
+  tag: stable

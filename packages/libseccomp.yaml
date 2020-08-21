@@ -1,0 +1,8 @@
+name: libseccomp
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libseccomp
+    repo: core
+  tag: stable

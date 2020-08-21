@@ -1,0 +1,8 @@
+name: libnftnl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libnftnl
+    repo: core
+  tag: stable

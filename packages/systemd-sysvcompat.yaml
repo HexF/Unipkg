@@ -1,0 +1,8 @@
+name: systemd-sysvcompat
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: systemd-sysvcompat
+    repo: core
+  tag: stable

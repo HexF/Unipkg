@@ -1,0 +1,8 @@
+name: sed
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sed
+    repo: core
+  tag: stable

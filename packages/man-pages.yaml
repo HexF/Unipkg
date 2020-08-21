@@ -1,0 +1,8 @@
+name: man-pages
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: man-pages
+    repo: core
+  tag: stable

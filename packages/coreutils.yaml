@@ -1,0 +1,8 @@
+name: coreutils
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: coreutils
+    repo: core
+  tag: stable

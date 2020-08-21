@@ -1,0 +1,8 @@
+name: glib2-docs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: glib2-docs
+    repo: core
+  tag: stable

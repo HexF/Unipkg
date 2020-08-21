@@ -1,0 +1,8 @@
+name: wireless-regdb
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wireless-regdb
+    repo: core
+  tag: stable

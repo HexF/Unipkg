@@ -1,0 +1,8 @@
+name: gdbm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gdbm
+    repo: core
+  tag: stable

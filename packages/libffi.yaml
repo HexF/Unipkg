@@ -1,0 +1,8 @@
+name: libffi
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libffi
+    repo: core
+  tag: stable

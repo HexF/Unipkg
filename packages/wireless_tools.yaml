@@ -1,0 +1,8 @@
+name: wireless-tools
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: wireless_tools
+    repo: core
+  tag: stable

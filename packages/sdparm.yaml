@@ -1,0 +1,8 @@
+name: sdparm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: sdparm
+    repo: core
+  tag: stable

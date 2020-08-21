@@ -1,0 +1,8 @@
+name: logrotate
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: logrotate
+    repo: core
+  tag: stable

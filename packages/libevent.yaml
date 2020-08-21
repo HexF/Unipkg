@@ -1,0 +1,8 @@
+name: libevent
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libevent
+    repo: core
+  tag: stable

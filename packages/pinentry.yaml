@@ -1,0 +1,8 @@
+name: pinentry
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pinentry
+    repo: core
+  tag: stable

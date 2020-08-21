@@ -1,0 +1,8 @@
+name: syslinux
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: syslinux
+    repo: core
+  tag: stable

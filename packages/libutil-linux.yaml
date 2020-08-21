@@ -1,0 +1,8 @@
+name: libutil-linux
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libutil-linux
+    repo: core
+  tag: stable

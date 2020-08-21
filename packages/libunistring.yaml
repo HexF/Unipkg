@@ -1,0 +1,8 @@
+name: libunistring
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libunistring
+    repo: core
+  tag: stable

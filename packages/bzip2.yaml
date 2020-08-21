@@ -1,0 +1,8 @@
+name: bzip2
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: bzip2
+    repo: core
+  tag: stable

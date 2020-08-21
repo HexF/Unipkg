@@ -1,0 +1,8 @@
+name: pambase
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: pambase
+    repo: core
+  tag: stable

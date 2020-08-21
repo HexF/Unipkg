@@ -1,0 +1,8 @@
+name: e2fsprogs
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: e2fsprogs
+    repo: core
+  tag: stable

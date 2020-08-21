@@ -1,0 +1,8 @@
+name: man-db
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: man-db
+    repo: core
+  tag: stable

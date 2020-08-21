@@ -1,0 +1,8 @@
+name: libsasl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libsasl
+    repo: core
+  tag: stable

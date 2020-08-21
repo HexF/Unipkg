@@ -1,0 +1,8 @@
+name: libpsl
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: libpsl
+    repo: core
+  tag: stable

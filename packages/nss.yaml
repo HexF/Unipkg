@@ -1,0 +1,8 @@
+name: nss
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: nss
+    repo: core
+  tag: stable

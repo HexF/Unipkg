@@ -1,0 +1,8 @@
+name: gpm
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gpm
+    repo: core
+  tag: stable

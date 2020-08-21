@@ -1,0 +1,8 @@
+name: gcc-fortran
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: gcc-fortran
+    repo: core
+  tag: stable

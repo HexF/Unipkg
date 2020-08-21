@@ -1,0 +1,8 @@
+name: m4
+tags:
+- default: true
+  packages:
+  - distro: arch
+    package: m4
+    repo: core
+  tag: stable
