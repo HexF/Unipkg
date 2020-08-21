@@ -24,7 +24,7 @@ jobs:
       - name: python dependencies
         run: pip3 install -r requirements.txt
       - name: make
-        run: make
+        run: make -j64
       - name: Upload database
         uses: actions/upload-artifact@v2.1.4
         with:
